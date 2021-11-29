@@ -1,0 +1,118 @@
+{
+  "columnData": [
+    {
+      "title": "Buyer",
+      "formId": "buyer"
+    },
+    {
+      "title": "Seller",
+      "formId": "seller"
+    },
+    {
+      "title": "Buyer",
+      "formId": "cp2Buyer"
+    },
+    {
+      "title": "Seller",
+      "formId": "cp2Seller"
+    }
+  ],
+  "clients": [
+    {
+      "id": "100114_43633_164918_164922_FWD",
+      "tradingCustomerId": 164922,
+      "tradingCustomerLegalName": "AMERICAN PRESIDENT BANK, HKG",
+      "tradingCustomerDisplayName": "AMERICAN PRESIDENT B",
+      "tradingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+      "tradingCustomerReutersCode": "APBH",
+      "tradingCustomerCodeLocationCode": "APBK.HKG",
+      "traders": [
+        {
+          "traderPostingId": 43633,
+          "traderPostingDisplayName": "BILL CLINTON",
+          "executingCustomerId": 164918,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, NYK",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBN"
+        }
+      ]
+    }
+  ],
+  "agents": [
+    {
+      "shortName": "42 FIN SERV S.R.O",
+      "locationName": "PRA",
+      "companyName": "42 FINANCIAL SERVICES S.R.O, PRA",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 170447
+    }
+  ],
+  "brokers": [
+    {
+      "id": 27581,
+      "name": "ADEM ZIA",
+      "deskId": 2039,
+      "deskName": "LON ASIAN NDF"
+    }
+  ],
+  "user": {
+    "permissions": {
+      "validForFwd": true,
+      "validForDeskEdit": true
+    },
+    "fullName": "BELFAST TPEUR TEST BROKER 1",
+    "preferences": {
+      "version": 3,
+      "preferredBrokers": [
+        {
+          "nickName": "ADEM ZIA",
+          "id": 27581,
+          "name": "ADEM ZIA",
+          "deskId": 2039,
+          "favourites": {
+            "clients": [],
+            "currencyPairs": [],
+            "terms": [],
+            "executionVenues": []
+          },
+          "editable": false
+        }
+      ],
+      "settings": {
+        "ratesFeed": false,
+        "displayClientFavourites": true,
+        "displayCurrencyFavourites": true,
+        "displayTermFavourites": true,
+        "dealSubmitSound": "ka-ching",
+        "colourScheme": "light",
+        "displayClients": true,
+        "displayExecutionVenueFavourites": true,
+        "lrMode": true,
+        "displayExecutionVenueColours": true
+      },
+      "defaults": {
+        "lastDealType": "FWD",
+        "dealDefaults": [
+          {
+            "executionVenue": "TEMM",
+            "counterCurrency": "CNY",
+            "dealtCurrency": "USD",
+            "key": "NDF",
+            "baseCurrency": "USD",
+            "lastUsedDealType": "FWD"
+          },
+          {
+            "executionVenue": "XOFF",
+            "counterCurrency": "THB",
+            "dealtCurrency": "USD",
+            "key": "FWD",
+            "baseCurrency": "USD",
+            "lastUsedDealType": "FWD"
+          }
+        ]
+      }
+    }
+  }
+}

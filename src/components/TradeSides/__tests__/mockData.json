@@ -1,0 +1,5820 @@
+{
+  "user": {
+    "permissions": {
+      "validForBlotterEdit": true,
+      "validForBlotterView": true,
+      "validForFwd": true,
+      "validForNdf": true,
+      "validForSpt": true,
+      "validForDeskEdit": true
+    },
+    "fullName": "BELFAST TPEUR TEST BROKER 1",
+    "preferences": {
+      "version": 3,
+      "preferredBrokers": [
+        {
+          "nickName": "BELFAST TPEUR TEST BROKER 1",
+          "id": 100114,
+          "name": "BELFAST TPEUR TEST BROKER 1",
+          "deskId": 8158,
+          "favourites": {
+            "clients": [
+              {
+                "nickName": "ABRAHAM LINCOLN",
+                "executingCustomerId": 164920,
+                "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+                "tradingCustomerId": 164920,
+                "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+                "tradingCustomerCodeLocationCode": "APBK.LON",
+                "traderPostingId": 43638,
+                "traderDisplayName": "ABRAHAM LINCOLN",
+                "agentCustomerId": 0
+              },
+              {
+                "nickName": "BILL CLINTON",
+                "executingCustomerId": 164918,
+                "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+                "tradingCustomerId": 164918,
+                "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+                "tradingCustomerCodeLocationCode": "APBK.NYK",
+                "traderPostingId": 43633,
+                "traderDisplayName": "BILL CLINTON",
+                "agentCustomerId": 0
+              },
+              {
+                "nickName": "FERNANDO PAIS",
+                "executingCustomerId": 143863,
+                "executingCustomerDisplayName": "UBS AG SAO PAULO BRANCH",
+                "tradingCustomerId": 105844,
+                "tradingCustomerDisplayName": "UBS AG",
+                "tradingCustomerCodeLocationCode": "UBSW.LON",
+                "traderPostingId": 66088,
+                "traderDisplayName": "FERNANDO PAIS",
+                "agentCustomerId": 0
+              },
+              {
+                "nickName": "AJAY ABROL",
+                "executingCustomerId": 109059,
+                "executingCustomerDisplayName": "BNP PARIBAS SINGAPORE BRANCH",
+                "tradingCustomerId": 109056,
+                "tradingCustomerDisplayName": "BNP PARIBAS SA",
+                "tradingCustomerCodeLocationCode": "BNPA.PAR",
+                "traderPostingId": 68385,
+                "traderDisplayName": "AJAY ABROL",
+                "agentCustomerId": 0
+              },
+              {
+                "nickName": "DWIGHT EISENHOWER",
+                "executingCustomerId": 164920,
+                "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+                "tradingCustomerId": 164920,
+                "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+                "tradingCustomerCodeLocationCode": "APBK.LON",
+                "traderPostingId": 43637,
+                "traderDisplayName": "DWIGHT EISENHOWER",
+                "agentCustomerId": 0
+              },
+              {
+                "nickName": "42 FIN SERV S.R.O",
+                "executingCustomerId": 0,
+                "tradingCustomerId": 105844,
+                "tradingCustomerDisplayName": "UBS AG",
+                "tradingCustomerCodeLocationCode": "UBSW.LON",
+                "traderPostingId": 0,
+                "agentCustomerId": 170447,
+                "agentDisplayShortName": "42 FIN SERV S.R.O"
+              },
+              {
+                "nickName": "42 FIN SERV S.R.O",
+                "executingCustomerId": 0,
+                "tradingCustomerId": 143863,
+                "tradingCustomerDisplayName": "UBS AG SAO PAULO BRANCH",
+                "tradingCustomerCodeLocationCode": "UBSA.SAO",
+                "traderPostingId": 0,
+                "agentCustomerId": 170447,
+                "agentDisplayShortName": "42 FIN SERV S.R.O"
+              },
+              {
+                "nickName": "RONALD REAGAN",
+                "executingCustomerId": 164918,
+                "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+                "tradingCustomerId": 164918,
+                "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+                "tradingCustomerCodeLocationCode": "APBK.NYK",
+                "traderPostingId": 43634,
+                "traderDisplayName": "RONALD REAGAN",
+                "agentCustomerId": 0
+              },
+              {
+                "nickName": "HENRY FORD",
+                "executingCustomerId": 164940,
+                "executingCustomerDisplayName": "FORD BANK",
+                "tradingCustomerId": 164940,
+                "tradingCustomerDisplayName": "FORD BANK",
+                "tradingCustomerCodeLocationCode": "FORD.NYK",
+                "traderPostingId": 43648,
+                "traderDisplayName": "HENRY FORD",
+                "agentCustomerId": 0
+              },
+              {
+                "nickName": "FRED FLINTSTONE",
+                "executingCustomerId": 164905,
+                "executingCustomerDisplayName": "FLINTSTONE FAMILY BANK",
+                "tradingCustomerId": 164907,
+                "tradingCustomerDisplayName": "RUBBLE FAMILY BANK",
+                "tradingCustomerCodeLocationCode": "RUBB.LON",
+                "traderPostingId": 43627,
+                "traderDisplayName": "FRED FLINTSTONE",
+                "agentCustomerId": 0
+              }
+            ],
+            "currencyPairs": [
+              {
+                "nickName": "USDIDR",
+                "baseCurrency": "USD",
+                "counterCurrency": "IDR",
+                "dealtCurrency": "USD"
+              },
+              {
+                "nickName": "USDCNH",
+                "baseCurrency": "USD",
+                "counterCurrency": "CNH",
+                "dealtCurrency": "USD"
+              },
+              {
+                "nickName": "USDCNY",
+                "baseCurrency": "USD",
+                "counterCurrency": "CNY",
+                "dealtCurrency": "USD"
+              },
+              {
+                "nickName": "EURUSD",
+                "baseCurrency": "EUR",
+                "counterCurrency": "USD",
+                "dealtCurrency": "EUR"
+              },
+              {
+                "nickName": "USDSGD",
+                "baseCurrency": "USD",
+                "counterCurrency": "SGD",
+                "dealtCurrency": "USD"
+              }
+            ],
+            "terms": [
+              {
+                "nickName": "1M",
+                "term": "1M"
+              },
+              {
+                "nickName": "07/10/2020",
+                "valueDate": "07/10/2020"
+              },
+              {
+                "nickName": "06/07/2020",
+                "valueDate": "06/07/2020"
+              },
+              {
+                "nickName": "1W",
+                "term": "1W"
+              },
+              {
+                "nickName": "22/10/2020",
+                "valueDate": "22/10/2020"
+              }
+            ],
+            "executionVenues": [
+              {
+                "nickName": "XOFF",
+                "executionVenue": "XOFF"
+              },
+              {
+                "nickName": "TIRD",
+                "executionVenue": "TIRD"
+              }
+            ]
+          },
+          "editable": true
+        },
+        {
+          "nickName": "BELFAST TPUS TEST BROKER 2",
+          "id": 100123,
+          "name": "BELFAST TPUS TEST BROKER 2",
+          "deskId": 8160,
+          "favourites": {
+            "clients": [
+              {
+                "nickName": "BILL CLINTON",
+                "executingCustomerId": 164918,
+                "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+                "tradingCustomerId": 164918,
+                "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+                "tradingCustomerCodeLocationCode": "APBK.NYK",
+                "traderPostingId": 43633,
+                "traderDisplayName": "BILL CLINTON",
+                "agentCustomerId": 0
+              },
+              {
+                "nickName": "BILL CLINTON",
+                "executingCustomerId": 164920,
+                "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+                "tradingCustomerId": 164920,
+                "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+                "tradingCustomerCodeLocationCode": "APBK.LON",
+                "traderPostingId": 43633,
+                "traderDisplayName": "BILL CLINTON",
+                "agentCustomerId": 0
+              }
+            ],
+            "currencyPairs": [],
+            "terms": [],
+            "executionVenues": []
+          },
+          "editable": true
+        },
+        {
+          "nickName": "BELFAST TPEUR TEST BROKER 4",
+          "id": 100117,
+          "name": "BELFAST TPEUR TEST BROKER 4",
+          "deskId": 8158,
+          "favourites": {
+            "clients": [
+              {
+                "nickName": "HAROLD WILSON",
+                "executingCustomerId": 164927,
+                "executingCustomerDisplayName": "BRITISH PRIME MINISTER BANK",
+                "tradingCustomerId": 164927,
+                "tradingCustomerDisplayName": "BRITISH PRIME MINISTER BANK",
+                "tradingCustomerCodeLocationCode": "BPMB.LON",
+                "traderPostingId": 43640,
+                "traderDisplayName": "HAROLD WILSON",
+                "agentCustomerId": 0
+              },
+              {
+                "nickName": "AJAY ABROL",
+                "executingCustomerId": 109059,
+                "executingCustomerDisplayName": "BNP PARIBAS SINGAPORE BRANCH",
+                "tradingCustomerId": 109056,
+                "tradingCustomerDisplayName": "BNP PARIBAS SA",
+                "tradingCustomerCodeLocationCode": "BNPA.PAR",
+                "traderPostingId": 68385,
+                "traderDisplayName": "AJAY ABROL",
+                "agentCustomerId": 0
+              },
+              {
+                "nickName": "AFS MONEY BROKERS",
+                "executingCustomerId": 0,
+                "tradingCustomerId": 105844,
+                "tradingCustomerDisplayName": "UBS AG",
+                "tradingCustomerCodeLocationCode": "UBSW.LON",
+                "traderPostingId": 0,
+                "agentCustomerId": 165386,
+                "agentDisplayShortName": "AFS MONEY BROKERS"
+              },
+              {
+                "nickName": "BILL CLINTON",
+                "executingCustomerId": 164918,
+                "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+                "tradingCustomerId": 164918,
+                "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+                "tradingCustomerCodeLocationCode": "APBK.NYK",
+                "traderPostingId": 43633,
+                "traderDisplayName": "BILL CLINTON",
+                "agentCustomerId": 0
+              },
+              {
+                "nickName": "FERNANDO PAIS",
+                "executingCustomerId": 143863,
+                "executingCustomerDisplayName": "UBS AG SAO PAULO BRANCH",
+                "tradingCustomerId": 105844,
+                "tradingCustomerDisplayName": "UBS AG",
+                "tradingCustomerCodeLocationCode": "UBSW.LON",
+                "traderPostingId": 66088,
+                "traderDisplayName": "FERNANDO PAIS",
+                "agentCustomerId": 0
+              }
+            ],
+            "currencyPairs": [
+              {
+                "nickName": "USDKRW",
+                "baseCurrency": "USD",
+                "counterCurrency": "KRW",
+                "dealtCurrency": "USD"
+              },
+              {
+                "nickName": "USDBRL",
+                "baseCurrency": "USD",
+                "counterCurrency": "BRL",
+                "dealtCurrency": "USD"
+              }
+            ],
+            "terms": [
+              {
+                "nickName": "5Y",
+                "term": "5Y"
+              },
+              {
+                "nickName": "1W",
+                "term": "1W"
+              }
+            ],
+            "executionVenues": []
+          },
+          "editable": true
+        }
+      ],
+      "settings": {
+        "ratesFeed": true,
+        "displayClientFavourites": true,
+        "displayCurrencyFavourites": true,
+        "displayTermFavourites": true,
+        "dealSubmitSound": "ka-ching",
+        "colourScheme": "light",
+        "displayClients": true,
+        "displayExecutionVenueFavourites": true,
+        "lrMode": false,
+        "displayExecutionVenueColours": true
+      },
+      "defaults": {
+        "lastDealType": "FWD",
+        "dealDefaults": [
+          {
+            "executionVenue": "TPSEF",
+            "counterCurrency": "CNY",
+            "dealtCurrency": "USD",
+            "key": "NDF",
+            "baseCurrency": "USD",
+            "lastUsedDealType": "FWD"
+          },
+          {
+            "executionVenue": "XOFF",
+            "counterCurrency": "CNH",
+            "dealtCurrency": "USD",
+            "key": "FWD",
+            "baseCurrency": "USD"
+          },
+          {
+            "executionVenue": "XOFF",
+            "counterCurrency": "SGD",
+            "dealtCurrency": "USD",
+            "key": "SPT",
+            "baseCurrency": "USD"
+          }
+        ]
+      }
+    },
+    "productTypes": "FX"
+  },
+  "currencies": [
+    {
+      "baseCurrency": "AUD",
+      "counterCurrency": "USD",
+      "instrumentId": 10800,
+      "baseCurrencyDayCountYear": "365",
+      "counterCurrencyDayCountYear": "365",
+      "scalingFactor": 0.0001
+    },
+    {
+      "baseCurrency": "EUR",
+      "counterCurrency": "BRL",
+      "instrumentId": 10200,
+      "baseCurrencyDayCountYear": "365",
+      "counterCurrencyDayCountYear": "365",
+      "scalingFactor": 0.0001
+    },
+    {
+      "baseCurrency": "EUR",
+      "counterCurrency": "COP",
+      "instrumentId": 10000,
+      "baseCurrencyDayCountYear": "365",
+      "counterCurrencyDayCountYear": "365",
+      "scalingFactor": 0.01
+    },
+    {
+      "baseCurrency": "USD",
+      "counterCurrency": "ARS",
+      "instrumentId": 9600,
+      "baseCurrencyDayCountYear": "360",
+      "counterCurrencyDayCountYear": "360",
+      "scalingFactor": 0.0001
+    },
+    {
+      "baseCurrency": "USD",
+      "counterCurrency": "BRL",
+      "instrumentId": 9601,
+      "baseCurrencyDayCountYear": "360",
+      "counterCurrencyDayCountYear": "360",
+      "scalingFactor": 0.0001
+    },
+    {
+      "baseCurrency": "USD",
+      "counterCurrency": "CLP",
+      "instrumentId": 9602,
+      "baseCurrencyDayCountYear": "360",
+      "counterCurrencyDayCountYear": "360",
+      "scalingFactor": 0.01
+    },
+    {
+      "baseCurrency": "USD",
+      "counterCurrency": "CNH",
+      "instrumentId": 10700,
+      "baseCurrencyDayCountYear": "360",
+      "counterCurrencyDayCountYear": "360",
+      "scalingFactor": 0.0001
+    },
+    {
+      "baseCurrency": "USD",
+      "counterCurrency": "CNY",
+      "instrumentId": 9603,
+      "baseCurrencyDayCountYear": "360",
+      "counterCurrencyDayCountYear": "360",
+      "scalingFactor": 0.0001
+    },
+    {
+      "baseCurrency": "USD",
+      "counterCurrency": "COP",
+      "instrumentId": 9604,
+      "baseCurrencyDayCountYear": "360",
+      "counterCurrencyDayCountYear": "360",
+      "scalingFactor": 0.01
+    },
+    {
+      "baseCurrency": "USD",
+      "counterCurrency": "EGP",
+      "instrumentId": 9700,
+      "baseCurrencyDayCountYear": "360",
+      "counterCurrencyDayCountYear": "360",
+      "scalingFactor": 0.01
+    },
+    {
+      "baseCurrency": "USD",
+      "counterCurrency": "IDR",
+      "instrumentId": 9605,
+      "baseCurrencyDayCountYear": "360",
+      "counterCurrencyDayCountYear": "360",
+      "scalingFactor": 0.01
+    },
+    {
+      "baseCurrency": "USD",
+      "counterCurrency": "INR",
+      "instrumentId": 9606,
+      "baseCurrencyDayCountYear": "360",
+      "counterCurrencyDayCountYear": "360",
+      "scalingFactor": 0.0001
+    },
+    {
+      "baseCurrency": "USD",
+      "counterCurrency": "KES",
+      "instrumentId": 9801,
+      "baseCurrencyDayCountYear": "360",
+      "counterCurrencyDayCountYear": "360",
+      "scalingFactor": 0.0001
+    },
+    {
+      "baseCurrency": "USD",
+      "counterCurrency": "KRW",
+      "instrumentId": 9607,
+      "baseCurrencyDayCountYear": "360",
+      "counterCurrencyDayCountYear": "360",
+      "scalingFactor": 0.01
+    },
+    {
+      "baseCurrency": "USD",
+      "counterCurrency": "KZT",
+      "instrumentId": 9802,
+      "baseCurrencyDayCountYear": "360",
+      "counterCurrencyDayCountYear": "360",
+      "scalingFactor": 0.1
+    },
+    {
+      "baseCurrency": "USD",
+      "counterCurrency": "MYR",
+      "instrumentId": 9608,
+      "baseCurrencyDayCountYear": "360",
+      "counterCurrencyDayCountYear": "360",
+      "scalingFactor": 0.0001
+    },
+    {
+      "baseCurrency": "USD",
+      "counterCurrency": "PEN",
+      "instrumentId": 9609,
+      "baseCurrencyDayCountYear": "360",
+      "counterCurrencyDayCountYear": "360",
+      "scalingFactor": 0.0001
+    },
+    {
+      "baseCurrency": "USD",
+      "counterCurrency": "PHP",
+      "instrumentId": 10100,
+      "baseCurrencyDayCountYear": "360",
+      "counterCurrencyDayCountYear": "360",
+      "scalingFactor": 0.0001
+    },
+    {
+      "baseCurrency": "USD",
+      "counterCurrency": "RUB",
+      "instrumentId": 9611,
+      "baseCurrencyDayCountYear": "360",
+      "counterCurrencyDayCountYear": "360",
+      "scalingFactor": 0.0001
+    },
+    {
+      "baseCurrency": "USD",
+      "counterCurrency": "TWD",
+      "instrumentId": 9804,
+      "baseCurrencyDayCountYear": "360",
+      "counterCurrencyDayCountYear": "360",
+      "scalingFactor": 0.01
+    },
+    {
+      "baseCurrency": "USD",
+      "counterCurrency": "UAH",
+      "instrumentId": 9805,
+      "baseCurrencyDayCountYear": "360",
+      "counterCurrencyDayCountYear": "360",
+      "scalingFactor": 0.001
+    }
+  ],
+  "dates": {
+    "fixingDate": "2020-08-27T16:00:00.000Z",
+    "valueDate": "2020-08-31T16:00:00.000Z",
+    "spotDate": "2020-07-29T16:00:00.000Z",
+    "publishDate": {
+      "near": "2020-08-27T16:00:00.000Z"
+    },
+    "forwardStart": {
+      "near": false
+    }
+  },
+  "rates": {
+    "rate": 7.0106,
+    "statusCode": 0,
+    "statusText": "No Status Description received from Tailor"
+  },
+  "ui": {
+    "isThirdCPChecked": false,
+    "isInterestEnabled": false,
+    "selectedTradeSide": "buyer",
+    "selectedPreferenceBroker": "8158,100114",
+    "selectedPreferenceFirms": [
+      {
+        "nickName": "APBK.LON",
+        "tradingCustomerCodeLocationCode": "APBK.LON",
+        "tradingCustomerId": 164920,
+        "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+        "isActive": false
+      },
+      {
+        "nickName": "APBK.NYK",
+        "tradingCustomerCodeLocationCode": "APBK.NYK",
+        "tradingCustomerId": 164918,
+        "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+        "isActive": false
+      },
+      {
+        "nickName": "BNPA.PAR",
+        "tradingCustomerCodeLocationCode": "BNPA.PAR",
+        "tradingCustomerId": 109056,
+        "tradingCustomerDisplayName": "BNP PARIBAS SA",
+        "isActive": false
+      },
+      {
+        "nickName": "FORD.NYK",
+        "tradingCustomerCodeLocationCode": "FORD.NYK",
+        "tradingCustomerId": 164940,
+        "tradingCustomerDisplayName": "FORD BANK",
+        "isActive": false
+      },
+      {
+        "nickName": "RUBB.LON",
+        "tradingCustomerCodeLocationCode": "RUBB.LON",
+        "tradingCustomerId": 164907,
+        "tradingCustomerDisplayName": "RUBBLE FAMILY BANK",
+        "isActive": false
+      },
+      {
+        "nickName": "UBSA.SAO",
+        "tradingCustomerCodeLocationCode": "UBSA.SAO",
+        "tradingCustomerId": 143863,
+        "tradingCustomerDisplayName": "UBS AG SAO PAULO BRANCH",
+        "isActive": false
+      },
+      {
+        "nickName": "UBSW.LON",
+        "tradingCustomerCodeLocationCode": "UBSW.LON",
+        "tradingCustomerId": 105844,
+        "tradingCustomerDisplayName": "UBS AG",
+        "isActive": false
+      }
+    ],
+    "selectedPreferenceClients": [
+      {
+        "nickName": "ABRAHAM LINCOLN",
+        "executingCustomerId": 164920,
+        "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+        "tradingCustomerId": 164920,
+        "traderPostingId": 43638,
+        "traderDisplayName": "ABRAHAM LINCOLN",
+        "agentCustomerId": 0
+      },
+      {
+        "nickName": "BILL CLINTON",
+        "executingCustomerId": 164918,
+        "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+        "tradingCustomerId": 164918,
+        "traderPostingId": 43633,
+        "traderDisplayName": "BILL CLINTON",
+        "agentCustomerId": 0
+      },
+      {
+        "nickName": "FERNANDO PAIS",
+        "executingCustomerId": 143863,
+        "executingCustomerDisplayName": "UBS AG SAO PAULO BRANCH",
+        "tradingCustomerId": 105844,
+        "traderPostingId": 66088,
+        "traderDisplayName": "FERNANDO PAIS",
+        "agentCustomerId": 0
+      },
+      {
+        "nickName": "AJAY ABROL",
+        "executingCustomerId": 109059,
+        "executingCustomerDisplayName": "BNP PARIBAS SINGAPORE BRANCH",
+        "tradingCustomerId": 109056,
+        "traderPostingId": 68385,
+        "traderDisplayName": "AJAY ABROL",
+        "agentCustomerId": 0
+      },
+      {
+        "nickName": "DWIGHT EISENHOWER",
+        "executingCustomerId": 164920,
+        "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+        "tradingCustomerId": 164920,
+        "traderPostingId": 43637,
+        "traderDisplayName": "DWIGHT EISENHOWER",
+        "agentCustomerId": 0
+      },
+      {
+        "nickName": "42 FIN SERV S.R.O",
+        "executingCustomerId": 0,
+        "tradingCustomerId": 105844,
+        "traderPostingId": 0,
+        "agentCustomerId": 170447,
+        "agentDisplayShortName": "42 FIN SERV S.R.O"
+      },
+      {
+        "nickName": "42 FIN SERV S.R.O",
+        "executingCustomerId": 0,
+        "tradingCustomerId": 143863,
+        "traderPostingId": 0,
+        "agentCustomerId": 170447,
+        "agentDisplayShortName": "42 FIN SERV S.R.O"
+      },
+      {
+        "nickName": "RONALD REAGAN",
+        "executingCustomerId": 164918,
+        "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+        "tradingCustomerId": 164918,
+        "traderPostingId": 43634,
+        "traderDisplayName": "RONALD REAGAN",
+        "agentCustomerId": 0
+      },
+      {
+        "nickName": "HENRY FORD",
+        "executingCustomerId": 164940,
+        "executingCustomerDisplayName": "FORD BANK",
+        "tradingCustomerId": 164940,
+        "traderPostingId": 43648,
+        "traderDisplayName": "HENRY FORD",
+        "agentCustomerId": 0
+      },
+      {
+        "nickName": "FRED FLINTSTONE",
+        "executingCustomerId": 164905,
+        "executingCustomerDisplayName": "FLINTSTONE FAMILY BANK",
+        "tradingCustomerId": 164907,
+        "traderPostingId": 43627,
+        "traderDisplayName": "FRED FLINTSTONE",
+        "agentCustomerId": 0
+      }
+    ],
+    "selectedPreferenceFirm": null,
+    "lastSetTerm": "term1",
+    "termValues": {
+      "term1": "33D"
+    },
+    "clientHoverInfo": {},
+    "isSettingsModalVisible": false,
+    "isFavRenamePopupVisible": false,
+    "selectedFavItem": {},
+    "selectedDealType": "NDF",
+    "selectedStrategyType": "Outright",
+    "isTradeDateConfirmModalVisible": false,
+    "isTradeDateEnabled": false
+  },
+  "clients": [
+    {
+      "id": "100114_43633_164918_164922_NDF",
+      "tradingCustomerId": 164922,
+      "tradingCustomerLegalName": "AMERICAN PRESIDENT BANK, HKG",
+      "tradingCustomerDisplayName": "AMERICAN PRESIDENT B",
+      "tradingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+      "tradingCustomerReutersCode": "APBH",
+      "tradingCustomerCodeLocationCode": "APBK.HKG",
+      "traders": [
+        {
+          "traderPostingId": 43633,
+          "traderPostingDisplayName": "BILL CLINTON",
+          "executingCustomerId": 164918,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, NYK",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBN"
+        },
+        {
+          "traderPostingId": 43637,
+          "traderPostingDisplayName": "DWIGHT EISENHOWER",
+          "executingCustomerId": 164922,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, HKG",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBH"
+        },
+        {
+          "traderPostingId": 43635,
+          "traderPostingDisplayName": "JOHN KENNEDY",
+          "executingCustomerId": 164918,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, NYK",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBN"
+        },
+        {
+          "traderPostingId": 43635,
+          "traderPostingDisplayName": "JOHN KENNEDY",
+          "executingCustomerId": 164920,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, LON",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBL"
+        }
+      ]
+    },
+    {
+      "id": "100114_43633_164918_164920_NDF",
+      "tradingCustomerId": 164920,
+      "tradingCustomerLegalName": "AMERICAN PRESIDENT BANK, LON",
+      "tradingCustomerDisplayName": "AMERICAN PRESIDENT B",
+      "tradingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+      "tradingCustomerReutersCode": "APBL",
+      "tradingCustomerCodeLocationCode": "APBK.LON",
+      "traders": [
+        {
+          "traderPostingId": 43633,
+          "traderPostingDisplayName": "BILL CLINTON",
+          "executingCustomerId": 164918,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, NYK",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBN"
+        },
+        {
+          "traderPostingId": 43633,
+          "traderPostingDisplayName": "BILL CLINTON",
+          "executingCustomerId": 164920,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, LON",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBL"
+        },
+        {
+          "traderPostingId": 43633,
+          "traderPostingDisplayName": "BILL CLINTON",
+          "executingCustomerId": 164922,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, HKG",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBH"
+        },
+        {
+          "traderPostingId": 43637,
+          "traderPostingDisplayName": "DWIGHT EISENHOWER",
+          "executingCustomerId": 164920,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, LON",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBL"
+        },
+        {
+          "traderPostingId": 43635,
+          "traderPostingDisplayName": "JOHN KENNEDY",
+          "executingCustomerId": 164920,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, LON",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBL"
+        },
+        {
+          "traderPostingId": 43635,
+          "traderPostingDisplayName": "JOHN KENNEDY",
+          "executingCustomerId": 174338,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK_AUTO, PAR",
+          "executingCustomerDisplayName": "AMERICAN PRES_AUTO",
+          "executingCustomerLeiCode": null,
+          "executingCustomerReutersCode": " "
+        }
+      ]
+    },
+    {
+      "id": "100114_43633_164918_164918_NDF",
+      "tradingCustomerId": 164918,
+      "tradingCustomerLegalName": "AMERICAN PRESIDENT BANK, NYK",
+      "tradingCustomerDisplayName": "AMERICAN PRESIDENT B",
+      "tradingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+      "tradingCustomerReutersCode": "APBN",
+      "tradingCustomerCodeLocationCode": "APBK.NYK",
+      "traders": [
+        {
+          "traderPostingId": 43633,
+          "traderPostingDisplayName": "BILL CLINTON",
+          "executingCustomerId": 164918,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, NYK",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBN"
+        },
+        {
+          "traderPostingId": 43635,
+          "traderPostingDisplayName": "JOHN KENNEDY",
+          "executingCustomerId": 164918,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, NYK",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBN"
+        },
+        {
+          "traderPostingId": 43635,
+          "traderPostingDisplayName": "JOHN KENNEDY",
+          "executingCustomerId": 164920,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, LON",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBL"
+        },
+        {
+          "traderPostingId": 43634,
+          "traderPostingDisplayName": "RONALD REAGAN",
+          "executingCustomerId": 164918,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, NYK",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBN"
+        },
+        {
+          "traderPostingId": 43634,
+          "traderPostingDisplayName": "RONALD REAGAN",
+          "executingCustomerId": 164920,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, LON",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBL"
+        }
+      ]
+    },
+    {
+      "id": "100114_43633_164923_164923_NDF",
+      "tradingCustomerId": 164923,
+      "tradingCustomerLegalName": "AMERICAN PRESIDENT BANK, SIN",
+      "tradingCustomerDisplayName": "AMERICAN PRESIDENT B",
+      "tradingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+      "tradingCustomerReutersCode": "APBS",
+      "tradingCustomerCodeLocationCode": "APBK.SIN",
+      "traders": [
+        {
+          "traderPostingId": 43633,
+          "traderPostingDisplayName": "BILL CLINTON",
+          "executingCustomerId": 164923,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, SIN",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBS"
+        },
+        {
+          "traderPostingId": 43635,
+          "traderPostingDisplayName": "JOHN KENNEDY",
+          "executingCustomerId": 164920,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, LON",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBL"
+        },
+        {
+          "traderPostingId": 43635,
+          "traderPostingDisplayName": "JOHN KENNEDY",
+          "executingCustomerId": 164923,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, SIN",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBS"
+        }
+      ]
+    },
+    {
+      "id": "100114_43635_164922_174343_NDF",
+      "tradingCustomerId": 174343,
+      "tradingCustomerLegalName": "AMERICAN PRESIDENT BANK_AUTO, HKG",
+      "tradingCustomerDisplayName": "AMERICAN PRES_AUTO",
+      "tradingCustomerLeiCode": null,
+      "tradingCustomerReutersCode": " ",
+      "tradingCustomerCodeLocationCode": "AMER.HKG",
+      "traders": [
+        {
+          "traderPostingId": 43635,
+          "traderPostingDisplayName": "JOHN KENNEDY",
+          "executingCustomerId": 164922,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, HKG",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBH"
+        }
+      ]
+    },
+    {
+      "id": "100114_46893_104054_112455_NDF",
+      "tradingCustomerId": 112455,
+      "tradingCustomerLegalName": "BARCLAYS BANK PLC WHOLESALE, LON",
+      "tradingCustomerDisplayName": "BARCLAYS BANK WH",
+      "tradingCustomerLeiCode": "G5GSEF7VJP5I7OUK5573",
+      "tradingCustomerReutersCode": "BARC",
+      "tradingCustomerCodeLocationCode": "BARC.LON",
+      "traders": [
+        {
+          "traderPostingId": 46893,
+          "traderPostingDisplayName": "CHAN YOUNG KIM",
+          "executingCustomerId": 104054,
+          "executingCustomerLegalName": "BARCLAYS BANK PLC, SIN",
+          "executingCustomerDisplayName": "BARCLAYS BANK PLC",
+          "executingCustomerLeiCode": "G5GSEF7VJP5I7OUK5573",
+          "executingCustomerReutersCode": "BBIS"
+        }
+      ]
+    },
+    {
+      "id": "100114_46893_104054_104054_NDF",
+      "tradingCustomerId": 104054,
+      "tradingCustomerLegalName": "BARCLAYS BANK PLC, SIN",
+      "tradingCustomerDisplayName": "BARCLAYS BANK PLC",
+      "tradingCustomerLeiCode": "G5GSEF7VJP5I7OUK5573",
+      "tradingCustomerReutersCode": "BBIS",
+      "tradingCustomerCodeLocationCode": "BARC.SIN",
+      "traders": [
+        {
+          "traderPostingId": 46893,
+          "traderPostingDisplayName": "CHAN YOUNG KIM",
+          "executingCustomerId": 104054,
+          "executingCustomerLegalName": "BARCLAYS BANK PLC, SIN",
+          "executingCustomerDisplayName": "BARCLAYS BANK PLC",
+          "executingCustomerLeiCode": "G5GSEF7VJP5I7OUK5573",
+          "executingCustomerReutersCode": "BBIS"
+        }
+      ]
+    },
+    {
+      "id": "100114_68385_109059_109056_NDF",
+      "tradingCustomerId": 109056,
+      "tradingCustomerLegalName": "BNP PARIBAS SA, PAR",
+      "tradingCustomerDisplayName": "BNP PARIBAS SA",
+      "tradingCustomerLeiCode": "R0MUWSFPU8MPRO8K5P83",
+      "tradingCustomerReutersCode": "BNPP",
+      "tradingCustomerCodeLocationCode": "BNPA.PAR",
+      "traders": [
+        {
+          "traderPostingId": 68385,
+          "traderPostingDisplayName": "AJAY ABROL",
+          "executingCustomerId": 109059,
+          "executingCustomerLegalName": "BNP PARIBAS SINGAPORE BRANCH, SIN",
+          "executingCustomerDisplayName": "BNP PARIBAS SINGAPOR",
+          "executingCustomerLeiCode": "R0MUWSFPU8MPRO8K5P83",
+          "executingCustomerReutersCode": "BPSS"
+        }
+      ]
+    },
+    {
+      "id": "100114_68385_109059_109059_NDF",
+      "tradingCustomerId": 109059,
+      "tradingCustomerLegalName": "BNP PARIBAS SINGAPORE BRANCH, SIN",
+      "tradingCustomerDisplayName": "BNP PARIBAS SINGAPOR",
+      "tradingCustomerLeiCode": "R0MUWSFPU8MPRO8K5P83",
+      "tradingCustomerReutersCode": "BPSS",
+      "tradingCustomerCodeLocationCode": "BNPA.SIN",
+      "traders": [
+        {
+          "traderPostingId": 68385,
+          "traderPostingDisplayName": "AJAY ABROL",
+          "executingCustomerId": 109059,
+          "executingCustomerLegalName": "BNP PARIBAS SINGAPORE BRANCH, SIN",
+          "executingCustomerDisplayName": "BNP PARIBAS SINGAPOR",
+          "executingCustomerLeiCode": "R0MUWSFPU8MPRO8K5P83",
+          "executingCustomerReutersCode": "BPSS"
+        }
+      ]
+    },
+    {
+      "id": "100114_43640_164927_164927_NDF",
+      "tradingCustomerId": 164927,
+      "tradingCustomerLegalName": "BRITISH PRIME MINISTER BANK, LON",
+      "tradingCustomerDisplayName": "BRITISH PRIME MIN BK",
+      "tradingCustomerLeiCode": "TEST58KFOO3L4RHOMP51",
+      "tradingCustomerReutersCode": "BPML",
+      "tradingCustomerCodeLocationCode": "BPMB.LON",
+      "traders": [
+        {
+          "traderPostingId": 43640,
+          "traderPostingDisplayName": "HAROLD WILSON",
+          "executingCustomerId": 164927,
+          "executingCustomerLegalName": "BRITISH PRIME MINISTER BANK, LON",
+          "executingCustomerDisplayName": "BRITISH PRIME MIN BK",
+          "executingCustomerLeiCode": "TEST58KFOO3L4RHOMP51",
+          "executingCustomerReutersCode": "BPML"
+        }
+      ]
+    },
+    {
+      "id": "100114_43635_164920_164929_NDF",
+      "tradingCustomerId": 164929,
+      "tradingCustomerLegalName": "BRITISH PRIME MINISTER BANK, SIN",
+      "tradingCustomerDisplayName": "BRITISH PRIME MIN BK",
+      "tradingCustomerLeiCode": "TEST58KFOO3L4RHOMP51",
+      "tradingCustomerReutersCode": "BPMS",
+      "tradingCustomerCodeLocationCode": "BPMB.SIN",
+      "traders": [
+        {
+          "traderPostingId": 43635,
+          "traderPostingDisplayName": "JOHN KENNEDY",
+          "executingCustomerId": 164920,
+          "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, LON",
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+          "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+          "executingCustomerReutersCode": "APBL"
+        }
+      ]
+    },
+    {
+      "id": "100114_58057_104284_104284_NDF",
+      "tradingCustomerId": 104284,
+      "tradingCustomerLegalName": "CITIBANK NA, HKG",
+      "tradingCustomerDisplayName": "CITIBANK NA",
+      "tradingCustomerLeiCode": "N1FBEDJ5J41VKZLO2475",
+      "tradingCustomerReutersCode": "CITK",
+      "tradingCustomerCodeLocationCode": "CITI.HKG",
+      "traders": [
+        {
+          "traderPostingId": 58057,
+          "traderPostingDisplayName": "ALEX TANG",
+          "executingCustomerId": 104284,
+          "executingCustomerLegalName": "CITIBANK NA, HKG",
+          "executingCustomerDisplayName": "CITIBANK NA",
+          "executingCustomerLeiCode": "N1FBEDJ5J41VKZLO2475",
+          "executingCustomerReutersCode": "CITK"
+        }
+      ]
+    },
+    {
+      "id": "100114_58057_104284_104286_NDF",
+      "tradingCustomerId": 104286,
+      "tradingCustomerLegalName": "CITIBANK NA, LON",
+      "tradingCustomerDisplayName": "CITIBANK NA",
+      "tradingCustomerLeiCode": "N1FBEDJ5J41VKZLO2475",
+      "tradingCustomerReutersCode": "CITL",
+      "tradingCustomerCodeLocationCode": "CITI.LON",
+      "traders": [
+        {
+          "traderPostingId": 58057,
+          "traderPostingDisplayName": "ALEX TANG",
+          "executingCustomerId": 104284,
+          "executingCustomerLegalName": "CITIBANK NA, HKG",
+          "executingCustomerDisplayName": "CITIBANK NA",
+          "executingCustomerLeiCode": "N1FBEDJ5J41VKZLO2475",
+          "executingCustomerReutersCode": "CITK"
+        },
+        {
+          "traderPostingId": 7750,
+          "traderPostingDisplayName": "NICK FARRELL",
+          "executingCustomerId": 104286,
+          "executingCustomerLegalName": "CITIBANK NA, LON",
+          "executingCustomerDisplayName": "CITIBANK NA",
+          "executingCustomerLeiCode": "N1FBEDJ5J41VKZLO2475",
+          "executingCustomerReutersCode": "CITL"
+        }
+      ]
+    },
+    {
+      "id": "100114_7750_104286_107558_NDF",
+      "tradingCustomerId": 107558,
+      "tradingCustomerLegalName": "CITIGROUP GLOBAL MARKETS LTD, LON",
+      "tradingCustomerDisplayName": "CITIGRP GLOB MKT LTD",
+      "tradingCustomerLeiCode": "XKZZ2JZF41MRHTR1V493",
+      "tradingCustomerReutersCode": "CXOP",
+      "tradingCustomerCodeLocationCode": "SBIL.LON",
+      "traders": [
+        {
+          "traderPostingId": 7750,
+          "traderPostingDisplayName": "NICK FARRELL",
+          "executingCustomerId": 104286,
+          "executingCustomerLegalName": "CITIBANK NA, LON",
+          "executingCustomerDisplayName": "CITIBANK NA",
+          "executingCustomerLeiCode": "N1FBEDJ5J41VKZLO2475",
+          "executingCustomerReutersCode": "CITL"
+        }
+      ]
+    },
+    {
+      "id": "100114_59813_104579_104575_NDF",
+      "tradingCustomerId": 104575,
+      "tradingCustomerLegalName": "DEUTSCHE BANK AG, LON",
+      "tradingCustomerDisplayName": "DEUTSCHE BK AG",
+      "tradingCustomerLeiCode": "7LTWFZYICNSX8D621K86",
+      "tradingCustomerReutersCode": "DEUK",
+      "tradingCustomerCodeLocationCode": "DEUT.LON",
+      "traders": [
+        {
+          "traderPostingId": 59813,
+          "traderPostingDisplayName": "BOON-KIT LIM",
+          "executingCustomerId": 104579,
+          "executingCustomerLegalName": "DEUTSCHE BANK AG, SIN",
+          "executingCustomerDisplayName": "DEUTSCHE BK AG",
+          "executingCustomerLeiCode": "7LTWFZYICNSX8D621K86",
+          "executingCustomerReutersCode": "DEUS"
+        }
+      ]
+    },
+    {
+      "id": "100114_59813_104579_104579_NDF",
+      "tradingCustomerId": 104579,
+      "tradingCustomerLegalName": "DEUTSCHE BANK AG, SIN",
+      "tradingCustomerDisplayName": "DEUTSCHE BK AG",
+      "tradingCustomerLeiCode": "7LTWFZYICNSX8D621K86",
+      "tradingCustomerReutersCode": "DEUS",
+      "tradingCustomerCodeLocationCode": "DEUT.SIN",
+      "traders": [
+        {
+          "traderPostingId": 59813,
+          "traderPostingDisplayName": "BOON-KIT LIM",
+          "executingCustomerId": 104579,
+          "executingCustomerLegalName": "DEUTSCHE BANK AG, SIN",
+          "executingCustomerDisplayName": "DEUTSCHE BK AG",
+          "executingCustomerLeiCode": "7LTWFZYICNSX8D621K86",
+          "executingCustomerReutersCode": "DEUS"
+        }
+      ]
+    },
+    {
+      "id": "100114_43648_164940_164942_NDF",
+      "tradingCustomerId": 164942,
+      "tradingCustomerLegalName": "FERRARI BANK, ROM",
+      "tradingCustomerDisplayName": "FERRARI BANK",
+      "tradingCustomerLeiCode": "TESTC8BVG1BCZB3JH189",
+      "tradingCustomerReutersCode": "FERR",
+      "tradingCustomerCodeLocationCode": "FERR.ROM",
+      "traders": [
+        {
+          "traderPostingId": 43649,
+          "traderPostingDisplayName": "ENZO FERRARI",
+          "executingCustomerId": 164942,
+          "executingCustomerLegalName": "FERRARI BANK, ROM",
+          "executingCustomerDisplayName": "FERRARI BANK",
+          "executingCustomerLeiCode": "TESTC8BVG1BCZB3JH189",
+          "executingCustomerReutersCode": "FERR"
+        },
+        {
+          "traderPostingId": 43648,
+          "traderPostingDisplayName": "HENRY FORD",
+          "executingCustomerId": 164940,
+          "executingCustomerLegalName": "FORD BANK, NYK",
+          "executingCustomerDisplayName": "FORD BANK",
+          "executingCustomerLeiCode": "TESTC8BVG1BCZB3JH189",
+          "executingCustomerReutersCode": "FORD"
+        }
+      ]
+    },
+    {
+      "id": "100114_43627_164905_164905_NDF",
+      "tradingCustomerId": 164905,
+      "tradingCustomerLegalName": "FLINTSTONE FAMILY BANK, LON",
+      "tradingCustomerDisplayName": "FLINTSTONE FAMILY BK",
+      "tradingCustomerLeiCode": "TEST14NMZDUA8XT73U42",
+      "tradingCustomerReutersCode": "FLIN",
+      "tradingCustomerCodeLocationCode": "FLIN.LON",
+      "traders": [
+        {
+          "traderPostingId": 43627,
+          "traderPostingDisplayName": "FRED FLINTSTONE",
+          "executingCustomerId": 164905,
+          "executingCustomerLegalName": "FLINTSTONE FAMILY BANK, LON",
+          "executingCustomerDisplayName": "FLINTSTONE FAMILY BK",
+          "executingCustomerLeiCode": "TEST14NMZDUA8XT73U42",
+          "executingCustomerReutersCode": "FLIN"
+        }
+      ]
+    },
+    {
+      "id": "100114_43648_164940_164940_NDF",
+      "tradingCustomerId": 164940,
+      "tradingCustomerLegalName": "FORD BANK, NYK",
+      "tradingCustomerDisplayName": "FORD BANK",
+      "tradingCustomerLeiCode": "TESTC8BVG1BCZB3JH189",
+      "tradingCustomerReutersCode": "FORD",
+      "tradingCustomerCodeLocationCode": "FORD.NYK",
+      "traders": [
+        {
+          "traderPostingId": 43649,
+          "traderPostingDisplayName": "ENZO FERRARI",
+          "executingCustomerId": 164940,
+          "executingCustomerLegalName": "FORD BANK, NYK",
+          "executingCustomerDisplayName": "FORD BANK",
+          "executingCustomerLeiCode": "TESTC8BVG1BCZB3JH189",
+          "executingCustomerReutersCode": "FORD"
+        },
+        {
+          "traderPostingId": 43648,
+          "traderPostingDisplayName": "HENRY FORD",
+          "executingCustomerId": 164940,
+          "executingCustomerLegalName": "FORD BANK, NYK",
+          "executingCustomerDisplayName": "FORD BANK",
+          "executingCustomerLeiCode": "TESTC8BVG1BCZB3JH189",
+          "executingCustomerReutersCode": "FORD"
+        },
+        {
+          "traderPostingId": 43648,
+          "traderPostingDisplayName": "HENRY FORD",
+          "executingCustomerId": 164942,
+          "executingCustomerLegalName": "FERRARI BANK, ROM",
+          "executingCustomerDisplayName": "FERRARI BANK",
+          "executingCustomerLeiCode": "TESTC8BVG1BCZB3JH189",
+          "executingCustomerReutersCode": "FERR"
+        }
+      ]
+    },
+    {
+      "id": "100114_43635_164933_164934_NDF",
+      "tradingCustomerId": 164934,
+      "tradingCustomerLegalName": "FRENCH PRESIDENTIAL BANK, LON",
+      "tradingCustomerDisplayName": "FRENCH PRESIDENTIAL",
+      "tradingCustomerLeiCode": "TEST58KFOO3L4RHOMP51",
+      "tradingCustomerReutersCode": "FPBL",
+      "tradingCustomerCodeLocationCode": "FRPR.LON",
+      "traders": [
+        {
+          "traderPostingId": 43640,
+          "traderPostingDisplayName": "HAROLD WILSON",
+          "executingCustomerId": 164927,
+          "executingCustomerLegalName": "BRITISH PRIME MINISTER BANK, LON",
+          "executingCustomerDisplayName": "BRITISH PRIME MIN BK",
+          "executingCustomerLeiCode": "TEST58KFOO3L4RHOMP51",
+          "executingCustomerReutersCode": "BPML"
+        },
+        {
+          "traderPostingId": 43635,
+          "traderPostingDisplayName": "JOHN KENNEDY",
+          "executingCustomerId": 164933,
+          "executingCustomerLegalName": "FRENCH PRESIDENTIAL BANK, PAR",
+          "executingCustomerDisplayName": "FRENCH PRESIDENTIAL",
+          "executingCustomerLeiCode": "TEST58KFOO3L4RHOMP51",
+          "executingCustomerReutersCode": "FPBP"
+        }
+      ]
+    },
+    {
+      "id": "100114_43635_164933_164933_NDF",
+      "tradingCustomerId": 164933,
+      "tradingCustomerLegalName": "FRENCH PRESIDENTIAL BANK, PAR",
+      "tradingCustomerDisplayName": "FRENCH PRESIDENTIAL",
+      "tradingCustomerLeiCode": "TEST58KFOO3L4RHOMP51",
+      "tradingCustomerReutersCode": "FPBP",
+      "tradingCustomerCodeLocationCode": "FRPR.PAR",
+      "traders": [
+        {
+          "traderPostingId": 43635,
+          "traderPostingDisplayName": "JOHN KENNEDY",
+          "executingCustomerId": 164933,
+          "executingCustomerLegalName": "FRENCH PRESIDENTIAL BANK, PAR",
+          "executingCustomerDisplayName": "FRENCH PRESIDENTIAL",
+          "executingCustomerLeiCode": "TEST58KFOO3L4RHOMP51",
+          "executingCustomerReutersCode": "FPBP"
+        }
+      ]
+    },
+    {
+      "id": "100114_35934_110953_110953_NDF",
+      "tradingCustomerId": 110953,
+      "tradingCustomerLegalName": "JPMORGAN CHASE BK NA, SIN",
+      "tradingCustomerDisplayName": "JPMORGAN CHASE BK NA",
+      "tradingCustomerLeiCode": "7H6GLXDRUGQFU57RNE97",
+      "tradingCustomerReutersCode": "CHAE",
+      "tradingCustomerCodeLocationCode": "CHAS.SIN",
+      "traders": [
+        {
+          "traderPostingId": 35934,
+          "traderPostingDisplayName": "FRANK FU",
+          "executingCustomerId": 110953,
+          "executingCustomerLegalName": "JPMORGAN CHASE BK NA, SIN",
+          "executingCustomerDisplayName": "JPMORGAN CHASE BK NA",
+          "executingCustomerLeiCode": "7H6GLXDRUGQFU57RNE97",
+          "executingCustomerReutersCode": "CHAE"
+        }
+      ]
+    },
+    {
+      "id": "100114_43627_164905_164907_NDF",
+      "tradingCustomerId": 164907,
+      "tradingCustomerLegalName": "RUBBLE FAMILY BANK, LON",
+      "tradingCustomerDisplayName": "RUBBLE FAMILY BANK",
+      "tradingCustomerLeiCode": "TEST14NMZDUA8XT73U42",
+      "tradingCustomerReutersCode": "RUBL",
+      "tradingCustomerCodeLocationCode": "RUBB.LON",
+      "traders": [
+        {
+          "traderPostingId": 43627,
+          "traderPostingDisplayName": "FRED FLINTSTONE",
+          "executingCustomerId": 164905,
+          "executingCustomerLegalName": "FLINTSTONE FAMILY BANK, LON",
+          "executingCustomerDisplayName": "FLINTSTONE FAMILY BK",
+          "executingCustomerLeiCode": "TEST14NMZDUA8XT73U42",
+          "executingCustomerReutersCode": "FLIN"
+        }
+      ]
+    },
+    {
+      "id": "100114_43631_164905_164912_NDF",
+      "tradingCustomerId": 164912,
+      "tradingCustomerLegalName": "SIMPSON FAMILY BANK, NYK",
+      "tradingCustomerDisplayName": "SIMPSON FAMILY BANK",
+      "tradingCustomerLeiCode": "TEST7X3MI386XDMXHK27",
+      "tradingCustomerReutersCode": "SIMN",
+      "tradingCustomerCodeLocationCode": "SIMP.NYK",
+      "traders": [
+        {
+          "traderPostingId": 43631,
+          "traderPostingDisplayName": "HOMER SIMPSON",
+          "executingCustomerId": 164905,
+          "executingCustomerLegalName": "FLINTSTONE FAMILY BANK, LON",
+          "executingCustomerDisplayName": "FLINTSTONE FAMILY BK",
+          "executingCustomerLeiCode": "TEST14NMZDUA8XT73U42",
+          "executingCustomerReutersCode": "FLIN"
+        },
+        {
+          "traderPostingId": 43631,
+          "traderPostingDisplayName": "HOMER SIMPSON",
+          "executingCustomerId": 164912,
+          "executingCustomerLegalName": "SIMPSON FAMILY BANK, NYK",
+          "executingCustomerDisplayName": "SIMPSON FAMILY BANK",
+          "executingCustomerLeiCode": "TEST7X3MI386XDMXHK27",
+          "executingCustomerReutersCode": "SIMN"
+        }
+      ]
+    },
+    {
+      "id": "100114_43631_164912_164915_NDF",
+      "tradingCustomerId": 164915,
+      "tradingCustomerLegalName": "SIMPSON FAMILY BANK, SIN",
+      "tradingCustomerDisplayName": "SIMPSON FAMILY BANK",
+      "tradingCustomerLeiCode": "TEST7X3MI386XDMXHK27",
+      "tradingCustomerReutersCode": "SIMS",
+      "tradingCustomerCodeLocationCode": "SIMP.SIN",
+      "traders": [
+        {
+          "traderPostingId": 43631,
+          "traderPostingDisplayName": "HOMER SIMPSON",
+          "executingCustomerId": 164912,
+          "executingCustomerLegalName": "SIMPSON FAMILY BANK, NYK",
+          "executingCustomerDisplayName": "SIMPSON FAMILY BANK",
+          "executingCustomerLeiCode": "TEST7X3MI386XDMXHK27",
+          "executingCustomerReutersCode": "SIMN"
+        },
+        {
+          "traderPostingId": 43631,
+          "traderPostingDisplayName": "HOMER SIMPSON",
+          "executingCustomerId": 164915,
+          "executingCustomerLegalName": "SIMPSON FAMILY BANK, SIN",
+          "executingCustomerDisplayName": "SIMPSON FAMILY BANK",
+          "executingCustomerLeiCode": "TEST7X3MI386XDMXHK27",
+          "executingCustomerReutersCode": "SIMS"
+        }
+      ]
+    },
+    {
+      "id": "100114_66088_143863_143863_NDF",
+      "tradingCustomerId": 143863,
+      "tradingCustomerLegalName": "UBS AG SAO PAULO BRANCH, SAO",
+      "tradingCustomerDisplayName": "UBS AG SP BRANCH",
+      "tradingCustomerLeiCode": "BFM8T61CT2L1QCEMIK50",
+      "tradingCustomerReutersCode": " ",
+      "tradingCustomerCodeLocationCode": "UBSA.SAO",
+      "traders": [
+        {
+          "traderPostingId": 66088,
+          "traderPostingDisplayName": "FERNANDO PAIS",
+          "executingCustomerId": 143863,
+          "executingCustomerLegalName": "UBS AG SAO PAULO BRANCH, SAO",
+          "executingCustomerDisplayName": "UBS AG SP BRANCH",
+          "executingCustomerLeiCode": "BFM8T61CT2L1QCEMIK50",
+          "executingCustomerReutersCode": " "
+        }
+      ]
+    },
+    {
+      "id": "100114_66088_143863_105844_NDF",
+      "tradingCustomerId": 105844,
+      "tradingCustomerLegalName": "UBS AG, LON",
+      "tradingCustomerDisplayName": "UBS AG",
+      "tradingCustomerLeiCode": "BFM8T61CT2L1QCEMIK50",
+      "tradingCustomerReutersCode": "UBSL",
+      "tradingCustomerCodeLocationCode": "UBSW.LON",
+      "traders": [
+        {
+          "traderPostingId": 66088,
+          "traderPostingDisplayName": "FERNANDO PAIS",
+          "executingCustomerId": 143863,
+          "executingCustomerLegalName": "UBS AG SAO PAULO BRANCH, SAO",
+          "executingCustomerDisplayName": "UBS AG SP BRANCH",
+          "executingCustomerLeiCode": "BFM8T61CT2L1QCEMIK50",
+          "executingCustomerReutersCode": " "
+        }
+      ]
+    }
+  ],
+  "brokers": [
+    {
+      "id": 46550,
+      "name": "ALAN TAN",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 80214,
+      "name": "ALBERT AHN",
+      "deskId": 8095,
+      "deskName": "KRW NDF DESK"
+    },
+    {
+      "id": 51508,
+      "name": "ALICE LIM",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 44842,
+      "name": "ALLISON MURRAY",
+      "deskId": 2082,
+      "deskName": "NYK LATAM DESK"
+    },
+    {
+      "id": 48509,
+      "name": "ALLYSON ANG",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 44844,
+      "name": "ANDRE KAMIKAWA",
+      "deskId": 2082,
+      "deskName": "NYK LATAM DESK"
+    },
+    {
+      "id": 87043,
+      "name": "ANDREA ROMERO",
+      "deskId": 2024,
+      "deskName": "NYK MXN SWAPS"
+    },
+    {
+      "id": 13661,
+      "name": "ANDREW HOBBS",
+      "deskId": 2039,
+      "deskName": "LON ASIAN NDF"
+    },
+    {
+      "id": 13662,
+      "name": "ANDREW INNOCENT",
+      "deskId": 2039,
+      "deskName": "LON ASIAN NDF"
+    },
+    {
+      "id": 59596,
+      "name": "ANGIE LOW",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 65812,
+      "name": "ANJIE SCATTAGLIA",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 48537,
+      "name": "ANNIE WONG",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 65198,
+      "name": "ANTHONY MCGUINNESS",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 67934,
+      "name": "ANTHONY VOLLARO",
+      "deskId": 2044,
+      "deskName": "NYK ASIAN NDF"
+    },
+    {
+      "id": 79529,
+      "name": "ANTHONY WRIGHT",
+      "deskId": 2044,
+      "deskName": "NYK ASIAN NDF"
+    },
+    {
+      "id": 65130,
+      "name": "ANTON MOROZOV",
+      "deskId": 2048,
+      "deskName": "LON FWD RUB NDF"
+    },
+    {
+      "id": 51512,
+      "name": "AUSTIN FAN",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 100233,
+      "name": "BELFAST TPEUR FXO TEST BROKER 1",
+      "deskId": 8173,
+      "deskName": "BELFAST LON EXOTIC OPTIONS"
+    },
+    {
+      "id": 100234,
+      "name": "BELFAST TPEUR FXO TEST BROKER 2",
+      "deskId": 8173,
+      "deskName": "BELFAST LON EXOTIC OPTIONS"
+    },
+    {
+      "id": 100114,
+      "name": "BELFAST TPEUR TEST BROKER 1",
+      "deskId": 8158,
+      "deskName": "BELFAST RATES TPEUR DESK"
+    },
+    {
+      "id": 100115,
+      "name": "BELFAST TPEUR TEST BROKER 2",
+      "deskId": 8158,
+      "deskName": "BELFAST RATES TPEUR DESK"
+    },
+    {
+      "id": 100116,
+      "name": "BELFAST TPEUR TEST BROKER 3",
+      "deskId": 8158,
+      "deskName": "BELFAST RATES TPEUR DESK"
+    },
+    {
+      "id": 100117,
+      "name": "BELFAST TPEUR TEST BROKER 4",
+      "deskId": 8158,
+      "deskName": "BELFAST RATES TPEUR DESK"
+    },
+    {
+      "id": 100235,
+      "name": "BELFAST TPSIN FXO TEST BROKER",
+      "deskId": 8175,
+      "deskName": "BELFAST SIN FX OPTIONS EM"
+    },
+    {
+      "id": 100118,
+      "name": "BELFAST TPSIN TEST BROKER 1",
+      "deskId": 8159,
+      "deskName": "BELFAST RATES TPSIN DESK"
+    },
+    {
+      "id": 100119,
+      "name": "BELFAST TPSIN TEST BROKER 2",
+      "deskId": 8159,
+      "deskName": "BELFAST RATES TPSIN DESK"
+    },
+    {
+      "id": 100120,
+      "name": "BELFAST TPSIN TEST BROKER 3",
+      "deskId": 8159,
+      "deskName": "BELFAST RATES TPSIN DESK"
+    },
+    {
+      "id": 100121,
+      "name": "BELFAST TPSIN TEST BROKER 4",
+      "deskId": 8159,
+      "deskName": "BELFAST RATES TPSIN DESK"
+    },
+    {
+      "id": 100236,
+      "name": "BELFAST TPUS FXO TEST BROKER",
+      "deskId": 8174,
+      "deskName": "BELFAST NYK EM FX OPTIONS"
+    },
+    {
+      "id": 100122,
+      "name": "BELFAST TPUS TEST BROKER 1",
+      "deskId": 8160,
+      "deskName": "BELFAST RATES TPUS DESK"
+    },
+    {
+      "id": 100123,
+      "name": "BELFAST TPUS TEST BROKER 2",
+      "deskId": 8160,
+      "deskName": "BELFAST RATES TPUS DESK"
+    },
+    {
+      "id": 100124,
+      "name": "BELFAST TPUS TEST BROKER 3",
+      "deskId": 8160,
+      "deskName": "BELFAST RATES TPUS DESK"
+    },
+    {
+      "id": 100125,
+      "name": "BELFAST TPUS TEST BROKER 4",
+      "deskId": 8160,
+      "deskName": "BELFAST RATES TPUS DESK"
+    },
+    {
+      "id": 41836,
+      "name": "BEN PROLER",
+      "deskId": 2082,
+      "deskName": "NYK LATAM DESK"
+    },
+    {
+      "id": 84364,
+      "name": "BENEDICT CHAN",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 65728,
+      "name": "BRIAN DONNELLY",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 44837,
+      "name": "CAUE CAMPANHA",
+      "deskId": 2082,
+      "deskName": "NYK LATAM DESK"
+    },
+    {
+      "id": 73570,
+      "name": "CHARMAINE LIN",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 57790,
+      "name": "CHRIS ROMANO",
+      "deskId": 2044,
+      "deskName": "NYK ASIAN NDF"
+    },
+    {
+      "id": 66658,
+      "name": "CHRISTINE CAVICCHIOLI",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 48515,
+      "name": "CLARENCE FONG",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 48510,
+      "name": "CLARENCE WU",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 65290,
+      "name": "DANIEL STERN",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 82126,
+      "name": "DANNY KO",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 71440,
+      "name": "DANNY LI",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 65196,
+      "name": "DAREN MISCIAGNA",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 65821,
+      "name": "DAVID FRIEL",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 48503,
+      "name": "DAVID TAY",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 48453,
+      "name": "DAVID THONG",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 50859,
+      "name": "DAVID WONG",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 36908,
+      "name": "DENIS WILBECK",
+      "deskId": 2024,
+      "deskName": "NYK MXN SWAPS"
+    },
+    {
+      "id": 65729,
+      "name": "DENYS DLABOHA",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 72723,
+      "name": "DERRICK TAY",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 59600,
+      "name": "DIONNA ZHAO",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 50772,
+      "name": "DORIS WONG",
+      "deskId": 8115,
+      "deskName": "NYK FXO TEST"
+    },
+    {
+      "id": 79949,
+      "name": "DOUGLAS C. BORTHWICK",
+      "deskId": 2082,
+      "deskName": "NYK LATAM DESK"
+    },
+    {
+      "id": 82090,
+      "name": "DOUGLAS STOKES",
+      "deskId": 8052,
+      "deskName": "APB.TOK.AT.DESK"
+    },
+    {
+      "id": 65197,
+      "name": "ELIZABETH COLON",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 62898,
+      "name": "EUNG JOON CHO1",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 48508,
+      "name": "EVELYN CHIANG",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 86560,
+      "name": "GLEN OPOKU",
+      "deskId": 8132,
+      "deskName": "NYK EMERGING MARKET BONDS LONDON"
+    },
+    {
+      "id": 59597,
+      "name": "GRACE PARK",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 59592,
+      "name": "HA JIN KIM",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 51510,
+      "name": "HANS PHANTOM",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 61260,
+      "name": "HWANG TAE SUK",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 13660,
+      "name": "IAN GABLE",
+      "deskId": 2039,
+      "deskName": "LON ASIAN NDF"
+    },
+    {
+      "id": 83812,
+      "name": "IN HO LEE",
+      "deskId": 8095,
+      "deskName": "KRW NDF DESK"
+    },
+    {
+      "id": 84900,
+      "name": "IRENE TAN",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 51511,
+      "name": "IVY TAN",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 49861,
+      "name": "JACKJIN TAN",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 61259,
+      "name": "JACKSON CHEONG",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 60093,
+      "name": "JAMES HART",
+      "deskId": 2039,
+      "deskName": "LON ASIAN NDF"
+    },
+    {
+      "id": 56696,
+      "name": "JAMES SAMWAYS",
+      "deskId": 2048,
+      "deskName": "LON FWD RUB NDF"
+    },
+    {
+      "id": 75515,
+      "name": "JASON CHUN",
+      "deskId": 2044,
+      "deskName": "NYK ASIAN NDF"
+    },
+    {
+      "id": 46549,
+      "name": "JEFFREY CHUA",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 46551,
+      "name": "JIMMY LAU",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 80642,
+      "name": "JOEY FONG",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 13621,
+      "name": "JOHN ARDERN",
+      "deskId": 2039,
+      "deskName": "LON ASIAN NDF"
+    },
+    {
+      "id": 41583,
+      "name": "JOHN CARROLL",
+      "deskId": 2048,
+      "deskName": "LON FWD RUB NDF"
+    },
+    {
+      "id": 65813,
+      "name": "JOHN CARROLL",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 65179,
+      "name": "JOHN MISEVSKI",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 60807,
+      "name": "JOHN ZABALA",
+      "deskId": 2024,
+      "deskName": "NYK MXN SWAPS"
+    },
+    {
+      "id": 63278,
+      "name": "JOHN ZABALA",
+      "deskId": 2059,
+      "deskName": "MXN SWAPS MEX"
+    },
+    {
+      "id": 100518,
+      "name": "JOSEPH BONNEMA",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 65178,
+      "name": "JOSEPH WILSON",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 51504,
+      "name": "JUDY FOO",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 47838,
+      "name": "JUSTIN CHIU",
+      "deskId": 8115,
+      "deskName": "NYK FXO TEST"
+    },
+    {
+      "id": 78975,
+      "name": "JUSTIN WONG",
+      "deskId": 2041,
+      "deskName": "HKG NDF CNY DESK"
+    },
+    {
+      "id": 74267,
+      "name": "KATHLEEN FURY",
+      "deskId": 2098,
+      "deskName": "SIN NDS DESK"
+    },
+    {
+      "id": 74268,
+      "name": "KATHY LIEW",
+      "deskId": 2098,
+      "deskName": "SIN NDS DESK"
+    },
+    {
+      "id": 48506,
+      "name": "KEAT PENG CHOY",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 48455,
+      "name": "KELVIN KOK",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 84196,
+      "name": "KIM DONG CHUN",
+      "deskId": 8095,
+      "deskName": "KRW NDF DESK"
+    },
+    {
+      "id": 65180,
+      "name": "LARRY BYRD",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 65181,
+      "name": "LAUREN FERRERI",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 69215,
+      "name": "LEE SEUNG JIN",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 81072,
+      "name": "LEILAND STEVENS",
+      "deskId": 8046,
+      "deskName": "GLOBAL CURRENCIES(NYK.GLBL.CURRENC)"
+    },
+    {
+      "id": 65820,
+      "name": "LIA MERAW",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 59599,
+      "name": "LIRONG TNG",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 65182,
+      "name": "LISA MALTESE",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 73305,
+      "name": "LOUIS DE PALMA",
+      "deskId": 2039,
+      "deskName": "LON ASIAN NDF"
+    },
+    {
+      "id": 65183,
+      "name": "LOUIS VENEZIA",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 41837,
+      "name": "LUCA RAMOS",
+      "deskId": 2082,
+      "deskName": "NYK LATAM DESK"
+    },
+    {
+      "id": 78457,
+      "name": "MAHINA WOON PHUA",
+      "deskId": 2098,
+      "deskName": "SIN NDS DESK"
+    },
+    {
+      "id": 77558,
+      "name": "MARIA CABEZAS",
+      "deskId": 2082,
+      "deskName": "NYK LATAM DESK"
+    },
+    {
+      "id": 65184,
+      "name": "MARIO FRASCARELLA",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 47264,
+      "name": "MARK CARTER",
+      "deskId": 2041,
+      "deskName": "HKG NDF CNY DESK"
+    },
+    {
+      "id": 59598,
+      "name": "MARY-ANN POH",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 59591,
+      "name": "MELANIE FOO",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 48467,
+      "name": "MELODY TIAN",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 78412,
+      "name": "MICHAEL ANDREW",
+      "deskId": 2048,
+      "deskName": "LON FWD RUB NDF"
+    },
+    {
+      "id": 48451,
+      "name": "MICHAEL LEE",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 48517,
+      "name": "MICHAEL SHEN",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 70656,
+      "name": "MIGUEL PETRICIOLI",
+      "deskId": 2024,
+      "deskName": "NYK MXN SWAPS"
+    },
+    {
+      "id": 56986,
+      "name": "MIN KIM",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 56353,
+      "name": "NABEEL AHMAD",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 51503,
+      "name": "NGAI SOK MUN",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 70555,
+      "name": "NICHOLAS TAN",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 65158,
+      "name": "NICHOLAS TAN",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 44841,
+      "name": "NICOLAS LOPEZ-MUNIZ",
+      "deskId": 2082,
+      "deskName": "NYK LATAM DESK"
+    },
+    {
+      "id": 49877,
+      "name": "NOBUHIRO OTA",
+      "deskId": 8262,
+      "deskName": "NYK MUNIS MID WEST"
+    },
+    {
+      "id": 65289,
+      "name": "O'NEIL LEE",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 86561,
+      "name": "OLUTOBI OSIBODU",
+      "deskId": 8132,
+      "deskName": "NYK EMERGING MARKET BONDS LONDON"
+    },
+    {
+      "id": 49340,
+      "name": "PATRICK BURNELL",
+      "deskId": 8132,
+      "deskName": "NYK EMERGING MARKET BONDS LONDON"
+    },
+    {
+      "id": 81733,
+      "name": "PAUL RICHMOND",
+      "deskId": 2048,
+      "deskName": "LON FWD RUB NDF"
+    },
+    {
+      "id": 48470,
+      "name": "PETER CHANG",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 48518,
+      "name": "PETER CHEW",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 13440,
+      "name": "PETER LANGLEY",
+      "deskId": 2039,
+      "deskName": "LON ASIAN NDF"
+    },
+    {
+      "id": 66180,
+      "name": "PHILLIP DAY",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 63710,
+      "name": "POLINA VOLYNTSEVA",
+      "deskId": 2048,
+      "deskName": "LON FWD RUB NDF"
+    },
+    {
+      "id": 65713,
+      "name": "RACHEL SKVASIK",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 13670,
+      "name": "RAYMOND FAIRCHILD",
+      "deskId": 2048,
+      "deskName": "LON FWD RUB NDF"
+    },
+    {
+      "id": 51505,
+      "name": "RENA HO",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 43150,
+      "name": "RICARDO LUCCHESI",
+      "deskId": 2082,
+      "deskName": "NYK LATAM DESK"
+    },
+    {
+      "id": 57108,
+      "name": "ROB BILSLAND",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 54978,
+      "name": "ROB MOLDOVAN",
+      "deskId": 2044,
+      "deskName": "NYK ASIAN NDF"
+    },
+    {
+      "id": 65173,
+      "name": "ROBERT BOLCAR",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 44840,
+      "name": "ROBERT CHRISTIAN",
+      "deskId": 2082,
+      "deskName": "NYK LATAM DESK"
+    },
+    {
+      "id": 80446,
+      "name": "ROHIT SANGHAI",
+      "deskId": 2098,
+      "deskName": "SIN NDS DESK"
+    },
+    {
+      "id": 68759,
+      "name": "RYAN KWA",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 63311,
+      "name": "SAURABH SHARMA",
+      "deskId": 8237,
+      "deskName": "NYK EMERGING MARKETS"
+    },
+    {
+      "id": 64976,
+      "name": "SEF BROKER RATES",
+      "deskId": 2064,
+      "deskName": "SEF RATES DESK"
+    },
+    {
+      "id": 22804,
+      "name": "SERGEJ (TD) SKILJEVIC",
+      "deskId": 2048,
+      "deskName": "LON FWD RUB NDF"
+    },
+    {
+      "id": 118825,
+      "name": "SONJA LEOW",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 118824,
+      "name": "SONJA LEOW",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 29913,
+      "name": "STEPHANIE HOO",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 48469,
+      "name": "STEPHEN CHENG",
+      "deskId": 2040,
+      "deskName": "SIN NDF DESK"
+    },
+    {
+      "id": 13627,
+      "name": "STEVE BRIGHT",
+      "deskId": 2048,
+      "deskName": "LON FWD RUB NDF"
+    },
+    {
+      "id": 74396,
+      "name": "STEVEN KENNELTY",
+      "deskId": 2024,
+      "deskName": "NYK MXN SWAPS"
+    },
+    {
+      "id": 118708,
+      "name": "THOMAS BROWN",
+      "deskId": 8115,
+      "deskName": "NYK FXO TEST"
+    },
+    {
+      "id": 65725,
+      "name": "THOMAS HALPIN",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 65726,
+      "name": "TIM MCARDLE",
+      "deskId": 2063,
+      "deskName": "NYK TPSEF DESK"
+    },
+    {
+      "id": 46553,
+      "name": "TODD KAHM",
+      "deskId": 2044,
+      "deskName": "NYK ASIAN NDF"
+    },
+    {
+      "id": 46041,
+      "name": "YONI RUDMAN",
+      "deskId": 2048,
+      "deskName": "LON FWD RUB NDF"
+    }
+  ],
+  "agents": [
+    {
+      "shortName": "42 FIN SERV S.R.O",
+      "locationName": "PRA",
+      "companyName": "42 FINANCIAL SERVICES S.R.O, PRA",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 170447
+    },
+    {
+      "shortName": "A-J STEVENS",
+      "locationName": "HKG",
+      "companyName": "A-J STEVENS, HKG",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 103309
+    },
+    {
+      "shortName": "ACME INTER DEALER BS",
+      "locationName": "NYK",
+      "companyName": "ACME INTER DEALER BROKERS, NYK",
+      "leiCode": "2H6ACEMNYKUS33NYK200",
+      "reutersCode": " ",
+      "id": 178236
+    },
+    {
+      "shortName": "ACME INTER DEALER BS",
+      "locationName": "LON",
+      "companyName": "ACME INTER DEALER BROKERS, LON",
+      "leiCode": "2H6ACEMNYKUS33NYK200",
+      "reutersCode": " ",
+      "id": 178238
+    },
+    {
+      "shortName": "ACOR",
+      "locationName": "NYK",
+      "companyName": "ACOR DIV OF TPFS LLC, NYK",
+      "leiCode": "5493002MIGPVI71S2611",
+      "reutersCode": " ",
+      "id": 198194
+    },
+    {
+      "shortName": "ADS SEC AGENT",
+      "locationName": "ABU",
+      "companyName": "ADS SECURITIES LLC -AGENT FOR LUX, ABU",
+      "leiCode": "213800R89K6EBE7N6G20",
+      "reutersCode": " ",
+      "id": 172896
+    },
+    {
+      "shortName": "AFFIN MONEYBROKERS",
+      "locationName": "KUA",
+      "companyName": "AFFIN MONEYBROKERS SDN BHD, KUA",
+      "leiCode": null,
+      "reutersCode": "TEKL",
+      "id": 105762
+    },
+    {
+      "shortName": "AFS EQUITY DERIVATIV",
+      "locationName": "AMS",
+      "companyName": "AFS EQUITY & DERIVATIVES B.V, AMS",
+      "leiCode": "724500QCPKRLL1ZM6Y16",
+      "reutersCode": "AOTT",
+      "id": 103415
+    },
+    {
+      "shortName": "AFS INTEREST BV",
+      "locationName": "AMS",
+      "companyName": "AFS INTEREST BV, AMS",
+      "leiCode": "7245004T3GVMWC5LP916",
+      "reutersCode": " ",
+      "id": 167939
+    },
+    {
+      "shortName": "AFS MONEY BROKERS",
+      "locationName": "AMS",
+      "companyName": "AFS MONEY BROKERS BV, AMS",
+      "leiCode": "724500QCPKRLL1ZM6Y16",
+      "reutersCode": "AOTT",
+      "id": 165386
+    },
+    {
+      "shortName": "AIG INT INC",
+      "locationName": "HKG",
+      "companyName": "AIG INTERNATIONAL INC, HKG",
+      "leiCode": null,
+      "reutersCode": "AIGK",
+      "id": 103371
+    },
+    {
+      "shortName": "ALL TRAD BKRS EUR AV",
+      "locationName": "MAD",
+      "companyName": "ALL TRADING BROKERS EUROPE AV SAU, MAD",
+      "leiCode": null,
+      "reutersCode": "ALLT",
+      "id": 103381
+    },
+    {
+      "shortName": "ALL TRAD COFIDEM LUX",
+      "locationName": "LUX",
+      "companyName": "ALL TRADING COFIDEM LUXEMBOURG SA, LUX",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 103382
+    },
+    {
+      "shortName": "ARBITRADE AG",
+      "locationName": "ZCH",
+      "companyName": "ARBITRADE AG, ZCH",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 116377
+    },
+    {
+      "shortName": "ARC DE TRIOMPHE INV",
+      "locationName": "PAR",
+      "companyName": "ARC DE TRIOMPHE INVESTISSEMENT, PAR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 103433
+    },
+    {
+      "shortName": "ASSOCIATED CAP LTD",
+      "locationName": "HKG",
+      "companyName": "ASSOCIATED CAPITAL LIMITED, HKG",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 115087
+    },
+    {
+      "shortName": "ASTLEY & PEARCE SA",
+      "locationName": "ZCH",
+      "companyName": "ASTLEY & PEARCE SA, ZCH",
+      "leiCode": null,
+      "reutersCode": "APZA",
+      "id": 103449
+    },
+    {
+      "shortName": "ASTLEY PEARCE HK LTD",
+      "locationName": "HKG",
+      "companyName": "ASTLEY & PEARCE (HONG KONG) LTD, HKG",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 103447
+    },
+    {
+      "shortName": "ASTLEY PEARCE PTE",
+      "locationName": "SIN",
+      "companyName": "ASTLEY & PEARCE PTE LTD, SIN",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 103448
+    },
+    {
+      "shortName": "AUREL BCG",
+      "locationName": "PAR",
+      "companyName": "AUREL BCG, PAR",
+      "leiCode": "5RJTDGZG4559ESIYLD31",
+      "reutersCode": " ",
+      "id": 126690
+    },
+    {
+      "shortName": "AUREL BCG  X POLLAK",
+      "locationName": "PAR",
+      "companyName": "AUREL BCG - X POLLAK, PAR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 107670
+    },
+    {
+      "shortName": "BANQUE DU BENELUX SA",
+      "locationName": "LUX",
+      "companyName": "BANQUE DU BENELUX SA, LUX",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 103975
+    },
+    {
+      "shortName": "BAXTER FINANCIAL SER",
+      "locationName": "DBN",
+      "companyName": "BAXTER FINANCIAL SERVICES LIMITED, DBN",
+      "leiCode": "549300L8SJYH8PWTVA40",
+      "reutersCode": " ",
+      "id": 113127
+    },
+    {
+      "shortName": "BAY CREST PRTNRS",
+      "locationName": "NYK",
+      "companyName": "BAY CREST PARTNERS, LLC, NYK",
+      "leiCode": "549300CTRRO8C3BU3H64",
+      "reutersCode": " ",
+      "id": 181335
+    },
+    {
+      "shortName": "BBT EURO FINEX SA",
+      "locationName": "LUX",
+      "companyName": "BBT EURO FINEX SA, LUX",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104096
+    },
+    {
+      "shortName": "BBT INTER BANQUE",
+      "locationName": "PAR",
+      "companyName": "BBT INTER BANQUE, PAR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104097
+    },
+    {
+      "shortName": "BENELUX MNY BRKING",
+      "locationName": "BRX",
+      "companyName": "BENELUX MONEY BROKING CO, BRX",
+      "leiCode": null,
+      "reutersCode": "BBCC",
+      "id": 104108
+    },
+    {
+      "shortName": "BGC BROKERS LP",
+      "locationName": "LON",
+      "companyName": "BGC BROKERS LP, LON",
+      "leiCode": "ZWNFQ48RUL8VJZ2AIC12",
+      "reutersCode": " ",
+      "id": 168888
+    },
+    {
+      "shortName": "BGC CAP MKTS HK LTD",
+      "locationName": "HKG",
+      "companyName": "BGC CAPITAL MARKETS (HK) LIMITED, HKG",
+      "leiCode": "549300HUD3XI8AWIV734",
+      "reutersCode": " ",
+      "id": 140824
+    },
+    {
+      "shortName": "BGC CAP MKTS SWZ LLC",
+      "locationName": "NYO",
+      "companyName": "BGC CAPITAL MARKETS (SWITZERLAND) LLC, NYO",
+      "leiCode": null,
+      "reutersCode": "BGSZ",
+      "id": 146714
+    },
+    {
+      "shortName": "BGC INT",
+      "locationName": "SIN",
+      "companyName": "BGC INT, SIN",
+      "leiCode": null,
+      "reutersCode": "BGCP",
+      "id": 153744
+    },
+    {
+      "shortName": "BGC INTERNATIONAL.",
+      "locationName": "LON",
+      "companyName": "BGC INTERNATIONAL., LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 110293
+    },
+    {
+      "shortName": "BIERBAUM & CO GMBH",
+      "locationName": "FFT",
+      "companyName": "BIERBAUM & CO GMBH FRANKFURT, FFT",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 159010
+    },
+    {
+      "shortName": "BINE SA",
+      "locationName": "MAD",
+      "companyName": "BINE SA, MAD",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104125
+    },
+    {
+      "shortName": "BLOOMBERG",
+      "locationName": "NWK",
+      "companyName": "BLOOMBERG LP, NWK",
+      "leiCode": "549300B56MD0ZC402L06",
+      "reutersCode": " ",
+      "id": 107207
+    },
+    {
+      "shortName": "BOTM UFJ LIMITED",
+      "locationName": "SYD",
+      "companyName": "BANK OF TOKYO MITSUBISHI UFJ LIMITED, SYD",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 103890
+    },
+    {
+      "shortName": "BRAINS INC LIMITED",
+      "locationName": "LON",
+      "companyName": "BRAINS INC LIMITED, LON",
+      "leiCode": "549300EF53ZUSYFB8Z57",
+      "reutersCode": " ",
+      "id": 173534
+    },
+    {
+      "shortName": "BRIGHTWORK FINL SVCS",
+      "locationName": "CHI",
+      "companyName": "BRIGHTWORK FINANCIAL SERVICES LLC, CHI",
+      "leiCode": "54930082R3H3HNGZEZ77",
+      "reutersCode": " ",
+      "id": 198102
+    },
+    {
+      "shortName": "CAMBIOS INTER SA",
+      "locationName": "MAD",
+      "companyName": "CAMBIOS INTERNACIONALES SA, MAD",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104161
+    },
+    {
+      "shortName": "CANTOR FITZ ASS",
+      "locationName": "NYK",
+      "companyName": "CANTOR FITZGERALD ASSOCIATES, NYK",
+      "leiCode": null,
+      "reutersCode": "CFFX",
+      "id": 104172
+    },
+    {
+      "shortName": "CANTOR FITZ SHOK KAI",
+      "locationName": "TOK",
+      "companyName": "CANTOR FITZGERALD SHOKEN KAISHA LTD, TOK",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 111033
+    },
+    {
+      "shortName": "CANTOR FIZT LLC",
+      "locationName": "TOK",
+      "companyName": "CANTOR FIZTGERALD LLC, TOK",
+      "leiCode": "549300JLS7RWEFHO2D73",
+      "reutersCode": " ",
+      "id": 110254
+    },
+    {
+      "shortName": "CAPITAL MARKETS SA",
+      "locationName": "MAD",
+      "companyName": "CAPITAL MARKETS SA, MAD",
+      "leiCode": null,
+      "reutersCode": "CAPI",
+      "id": 104174
+    },
+    {
+      "shortName": "CARADAS CCY BKRS LTD",
+      "locationName": "DBN",
+      "companyName": "CARADAS CURRENCY BROKERS LTD, DBN",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104175
+    },
+    {
+      "shortName": "CARL KLIEM AG",
+      "locationName": "ZCH",
+      "companyName": "CARL KLIEM AG, ZCH",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104187
+    },
+    {
+      "shortName": "CARL KLIEM GMBH",
+      "locationName": "FFT",
+      "companyName": "CARL KLIEM GMBH, FFT",
+      "leiCode": null,
+      "reutersCode": "CKCM",
+      "id": 104188
+    },
+    {
+      "shortName": "CARL KLIEM SA",
+      "locationName": "LUX",
+      "companyName": "CARL KLIEM SA, LUX",
+      "leiCode": "5493009FOGEUTR4HFR55",
+      "reutersCode": " ",
+      "id": 104189
+    },
+    {
+      "shortName": "CARL KLIEM SA",
+      "locationName": "BRX",
+      "companyName": "CARL KLIEM SA, BRX",
+      "leiCode": "5493009FOGEUTR4HFR55",
+      "reutersCode": " ",
+      "id": 111468
+    },
+    {
+      "shortName": "CEDEF ASSETS LTD",
+      "locationName": "LON",
+      "companyName": "CEDEF ASSETS LIMITED, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 109491
+    },
+    {
+      "shortName": "CEDEF FIN PROD SA",
+      "locationName": "NYO",
+      "companyName": "CEDEF FINANCIAL PRODUCT SA, NYO",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104196
+    },
+    {
+      "shortName": "CEROS MENKUL DEGERLE",
+      "locationName": "IST",
+      "companyName": "CEROS MENKUL DEGERLER AS, IST",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 167526
+    },
+    {
+      "shortName": "CHAPDELAINE CORP SEC",
+      "locationName": "NYK",
+      "companyName": "CHAPDELAINE CORP SECS & CO, NYK",
+      "leiCode": null,
+      "reutersCode": "CHAP",
+      "id": 104206
+    },
+    {
+      "shortName": "CHAPDELAINE TUL LLC",
+      "locationName": "NYK",
+      "companyName": "CHAPDELAINE DIV OF TPFS LLC, NYK",
+      "leiCode": "5493002MIGPVI71S2611",
+      "reutersCode": " ",
+      "id": 154723
+    },
+    {
+      "shortName": "CHRIS HONEY",
+      "locationName": "LON",
+      "companyName": "CHRIS HONEY, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 157635
+    },
+    {
+      "shortName": "CHRISTIAN LE BLAN",
+      "locationName": "PAR",
+      "companyName": "CHRISTIAN LE BLAN, PAR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104243
+    },
+    {
+      "shortName": "CIMD AV SA",
+      "locationName": "MAD",
+      "companyName": "CIMD AGENCIA DE VALORES SA, MAD",
+      "leiCode": null,
+      "reutersCode": "CIMD",
+      "id": 104258
+    },
+    {
+      "shortName": "CIMD AV SA",
+      "locationName": "DBI",
+      "companyName": "CIMD AGENCIA DE VALORES SA, DBI",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 173802
+    },
+    {
+      "shortName": "COEX PARTNERS LTD",
+      "locationName": "LON",
+      "companyName": "COEX PARTNERS LIMITED, LON",
+      "leiCode": "549300Y58ZORST3US624",
+      "reutersCode": " ",
+      "id": 202222
+    },
+    {
+      "shortName": "COEX TPFS",
+      "locationName": "NYK",
+      "companyName": "COEX (A DIVISION OF TPFS LLC), NYK",
+      "leiCode": "5493002MIGPVI71S2611",
+      "reutersCode": " ",
+      "id": 198172
+    },
+    {
+      "shortName": "COFEP ITALIA SIM SPA",
+      "locationName": "MIL",
+      "companyName": "COFEP ITALIA SIM SPA, MIL",
+      "leiCode": null,
+      "reutersCode": "CFEP",
+      "id": 104315
+    },
+    {
+      "shortName": "COFICOBA SA",
+      "locationName": "PAR",
+      "companyName": "COFICOBA SA, PAR",
+      "leiCode": null,
+      "reutersCode": "COFI",
+      "id": 104316
+    },
+    {
+      "shortName": "COFIMERCADO SA",
+      "locationName": "MAD",
+      "companyName": "COFIMERCADO SA, MAD",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104317
+    },
+    {
+      "shortName": "CONTINENTAL CAP MKTS",
+      "locationName": "NYO",
+      "companyName": "CONTINENTAL CAPITAL MARKETS SA, NYO",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 159374
+    },
+    {
+      "shortName": "CONTINGENT ORDER",
+      "locationName": "LON",
+      "companyName": "CONTINGENT ORDER (GILT IDB), LON",
+      "leiCode": "549300MU2MYJLOY6IJ51",
+      "reutersCode": " ",
+      "id": 187339
+    },
+    {
+      "shortName": "COSMOREX AG",
+      "locationName": "ZCH",
+      "companyName": "COSMOREX AG, ZCH",
+      "leiCode": "549300WGLEIR7RR1UE76",
+      "reutersCode": "COSZ",
+      "id": 104370
+    },
+    {
+      "shortName": "COSMOREX SA",
+      "locationName": "GEN",
+      "companyName": "COSMOREX SA, GEN",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104371
+    },
+    {
+      "shortName": "COSMOS INTL MB LTD",
+      "locationName": "HKG",
+      "companyName": "COSMOS INTERNATIONAL MONEYBROKERS LTD, HKG",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 116708
+    },
+    {
+      "shortName": "COVEA MAAF VIE 41",
+      "locationName": "LON",
+      "companyName": "COVEA FINANCE FUND MAAF VIE 41, LON",
+      "leiCode": "969500T2ER13UUWFNJ46",
+      "reutersCode": " ",
+      "id": 158158
+    },
+    {
+      "shortName": "CREDITEX DIV TPFS",
+      "locationName": "NYK",
+      "companyName": "CREDITEX DIV OF TPFS LLC, NYK",
+      "leiCode": "5493002MIGPVI71S2611",
+      "reutersCode": " ",
+      "id": 197966
+    },
+    {
+      "shortName": "DAVY MONEYBROKERS",
+      "locationName": "DBN",
+      "companyName": "DAVY MONEYBROKERS, DBN",
+      "leiCode": null,
+      "reutersCode": "DAVY",
+      "id": 104539
+    },
+    {
+      "shortName": "DAWSONS MNY BKRS LTD",
+      "locationName": "DBN",
+      "companyName": "DAWSONS MONEY BROKERS LTD, DBN",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104540
+    },
+    {
+      "shortName": "DE POSSON ET CIE",
+      "locationName": "BRX",
+      "companyName": "DE POSSON ET CIE, BRX",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104545
+    },
+    {
+      "shortName": "DE POSSON ET CIE",
+      "locationName": "PAR",
+      "companyName": "DE POSSON ET CIE, PAR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104546
+    },
+    {
+      "shortName": "DEBEAUSSE & CIE",
+      "locationName": "PAR",
+      "companyName": "DEBEAUSSE & CIE, PAR",
+      "leiCode": null,
+      "reutersCode": "VIEL",
+      "id": 104547
+    },
+    {
+      "shortName": "DEBEAUSSE & CO INC",
+      "locationName": "NYK",
+      "companyName": "DEBEAUSSE & CO INC, NYK",
+      "leiCode": null,
+      "reutersCode": "DEBN",
+      "id": 104548
+    },
+    {
+      "shortName": "DESTREM LUX SA",
+      "locationName": "LUX",
+      "companyName": "DESTREM LUXEMBOURG SA, LUX",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104563
+    },
+    {
+      "shortName": "DIGERA BV",
+      "locationName": "AMS",
+      "companyName": "DIGERA BV, AMS",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104607
+    },
+    {
+      "shortName": "DIRECT FX LIMITED",
+      "locationName": "SYD",
+      "companyName": "DIRECT FX LIMITED, SYD",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 141561
+    },
+    {
+      "shortName": "DIREX SA",
+      "locationName": "GEN",
+      "companyName": "DIREX SA, GEN",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104608
+    },
+    {
+      "shortName": "DMBL MILAN",
+      "locationName": "MIL",
+      "companyName": "DINOSAUR MERCHANT BANK LTD, MIL",
+      "leiCode": "213800WDBCP28M4C9E37",
+      "reutersCode": " ",
+      "id": 183484
+    },
+    {
+      "shortName": "DO NOT USE.",
+      "locationName": "MMA",
+      "companyName": "TULLETT LIBERTY (BAHRAIN) C0 W.L.L (MARSHALLS), MMA",
+      "leiCode": "549300BUU6LPR8NU5W60",
+      "reutersCode": " ",
+      "id": 204542
+    },
+    {
+      "shortName": "DOLMEN STOCKBROKERS",
+      "locationName": "DBN",
+      "companyName": "DOLMEN STOCKBROKERS, DBN",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 119354
+    },
+    {
+      "shortName": "DUTCH CURRENCY BKRS",
+      "locationName": "AMS",
+      "companyName": "DUTCH CURRENCY BROKERS, AMS",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 109427
+    },
+    {
+      "shortName": "E TRADING CO",
+      "locationName": "PAR",
+      "companyName": "E TRADING COMPANY, PAR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 108522
+    },
+    {
+      "shortName": "ENLACE LOPEZ LEON",
+      "locationName": "BUE",
+      "companyName": "ENLACE LOPEZ LEON BROKERS S.A., BUE",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 106486
+    },
+    {
+      "shortName": "ENLACE LOPEZ LEON",
+      "locationName": "SAT",
+      "companyName": "ENLACE LOPEZ LEON BROKERS S.A., SAT",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 106487
+    },
+    {
+      "shortName": "ENLACE LOPEZ LEON",
+      "locationName": "SAO",
+      "companyName": "ENLACE LOPEZ LEON BROKERS S.A., SAO",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 106488
+    },
+    {
+      "shortName": "ENLACE NYK INC",
+      "locationName": "NYK",
+      "companyName": "ENLACE NYK INC, NYK",
+      "leiCode": "549300JTX8XOSXLQXS69",
+      "reutersCode": " ",
+      "id": 160570
+    },
+    {
+      "shortName": "ENLACE SA DE CV",
+      "locationName": "MEX",
+      "companyName": "ENLACE SA DE CV, MEX",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 136106
+    },
+    {
+      "shortName": "EQUISEC TSY SERV",
+      "locationName": "JHB",
+      "companyName": "EQUISEC TREASURY SERVICES (PTY) LTD, JHB",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 145144
+    },
+    {
+      "shortName": "ERROR TRD (GILT IDB)",
+      "locationName": "LON",
+      "companyName": "ERROR TRADE (GILT IDB), LON",
+      "leiCode": "549300MU2MYJLOY6IJ51",
+      "reutersCode": " ",
+      "id": 187341
+    },
+    {
+      "shortName": "ETIX A DIV OF TPFS",
+      "locationName": "NYK",
+      "companyName": "ETIX A DIV OF TPFS LLC, NYK",
+      "leiCode": "5493002MIGPVI71S2611",
+      "reutersCode": " ",
+      "id": 198015
+    },
+    {
+      "shortName": "EURO BROKERS INC",
+      "locationName": "NYK",
+      "companyName": "EURO BROKERS INC, NYK",
+      "leiCode": null,
+      "reutersCode": "EBFX",
+      "id": 104639
+    },
+    {
+      "shortName": "EURO BROKERS SIM SPA",
+      "locationName": "MIL",
+      "companyName": "EURO BROKERS SIM SPA, MIL",
+      "leiCode": null,
+      "reutersCode": "EURO",
+      "id": 104640
+    },
+    {
+      "shortName": "EURO YAGI MARTIN LTD",
+      "locationName": "HKG",
+      "companyName": "EURO YAGI MARTIN LTD, HKG",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104641
+    },
+    {
+      "shortName": "EUROBROKERS LON",
+      "locationName": "LON",
+      "companyName": "EUROBROKERS LONDON, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 115238
+    },
+    {
+      "shortName": "EUROBROKERS SWITZLND",
+      "locationName": "NYO",
+      "companyName": "EUROBROKERS SWITZERLAND, NYO",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 109373
+    },
+    {
+      "shortName": "EURODEAL AV SA",
+      "locationName": "MAD",
+      "companyName": "EURODEAL AGENCIA DE VALORES SA, MAD",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104642
+    },
+    {
+      "shortName": "EUROVIEN FX MB LTD",
+      "locationName": "BUD",
+      "companyName": "EUROVIEN FX MB LTD, BUD",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 116223
+    },
+    {
+      "shortName": "EXCHANGE TRADER",
+      "locationName": "LON",
+      "companyName": "EXCHANGE TRADER, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 203156
+    },
+    {
+      "shortName": "EXCO NOONAN INC",
+      "locationName": "JTY",
+      "companyName": "EXCO NOONAN INC, JTY",
+      "leiCode": null,
+      "reutersCode": "NOON",
+      "id": 104650
+    },
+    {
+      "shortName": "FGC SECURITIES",
+      "locationName": "NYK",
+      "companyName": "FGC SECURITIES, LLC, NYK",
+      "leiCode": "549300QLWOQ3E4L0F403",
+      "reutersCode": " ",
+      "id": 178478
+    },
+    {
+      "shortName": "FICAMBIO SA",
+      "locationName": "MAD",
+      "companyName": "FICAMBIO SA, MAD",
+      "leiCode": null,
+      "reutersCode": "FICA",
+      "id": 104657
+    },
+    {
+      "shortName": "FINACOR",
+      "locationName": "BRX",
+      "companyName": "FINACOR, BRX",
+      "leiCode": null,
+      "reutersCode": "FINB",
+      "id": 104658
+    },
+    {
+      "shortName": "FINACOR",
+      "locationName": "PAR",
+      "companyName": "FINACOR, PAR",
+      "leiCode": null,
+      "reutersCode": "FINW",
+      "id": 104659
+    },
+    {
+      "shortName": "FINACOR DEUT GMBH",
+      "locationName": "MUN",
+      "companyName": "FINACOR DEUTSCHELAND GMBH, MUN",
+      "leiCode": "529900DO37V41G8ED919",
+      "reutersCode": "FING",
+      "id": 104660
+    },
+    {
+      "shortName": "FINACOR DEUTSCHLAND",
+      "locationName": "MIL",
+      "companyName": "FINACOR DEUTSCHLAND GMBH, MIL",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105809
+    },
+    {
+      "shortName": "FINACOR PETER",
+      "locationName": "PAR",
+      "companyName": "FINACOR PETER, PAR",
+      "leiCode": null,
+      "reutersCode": "FINW",
+      "id": 104661
+    },
+    {
+      "shortName": "FINANZ IBERICA SA",
+      "locationName": "MAD",
+      "companyName": "FINANZ IBERICA SA, MAD",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104664
+    },
+    {
+      "shortName": "FINARBIT (AUSTRIA)",
+      "locationName": "VIE",
+      "companyName": "FINARBIT (AUSTRIA) AG, VIE",
+      "leiCode": "549300GLSRLI7IDE3Z66",
+      "reutersCode": "FNAU",
+      "id": 137714
+    },
+    {
+      "shortName": "FINARBIT AR",
+      "locationName": "ZCH",
+      "companyName": "FINARBIT AG, ZCH",
+      "leiCode": "549300GLSRLI7IDE3Z66",
+      "reutersCode": "FNAR",
+      "id": 104665
+    },
+    {
+      "shortName": "FINARBIT AR",
+      "locationName": "LAU",
+      "companyName": "FINARBIT AG, LAU",
+      "leiCode": "549300GLSRLI7IDE3Z66",
+      "reutersCode": " ",
+      "id": 153360
+    },
+    {
+      "shortName": "FINCOR",
+      "locationName": "LIS",
+      "companyName": "FINCOR, LIS",
+      "leiCode": null,
+      "reutersCode": "FINN",
+      "id": 104666
+    },
+    {
+      "shortName": "FINEX AG",
+      "locationName": "ZCH",
+      "companyName": "FINEX AG, ZCH",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104667
+    },
+    {
+      "shortName": "FINSBURY (CI) LTD",
+      "locationName": "GUE",
+      "companyName": "FINSBURY (CI) LTD, GUE",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 120271
+    },
+    {
+      "shortName": "FIRM ADIX",
+      "locationName": "MOS",
+      "companyName": "FIRM ADIX, MOS",
+      "leiCode": null,
+      "reutersCode": "ADIX",
+      "id": 106942
+    },
+    {
+      "shortName": "FITZWILLIAM FX",
+      "locationName": "DBN",
+      "companyName": "FITZWILLIAM FOREIGN EXCHANGE, DBN",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104698
+    },
+    {
+      "shortName": "FLA MONEY BROKERS",
+      "locationName": "MAD",
+      "companyName": "FLA MONEY BROKERS, MAD",
+      "leiCode": null,
+      "reutersCode": "FLAE",
+      "id": 104699
+    },
+    {
+      "shortName": "FORD BANK I.B.",
+      "locationName": "NYK",
+      "companyName": "FORD BANK I.B., NYK",
+      "leiCode": "TESTC8BVG1BCZB3JH189",
+      "reutersCode": " ",
+      "id": 178232
+    },
+    {
+      "shortName": "FR BOND",
+      "locationName": "TOR",
+      "companyName": "FREEDOM BOND BROKERS-TORONTO, TOR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 114310
+    },
+    {
+      "shortName": "FRANCE-COURTAGE",
+      "locationName": "PAR",
+      "companyName": "FRANCE-COURTAGE, PAR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104708
+    },
+    {
+      "shortName": "FREEDOM INT BRO INC",
+      "locationName": "TOR",
+      "companyName": "FREEDOM INTERNATIONAL BROKERAGE INC, TOR",
+      "leiCode": "549300UUTCUXYW859441",
+      "reutersCode": " ",
+      "id": 122533
+    },
+    {
+      "shortName": "FUTURE AGENT1 TEST",
+      "locationName": "LON",
+      "companyName": "FUTURE AGENT1 TESTING, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182126
+    },
+    {
+      "shortName": "FUTURE AGENT10 TEST",
+      "locationName": "LON",
+      "companyName": "FUTURE AGENT10 TESTING, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182144
+    },
+    {
+      "shortName": "FUTURE AGENT2 TEST",
+      "locationName": "LON",
+      "companyName": "FUTURE AGENT2 TESTING, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182128
+    },
+    {
+      "shortName": "FUTURE AGENT3 TEST",
+      "locationName": "LON",
+      "companyName": "FUTURE AGENT3 TESTING, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182130
+    },
+    {
+      "shortName": "FUTURE AGENT4 TEST",
+      "locationName": "LON",
+      "companyName": "FUTURE AGENT4 TESTING, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182132
+    },
+    {
+      "shortName": "FUTURE AGENT5 TEST",
+      "locationName": "LON",
+      "companyName": "FUTURE AGENT5 TESTING, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182134
+    },
+    {
+      "shortName": "FUTURE AGENT6 TEST",
+      "locationName": "LON",
+      "companyName": "FUTURE AGENT6 TESTING, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182136
+    },
+    {
+      "shortName": "FUTURE AGENT7 TEST",
+      "locationName": "LON",
+      "companyName": "FUTURE AGENT7 TESTING, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182138
+    },
+    {
+      "shortName": "FUTURE AGENT8 TEST",
+      "locationName": "LON",
+      "companyName": "FUTURE AGENT8 TESTING, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182140
+    },
+    {
+      "shortName": "FUTURE AGENT9 TEST",
+      "locationName": "LON",
+      "companyName": "FUTURE AGENT9 TESTING, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182142
+    },
+    {
+      "shortName": "FUTURE BROKER1 TEST",
+      "locationName": "LON",
+      "companyName": "FUTURE BROKER1 TESTING, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182241
+    },
+    {
+      "shortName": "FUTURE BROKER10 TEST",
+      "locationName": "LON",
+      "companyName": "FUTURE BROKER10 TESTING, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182260
+    },
+    {
+      "shortName": "FUTURE BROKER2 TEST",
+      "locationName": "LON",
+      "companyName": "FUTURE BROKER2 TESTING, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182243
+    },
+    {
+      "shortName": "FUTURE BROKER3 TEST",
+      "locationName": "LON",
+      "companyName": "FUTURE BROKER3 TESTING, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182246
+    },
+    {
+      "shortName": "FUTURE BROKER4 TEST",
+      "locationName": "LON",
+      "companyName": "FUTURE BROKER4 TESTING, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182248
+    },
+    {
+      "shortName": "FUTURE BROKER5 TEST",
+      "locationName": "LON",
+      "companyName": "FUTURE BROKER5 TESTING, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182250
+    },
+    {
+      "shortName": "FUTURE BROKER7 TEST",
+      "locationName": "LON",
+      "companyName": "FUTURE BROKER7 TESTING, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182254
+    },
+    {
+      "shortName": "FUTURE BROKER8 TEST",
+      "locationName": "LON",
+      "companyName": "FUTURE BROKER8 TESTING, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182256
+    },
+    {
+      "shortName": "FUTURE BROKER9 TEST",
+      "locationName": "LON",
+      "companyName": "FUTURE BROKER9 TESTING, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182258
+    },
+    {
+      "shortName": "FX BANKKOZI KOZVETIT",
+      "locationName": "BUD",
+      "companyName": "FX BANKKOZI KOZVETITO RT, BUD",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 106938
+    },
+    {
+      "shortName": "GARBAN CAPITAL MKTS",
+      "locationName": "SAN",
+      "companyName": "GARBAN CAPITAL MARKETS LLC, SAN",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104731
+    },
+    {
+      "shortName": "GARBAN INTERCAP SCAN",
+      "locationName": "COP",
+      "companyName": "GARBAN INTERCAPITAL SCANDINAVIA A/S, COP",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 108942
+    },
+    {
+      "shortName": "GARBAN INTERCAP SCAN",
+      "locationName": "TOK",
+      "companyName": "GARBAN INTERCAPITAL SCANDINAVIA A/S, TOK",
+      "leiCode": null,
+      "reutersCode": "NAPQ",
+      "id": 105303
+    },
+    {
+      "shortName": "GELDHANDELS GMBH",
+      "locationName": "FFT",
+      "companyName": "GELDHANDELS GMBH, FFT",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 111446
+    },
+    {
+      "shortName": "GESELL GELD KAPIT",
+      "locationName": "LAU",
+      "companyName": "GESELLSCHAFT FEUR GELD-UND KAPITAL, LAU",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104751
+    },
+    {
+      "shortName": "GESMOSA GBI AV SA",
+      "locationName": "MAD",
+      "companyName": "GESMOSA GBI AGENCIA DE VALORES SA, MAD",
+      "leiCode": null,
+      "reutersCode": "GBIX",
+      "id": 104752
+    },
+    {
+      "shortName": "GFI (HK) BROKERS LTD",
+      "locationName": "HKG",
+      "companyName": "GFI (HK) BROKERS LIMITED, HKG",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 144812
+    },
+    {
+      "shortName": "GFI GROUP LLC",
+      "locationName": "NYK",
+      "companyName": "GFI GROUP LLC, NYK",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 122383
+    },
+    {
+      "shortName": "GFI GRP PTE LTD",
+      "locationName": "SIN",
+      "companyName": "GFI GROUP PTE LTD, SIN",
+      "leiCode": "549300EHVAB7PJ11OV18",
+      "reutersCode": " ",
+      "id": 136817
+    },
+    {
+      "shortName": "GFI KOREA MB LTD",
+      "locationName": "SEO",
+      "companyName": "GFI KOREA MONEY BROKERAGE LTD, SEO",
+      "leiCode": "549300UUUVWSCZXUTA05",
+      "reutersCode": " ",
+      "id": 156594
+    },
+    {
+      "shortName": "GFI SECS LTD PAR",
+      "locationName": "PAR",
+      "companyName": "GFI SECURITIES LTD PARIS BRANCH, PAR",
+      "leiCode": "GUNTJCA81C7IHNBGI392",
+      "reutersCode": " ",
+      "id": 155546
+    },
+    {
+      "shortName": "GFI SECURITIES LTD",
+      "locationName": "NYO",
+      "companyName": "GFI SECURITIES LTD, NYO",
+      "leiCode": "GUNTJCA81C7IHNBGI392",
+      "reutersCode": " ",
+      "id": 181611
+    },
+    {
+      "shortName": "GINALFI FINANCE SA",
+      "locationName": "PAR",
+      "companyName": "GINALFI FINANCE SA, PAR",
+      "leiCode": null,
+      "reutersCode": "LECA",
+      "id": 104747
+    },
+    {
+      "shortName": "GIROFIN SA",
+      "locationName": "GEN",
+      "companyName": "GIROFIN SA, GEN",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 122538
+    },
+    {
+      "shortName": "GLOBAL BOX LTD",
+      "locationName": "TEL",
+      "companyName": "GLOBAL BOX LTD, TEL",
+      "leiCode": null,
+      "reutersCode": "GBXI",
+      "id": 104754
+    },
+    {
+      "shortName": "GOTTEX BROKERS SA",
+      "locationName": "LAU",
+      "companyName": "GOTTEX BROKERS SA, LAU",
+      "leiCode": null,
+      "reutersCode": "GOTD",
+      "id": 104767
+    },
+    {
+      "shortName": "GOTTEX GMBH",
+      "locationName": "MUN",
+      "companyName": "GOTTEX GMBH, MUN",
+      "leiCode": null,
+      "reutersCode": "GOTM",
+      "id": 104768
+    },
+    {
+      "shortName": "GREL SA",
+      "locationName": "PAR",
+      "companyName": "GREL SA, PAR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104770
+    },
+    {
+      "shortName": "HAIGHT RUTH TERMY",
+      "locationName": "AMS",
+      "companyName": "HAIGHTON & RUTH TERMYNEN BV, AMS",
+      "leiCode": null,
+      "reutersCode": "HARA",
+      "id": 104783
+    },
+    {
+      "shortName": "HAR MEY SAV INC",
+      "locationName": "NYK",
+      "companyName": "HARLOW MEYER SAVAGE INC, NYK",
+      "leiCode": null,
+      "reutersCode": "HMSN",
+      "id": 104800
+    },
+    {
+      "shortName": "HAR UEDA SASS PTE",
+      "locationName": "SIN",
+      "companyName": "HARLOW UEDA SASSOON (S) PTE LTD, SIN",
+      "leiCode": null,
+      "reutersCode": "HSAP",
+      "id": 104801
+    },
+    {
+      "shortName": "HARLOW BUT AUS PTY",
+      "locationName": "SYD",
+      "companyName": "HARLOW BUTLER AUSTRALIA PTY LTD, SYD",
+      "leiCode": null,
+      "reutersCode": "HBAA",
+      "id": 104796
+    },
+    {
+      "shortName": "HARLOW BUT DMARK AS",
+      "locationName": "COP",
+      "companyName": "HARLOW BUTLER DENMARK AS, COP",
+      "leiCode": null,
+      "reutersCode": "HBCO",
+      "id": 104797
+    },
+    {
+      "shortName": "HARLOW BUT UEDA LTD",
+      "locationName": "LON",
+      "companyName": "HARLOW BUTLER UEDA LTD, LON",
+      "leiCode": null,
+      "reutersCode": "HBYL",
+      "id": 104798
+    },
+    {
+      "shortName": "HARLOW BUTLER NZ LTD",
+      "locationName": "WEL",
+      "companyName": "HARLOW BUTLER (NEW ZEALAND) LTD, WEL",
+      "leiCode": null,
+      "reutersCode": "HBNZ",
+      "id": 104795
+    },
+    {
+      "shortName": "HATORI MARSH CO LTD",
+      "locationName": "TOK",
+      "companyName": "HATORI MARSHALL CO LTD, TOK",
+      "leiCode": null,
+      "reutersCode": "HATO",
+      "id": 104806
+    },
+    {
+      "shortName": "HMS LUX SA",
+      "locationName": "LUX",
+      "companyName": "HMS LUX SA, LUX",
+      "leiCode": "213800HORBVA1NSFXK44",
+      "reutersCode": "HMSL",
+      "id": 104799
+    },
+    {
+      "shortName": "HONGKONG BROKERS LTD",
+      "locationName": "HKG",
+      "companyName": "HONGKONG BROKERS LTD, HKG",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104841
+    },
+    {
+      "shortName": "HPC ANJOU",
+      "locationName": "PAR",
+      "companyName": "HPC ANJOU, PAR",
+      "leiCode": null,
+      "reutersCode": "HPCP",
+      "id": 104845
+    },
+    {
+      "shortName": "HPC SA",
+      "locationName": "PAR",
+      "companyName": "HPC SA, PAR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 137813
+    },
+    {
+      "shortName": "ICAP (HONG KONG) LTD",
+      "locationName": "HKG",
+      "companyName": "ICAP (HONG KONG) LIMITED, HKG",
+      "leiCode": "213800QSGDAOD17TAR52",
+      "reutersCode": "ICHK",
+      "id": 104794
+    },
+    {
+      "shortName": "ICAP AUSTRALIA PTY",
+      "locationName": "SYD",
+      "companyName": "ICAP AUSTRALIA PTY LTD, SYD",
+      "leiCode": null,
+      "reutersCode": "APSA",
+      "id": 104649
+    },
+    {
+      "shortName": "ICAP BAHRAIN",
+      "locationName": "MMA",
+      "companyName": "ICAP BAHRAIN, MMA",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 165396
+    },
+    {
+      "shortName": "ICAP CAP MKTS LLC",
+      "locationName": "NYK",
+      "companyName": "ICAP CAPITAL MARKETS LLC, NYK",
+      "leiCode": "213800NMEZS3MD2IUP33",
+      "reutersCode": " ",
+      "id": 144927
+    },
+    {
+      "shortName": "ICAP CAPITAL MKTS",
+      "locationName": "NYK",
+      "companyName": "ICAP CAPITAL MARKETS LLC., NYK",
+      "leiCode": null,
+      "reutersCode": "GGBN",
+      "id": 104730
+    },
+    {
+      "shortName": "ICAP CORP LLC",
+      "locationName": "JTY",
+      "companyName": "ICAP CORPORATES LLC, JTY",
+      "leiCode": "78E0W5ARMBFSS8K1Y274",
+      "reutersCode": " ",
+      "id": 145037
+    },
+    {
+      "shortName": "ICAP CORPORATES LLC",
+      "locationName": "NYK",
+      "companyName": "ICAP CORPORATES LLC., NYK",
+      "leiCode": "78E0W5ARMBFSS8K1Y274",
+      "reutersCode": " ",
+      "id": 196855
+    },
+    {
+      "shortName": "ICAP DEUTSCHLND GMBH",
+      "locationName": "FFT",
+      "companyName": "ICAP DEUTSCHLAND GMBH, FFT",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 143113
+    },
+    {
+      "shortName": "ICAP DONE SUB CREDIT",
+      "locationName": "LON",
+      "companyName": "ICAP DONE SUBJECT TO CREDIT, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 198097
+    },
+    {
+      "shortName": "ICAP ENERGY AS",
+      "locationName": "BGN",
+      "companyName": "ICAP ENERGY AS, BGN",
+      "leiCode": "549300ESJXOU0F7S8014",
+      "reutersCode": " ",
+      "id": 197599
+    },
+    {
+      "shortName": "ICAP ENERGY AS",
+      "locationName": "AMS",
+      "companyName": "ICAP ENERGY AS, AMS",
+      "leiCode": "549300ESJXOU0F7S8014",
+      "reutersCode": " ",
+      "id": 197601
+    },
+    {
+      "shortName": "ICAP ENERGY AS",
+      "locationName": "MAD",
+      "companyName": "ICAP ENERGY AS, MAD",
+      "leiCode": "549300ESJXOU0F7S8014",
+      "reutersCode": " ",
+      "id": 197602
+    },
+    {
+      "shortName": "ICAP ENERGY LLC",
+      "locationName": "JTY",
+      "companyName": "ICAP ENERGY LLC, JTY",
+      "leiCode": "549300VM07TF7OTNNM51",
+      "reutersCode": " ",
+      "id": 198130
+    },
+    {
+      "shortName": "ICAP ENERGY LLC",
+      "locationName": "LON",
+      "companyName": "ICAP ENERGY LLC, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 198324
+    },
+    {
+      "shortName": "ICAP ENERGY LTD",
+      "locationName": "LON",
+      "companyName": "ICAP ENERGY TD, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 198641
+    },
+    {
+      "shortName": "ICAP ENERGY LTD 2",
+      "locationName": "LON",
+      "companyName": "ICAP ENERGY LTD 2, LON",
+      "leiCode": "213800CZM9YMSN4AL882",
+      "reutersCode": " ",
+      "id": 202620
+    },
+    {
+      "shortName": "ICAP ENERGY LTD BER",
+      "locationName": "LON",
+      "companyName": "ICAP ENERGY LTD, LON",
+      "leiCode": "213800CZM9YMSN4AL882",
+      "reutersCode": " ",
+      "id": 197614
+    },
+    {
+      "shortName": "ICAP EUROPE LIMITED",
+      "locationName": "LON",
+      "companyName": "ICAP EUROPE LIMITED, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 109706
+    },
+    {
+      "shortName": "ICAP FX SEOUL",
+      "locationName": "SEO",
+      "companyName": "ICAP FOREIGN EXCHANGE BROKERAGE (SEOUL), SEO",
+      "leiCode": "213800NJWXGFJEFIV946",
+      "reutersCode": " ",
+      "id": 156693
+    },
+    {
+      "shortName": "ICAP IB TESTING",
+      "locationName": "NJY",
+      "companyName": "ICAP IB TESTING, NJY",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 187772
+    },
+    {
+      "shortName": "ICAP NEW ZEALAND",
+      "locationName": "WEL",
+      "companyName": "ICAP NEW ZEALAND, WEL",
+      "leiCode": "213800KSJSHYYWTALU48",
+      "reutersCode": "ICAP",
+      "id": 142590
+    },
+    {
+      "shortName": "ICAP SCANDI A/S",
+      "locationName": "COP",
+      "companyName": "ICAP SCANDINAVIA A/S, COP",
+      "leiCode": "213800TCY6WBGFEHUF73",
+      "reutersCode": "APEX",
+      "id": 104651
+    },
+    {
+      "shortName": "ICAP SCANDINAVIA",
+      "locationName": "COP",
+      "companyName": "ICAP SCANDINAVIA, FILIAL AF TP ICAP (EUROPE) S.A., COP",
+      "leiCode": "213800R54EFFINMY1P02",
+      "reutersCode": " ",
+      "id": 209886
+    },
+    {
+      "shortName": "ICAP SEC LTD FFT.",
+      "locationName": "FFT",
+      "companyName": "ICAP SECURITIES LIMITED FRANKFURT BRANCH, FFT",
+      "leiCode": "213800NMEZS3MD2IUP33",
+      "reutersCode": " ",
+      "id": 198030
+    },
+    {
+      "shortName": "ICAP SECS DEUT",
+      "locationName": "FFT",
+      "companyName": "ICAP SECURITIES DEUTSCHLAND GMBH, FFT",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104647
+    },
+    {
+      "shortName": "ICAP SECS HK LTD",
+      "locationName": "HKG",
+      "companyName": "ICAP SECURITIES HONG KONG LIMITED, HKG",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 198421
+    },
+    {
+      "shortName": "ICAP SECS LLC",
+      "locationName": "NYK",
+      "companyName": "ICAP SECURITIES USA LLC, NYK",
+      "leiCode": "549300G8NIYYSMVM6211",
+      "reutersCode": " ",
+      "id": 134097
+    },
+    {
+      "shortName": "ICAP SECURITIES HK",
+      "locationName": "HKG",
+      "companyName": "ICAP SECURITIES HONG KONG LIMITED, HKG",
+      "leiCode": "213800D7KZL474UAPT09",
+      "reutersCode": " ",
+      "id": 204816
+    },
+    {
+      "shortName": "ICAP SECURITIES LTD",
+      "locationName": "LON",
+      "companyName": "ICAP SECURITIES LTD, LON",
+      "leiCode": "213800NMEZS3MD2IUP33",
+      "reutersCode": " ",
+      "id": 121989
+    },
+    {
+      "shortName": "ICAP SIN PTE LTD",
+      "locationName": "SIN",
+      "companyName": "ICAP SINGAPORE PTE LTD, SIN",
+      "leiCode": "213800KLAKERLVRQ8810",
+      "reutersCode": "APSS",
+      "id": 104646
+    },
+    {
+      "shortName": "ICAP SPOT USA LLC",
+      "locationName": "DEL",
+      "companyName": "ICAP SPOT USA LLC, DEL",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 196982
+    },
+    {
+      "shortName": "ICAP SYDNEY",
+      "locationName": "SYD",
+      "companyName": "INTERCAPITAL SYDNEY, SYD",
+      "leiCode": null,
+      "reutersCode": "ICAP",
+      "id": 122246
+    },
+    {
+      "shortName": "IFCS",
+      "locationName": "CSO",
+      "companyName": "INTERMONEY FINANCIAL PRODUCTS CHIASSO, CSO",
+      "leiCode": "54930091L731COPSV208",
+      "reutersCode": " ",
+      "id": 132310
+    },
+    {
+      "shortName": "IFP INTMNY FIN PROD",
+      "locationName": "PUL",
+      "companyName": "IFP INTERMONEY FINANCIAL PRODUCTS, PUL",
+      "leiCode": "54930091L731COPSV208",
+      "reutersCode": " ",
+      "id": 104919
+    },
+    {
+      "shortName": "IFS BROKERS LTD",
+      "locationName": "DBN",
+      "companyName": "IFS BROKERS LTD, DBN",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 131337
+    },
+    {
+      "shortName": "IGDL",
+      "locationName": "LON",
+      "companyName": "ICAP GLOBAL DERIVATIVES LIMITED, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 215982
+    },
+    {
+      "shortName": "INDEP WHOLESALE BRO",
+      "locationName": "AMS",
+      "companyName": "INDEPENDANT WHOLESALE BROKERAGE, AMS",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 116605
+    },
+    {
+      "shortName": "INTCAP INTMEDIAZIONE",
+      "locationName": "ROM",
+      "companyName": "INTERCAPITAL INTERMEDIAZIONE DI CAPITALI SRL, ROM",
+      "leiCode": null,
+      "reutersCode": "INCA",
+      "id": 104911
+    },
+    {
+      "shortName": "INTER CMS(SWITZ) LTD",
+      "locationName": "ZCH",
+      "companyName": "INTERCAPITAL CMS (SWITZERLAND) LTD, ZCH",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104648
+    },
+    {
+      "shortName": "INTER TDG CURRENCIES",
+      "locationName": "MAD",
+      "companyName": "INTERNATIONAL TRADING CURRENCIES SA, MAD",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 108579
+    },
+    {
+      "shortName": "INTERBROKERS CONSULT",
+      "locationName": "BRA",
+      "companyName": "INTERBROKERS AND CONSULTING AS, BRA",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 135337
+    },
+    {
+      "shortName": "INTERCAPITAL MARKETS",
+      "locationName": "MIL",
+      "companyName": "INTERCAPITAL MARKETS SIM SPA, MIL",
+      "leiCode": "213800KD1HOVUDFJ5Q27",
+      "reutersCode": " ",
+      "id": 165850
+    },
+    {
+      "shortName": "INTERCESSIE NED BV",
+      "locationName": "AMS",
+      "companyName": "INTERCESSIE NEDERLAND BV, AMS",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 122542
+    },
+    {
+      "shortName": "INTERCHANGE SA",
+      "locationName": "GEN",
+      "companyName": "INTERCHANGE SA, GEN",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104912
+    },
+    {
+      "shortName": "INTERCHANGE SA",
+      "locationName": "MOR",
+      "companyName": "INTERCHANGE SA, MOR",
+      "leiCode": null,
+      "reutersCode": "ICHM",
+      "id": 104913
+    },
+    {
+      "shortName": "INTERCOURTAGE BCAIRE",
+      "locationName": "PAR",
+      "companyName": "INTERCOURTAGE BANCAIRE, PAR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104914
+    },
+    {
+      "shortName": "INTERFIN",
+      "locationName": "CSO",
+      "companyName": "INTERFIN, CSO",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 136854
+    },
+    {
+      "shortName": "INTERGRATED FIN PRO",
+      "locationName": "CSO",
+      "companyName": "INTERGRATED FINANCIAL PRODUCTS LIMITED, CSO",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 131344
+    },
+    {
+      "shortName": "INTERMONEY FINANCIAL",
+      "locationName": "LAU",
+      "companyName": "INTERMONEY FINANCIAL PRODUCTS LAUSANNE, LAU",
+      "leiCode": "54930091L731COPSV208",
+      "reutersCode": " ",
+      "id": 114112
+    },
+    {
+      "shortName": "INTL MONEY BROKERS",
+      "locationName": "NYK",
+      "companyName": "INTERNATIONAL MONEY BROKERS, NYK",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 108976
+    },
+    {
+      "shortName": "INTMACHES ESP SA",
+      "locationName": "BCA",
+      "companyName": "INTERMACHES ESPANA SA, BCA",
+      "leiCode": null,
+      "reutersCode": "IIMM",
+      "id": 104917
+    },
+    {
+      "shortName": "INTMEDIAZNE FIN ITAL",
+      "locationName": "MIL",
+      "companyName": "INTERMEDIAZIONE FINANZIARIA ITALIA SPA, MIL",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104918
+    },
+    {
+      "shortName": "INTMNY FIN PROD",
+      "locationName": "MIL",
+      "companyName": "INTERMONEY FINANCIAL PRODUCTS, MIL",
+      "leiCode": "54930091L731COPSV208",
+      "reutersCode": "MONY",
+      "id": 104920
+    },
+    {
+      "shortName": "IPS CORP",
+      "locationName": "SEO",
+      "companyName": "IPS (INTEGRATED PLATFORM SERVICES) CORPORATION, SEO",
+      "leiCode": "549300DTHPGL24ZB7X89",
+      "reutersCode": " ",
+      "id": 176062
+    },
+    {
+      "shortName": "IRP TRADES",
+      "locationName": "FFT",
+      "companyName": "IRP TRADES, FFT",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 163157
+    },
+    {
+      "shortName": "ISWAP EURO LIMITED",
+      "locationName": "LON",
+      "companyName": "ISWAP EURO LIMITED, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 201732
+    },
+    {
+      "shortName": "JACQUES POLLACK",
+      "locationName": "PAR",
+      "companyName": "JACQUES POLLACK & CIE, PAR",
+      "leiCode": null,
+      "reutersCode": "POLL",
+      "id": 104953
+    },
+    {
+      "shortName": "JAN DEBEUCKELAER",
+      "locationName": "ANT",
+      "companyName": "JAN DEBEUCKELAER, ANT",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104954
+    },
+    {
+      "shortName": "JCAP TREASURY SERV",
+      "locationName": "STH",
+      "companyName": "JCAP TREASURY SERVICES, STH",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 161629
+    },
+    {
+      "shortName": "JP MULLER & PTRS",
+      "locationName": "FFT",
+      "companyName": "JP MULLER & PARTNERS GMBH, FFT",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104965
+    },
+    {
+      "shortName": "JTB LIRA SVS SIM",
+      "locationName": "MIL",
+      "companyName": "JTB LIRA SERVICES SIM JTB FOREX, MIL",
+      "leiCode": null,
+      "reutersCode": "JTBX",
+      "id": 104966
+    },
+    {
+      "shortName": "KEPLER CAP MKTS SA",
+      "locationName": "NYO",
+      "companyName": "KEPLER CAPITAL MARKETS SA, NYO",
+      "leiCode": null,
+      "reutersCode": "CEDF",
+      "id": 104197
+    },
+    {
+      "shortName": "KOBAYASHI",
+      "locationName": "TOK",
+      "companyName": "KOBAYASHI, TOK",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104994
+    },
+    {
+      "shortName": "KOREA MONEY BRO CORP",
+      "locationName": "HKG",
+      "companyName": "KOREA MONEY BROKERAGE CORP, HKG",
+      "leiCode": "988400L2N9V47ZGDVE67",
+      "reutersCode": " ",
+      "id": 148732
+    },
+    {
+      "shortName": "KOREA MONEY BRO CORP",
+      "locationName": "SEO",
+      "companyName": "KOREA MONEY BROKERAGE CORP, SEO",
+      "leiCode": "988400L2N9V47ZGDVE67",
+      "reutersCode": " ",
+      "id": 168755
+    },
+    {
+      "shortName": "KTYE BROKING LTD",
+      "locationName": "LON",
+      "companyName": "KYTE BROKING LTD, LON",
+      "leiCode": "1ZU7M6R6N6PXYJ6V0C83",
+      "reutersCode": " ",
+      "id": 157045
+    },
+    {
+      "shortName": "LASSER MARSHALL INC",
+      "locationName": "NYK",
+      "companyName": "LASSER MARSHALL INC, NYK",
+      "leiCode": null,
+      "reutersCode": "LASM",
+      "id": 105022
+    },
+    {
+      "shortName": "LE BLAN",
+      "locationName": "PAR",
+      "companyName": "LE BLAN, PAR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105026
+    },
+    {
+      "shortName": "LIAUD COURTAGE",
+      "locationName": "PAR",
+      "companyName": "LIAUD COURTAGE, PAR",
+      "leiCode": null,
+      "reutersCode": "LIAU",
+      "id": 105039
+    },
+    {
+      "shortName": "LIBERTY ROUSSIN",
+      "locationName": "PAR",
+      "companyName": "LIBERTY ROUSSIN SAS, PAR",
+      "leiCode": null,
+      "reutersCode": "ROUP",
+      "id": 105077
+    },
+    {
+      "shortName": "LON CURR BROKERS",
+      "locationName": "LON",
+      "companyName": "LONDON CURRENCY BROKERS, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 115234
+    },
+    {
+      "shortName": "LOUIS CAPITAL MKTS",
+      "locationName": "NYK",
+      "companyName": "LOUIS CAPITAL MARKETS LP, NYK",
+      "leiCode": "2138006FA8JJ1ABSHO31",
+      "reutersCode": " ",
+      "id": 170187
+    },
+    {
+      "shortName": "LPS PARTNERS INC",
+      "locationName": "NYK",
+      "companyName": "LPS PARTNERS INC, NYK",
+      "leiCode": "549300H51TVW335I8478",
+      "reutersCode": " ",
+      "id": 186771
+    },
+    {
+      "shortName": "M2M BROKING LTD",
+      "locationName": "LON",
+      "companyName": "M2M BROKING LTD, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 150798
+    },
+    {
+      "shortName": "MAISON DEBEAUSSE SA",
+      "locationName": "PAR",
+      "companyName": "MAISON DEBEAUSSE SA, PAR",
+      "leiCode": null,
+      "reutersCode": "VIEL",
+      "id": 105074
+    },
+    {
+      "shortName": "MAISON MAURICE DEGEZ",
+      "locationName": "PAR",
+      "companyName": "MAISON MAURICE DEGEZ, PAR",
+      "leiCode": null,
+      "reutersCode": "VIEP",
+      "id": 105075
+    },
+    {
+      "shortName": "MAISON RAYNAUD SA",
+      "locationName": "PAR",
+      "companyName": "MAISON RAYNAUD SA, PAR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105076
+    },
+    {
+      "shortName": "MARSHALLS BAHRAIN",
+      "locationName": "MMA",
+      "companyName": "MARSHALLS (BAHRAIN) LTD, MMA",
+      "leiCode": "549300ZB6C2IUNV2FK66",
+      "reutersCode": " ",
+      "id": 133419
+    },
+    {
+      "shortName": "MBG EUROPE LTD",
+      "locationName": "LON",
+      "companyName": "MBG EUROPE LIMITED., LON",
+      "leiCode": "213800VQL8PX5DEKO917",
+      "reutersCode": " ",
+      "id": 178507
+    },
+    {
+      "shortName": "MEITAN TRADITION LTD",
+      "locationName": "TOK",
+      "companyName": "MEITAN TRADITION LTD, TOK",
+      "leiCode": null,
+      "reutersCode": "MEIT",
+      "id": 105097
+    },
+    {
+      "shortName": "MFR SECS INC",
+      "locationName": "NYK",
+      "companyName": "MFR SECURITIES INC, NYK",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 135555
+    },
+    {
+      "shortName": "MGI MNYBKRS SDN BHD",
+      "locationName": "KUA",
+      "companyName": "MGI MONEYBROKERS SDN BHD, KUA",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105125
+    },
+    {
+      "shortName": "MIREXA CAPITAL",
+      "locationName": "LON",
+      "companyName": "MIREXA CAPITAL, LON",
+      "leiCode": "549300BMVW85YF9FGN67",
+      "reutersCode": " ",
+      "id": 184954
+    },
+    {
+      "shortName": "MITRA DANA UTAMA",
+      "locationName": "JAK",
+      "companyName": "MITRA DANA UTAMA, JAK",
+      "leiCode": null,
+      "reutersCode": "MDUI",
+      "id": 105142
+    },
+    {
+      "shortName": "MMI LTD",
+      "locationName": "DBN",
+      "companyName": "MONEY MARKET INTERNATIONAL LTD (MMI), DBN",
+      "leiCode": null,
+      "reutersCode": "MMII",
+      "id": 105160
+    },
+    {
+      "shortName": "MONEY MARKET BROKERS",
+      "locationName": "BRA",
+      "companyName": "MONEY MARKET BROKERS, BRA",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105162
+    },
+    {
+      "shortName": "MONEY MARKET BROKERS",
+      "locationName": "PRA",
+      "companyName": "MONEY MARKET BROKERS, PRA",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105163
+    },
+    {
+      "shortName": "MONEY MARKET BROKERS",
+      "locationName": "VIE",
+      "companyName": "MONEY MARKET BROKERS, VIE",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105164
+    },
+    {
+      "shortName": "MORGAN STAN CAP PRO",
+      "locationName": "JTY",
+      "companyName": "MORGAN STANLEY CAPITAL PRODUCTS LLC, JTY",
+      "leiCode": "IVNH9ABHJY5L0X3RKW69",
+      "reutersCode": " ",
+      "id": 187142
+    },
+    {
+      "shortName": "MTN BIERBAUM SIN LTD",
+      "locationName": "SIN",
+      "companyName": "MARTIN BIERBAUM (SINGAPORE) PRIVATE LTD, SIN",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105085
+    },
+    {
+      "shortName": "MTN BKRS JAPAN LTD",
+      "locationName": "TOK",
+      "companyName": "MARTIN BROKERS (JAPAN) LTD, TOK",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105086
+    },
+    {
+      "shortName": "MTN BKRS SWZ AG",
+      "locationName": "ZCH",
+      "companyName": "MARTIN BROKERS (SWITZERLAND) AG, ZCH",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105087
+    },
+    {
+      "shortName": "MURPHY & DURIEU TPFS",
+      "locationName": "NYK",
+      "companyName": "MURPHY & DURIEU DIV OF TPFS LLC, NYK",
+      "leiCode": "5493002MIGPVI71S2611",
+      "reutersCode": " ",
+      "id": 182152
+    },
+    {
+      "shortName": "MW MARSH SIN PTY LTD",
+      "locationName": "SIN",
+      "companyName": "MW MARSHALL (SINGAPORE) PTY LTD, SIN",
+      "leiCode": null,
+      "reutersCode": "MWMR",
+      "id": 105198
+    },
+    {
+      "shortName": "MW MARSHALL HK LTD",
+      "locationName": "HKG",
+      "companyName": "MW MARSHALL (HONG KONG) LTD, HKG",
+      "leiCode": null,
+      "reutersCode": "MWHK",
+      "id": 105197
+    },
+    {
+      "shortName": "MW MARSHALL LTD",
+      "locationName": "TOK",
+      "companyName": "MW MARSHALL LTD, TOK",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105199
+    },
+    {
+      "shortName": "MW MARSHALL PTY LTD",
+      "locationName": "SYD",
+      "companyName": "MW MARSHALL & CO PTY LTD, SYD",
+      "leiCode": null,
+      "reutersCode": "MWMA",
+      "id": 105196
+    },
+    {
+      "shortName": "MW MARSHALL UK LTD",
+      "locationName": "LON",
+      "companyName": "MW MARSHALL UK LTD, LON",
+      "leiCode": null,
+      "reutersCode": "MWOL",
+      "id": 105200
+    },
+    {
+      "shortName": "NCB MONEYBROKERS LTD",
+      "locationName": "DBN",
+      "companyName": "NCB MONEYBROKERS LTD, DBN",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105283
+    },
+    {
+      "shortName": "NEWEDGE GROUP",
+      "locationName": "NYK",
+      "companyName": "NEWEDGE GROUP, NYK",
+      "leiCode": "SY0N2375ITPRWQO6BF31",
+      "reutersCode": " ",
+      "id": 150854
+    },
+    {
+      "shortName": "NEWEDGE GROUP",
+      "locationName": "PAR",
+      "companyName": "NEWEDGE GROUP, PAR",
+      "leiCode": "SY0N2375ITPRWQO6BF31",
+      "reutersCode": " ",
+      "id": 145474
+    },
+    {
+      "shortName": "NEWEDGE GROUP DUBAI",
+      "locationName": "DBI",
+      "companyName": "NEWEDGE GROUP SA (DUBAI) BRANCH, DBI",
+      "leiCode": "SY0N2375ITPRWQO6BF31",
+      "reutersCode": " ",
+      "id": 179096
+    },
+    {
+      "shortName": "NEWEDGE GROUP-PARIS",
+      "locationName": "PAR",
+      "companyName": "NEWEDGE GROUP (PARIS), PAR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 145350
+    },
+    {
+      "shortName": "NEWEDGE GRP",
+      "locationName": "LON",
+      "companyName": "NEWEDGE GROUP., LON",
+      "leiCode": "SY0N2375ITPRWQO6BF31",
+      "reutersCode": " ",
+      "id": 119751
+    },
+    {
+      "shortName": "NEWEDGE USA LLC",
+      "locationName": "NYK",
+      "companyName": "NEWEDGE USA LLC, NYK",
+      "leiCode": "AAOJVIVEV2VZFZTO3U97",
+      "reutersCode": " ",
+      "id": 118305
+    },
+    {
+      "shortName": "NITTAN CAP GROUP LTD",
+      "locationName": "TOK",
+      "companyName": "NITTAN CAPITAL GROUP LTD, TOK",
+      "leiCode": "353800QQE54Q8LR3LI87",
+      "reutersCode": " ",
+      "id": 109521
+    },
+    {
+      "shortName": "NITTAN CAP LTD SG",
+      "locationName": "SIN",
+      "companyName": "NITTAN CAPITAL SINGAPORE PTE LTD, SIN",
+      "leiCode": "549300YXG4GCZWI4OM24",
+      "reutersCode": " ",
+      "id": 143629
+    },
+    {
+      "shortName": "NITTAN CAPITAL ASIA",
+      "locationName": "HKG",
+      "companyName": "NITTAN CAPITAL ASIA LTD, HKG",
+      "leiCode": null,
+      "reutersCode": "HIHK",
+      "id": 104808
+    },
+    {
+      "shortName": "NITTAN CAPITAL LTD",
+      "locationName": "HKG",
+      "companyName": "NITTAN CAPITAL LTD, HKG",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105302
+    },
+    {
+      "shortName": "NITTAN MNY BROKERAGE",
+      "locationName": "SEO",
+      "companyName": "NITTAN CAPITAL MONEY BROKERAGE (KOREA) LTD, SEO",
+      "leiCode": "549300YXG4GCZWI4OM24",
+      "reutersCode": " ",
+      "id": 148420
+    },
+    {
+      "shortName": "NOMURA INTERNATIONAL",
+      "locationName": "LON",
+      "companyName": "NOMURA INTERNATIONAL PLC AGENT, LON",
+      "leiCode": "DGQCSV2PHVF7I2743539",
+      "reutersCode": " ",
+      "id": 177770
+    },
+    {
+      "shortName": "OMF LTD",
+      "locationName": "WEL",
+      "companyName": "OMFINANCIAL LTD, WEL",
+      "leiCode": "549300PAEG6LX5MCOM58",
+      "reutersCode": " ",
+      "id": 136701
+    },
+    {
+      "shortName": "OMF SECS LTD",
+      "locationName": "AUK",
+      "companyName": "OMF SECURITIES LIMITED, AUK",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 116848
+    },
+    {
+      "shortName": "OMF SECS LTD",
+      "locationName": "WEL",
+      "companyName": "OMF SECURITIES LIMITED, WEL",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 165436
+    },
+    {
+      "shortName": "ONG TRADITION SING",
+      "locationName": "SIN",
+      "companyName": "ONG TRADITION SINGAPORE (PTE) LTD, SIN",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 144649
+    },
+    {
+      "shortName": "OOLD HEIJN VOOG",
+      "locationName": "AMS",
+      "companyName": "OOLDERS HEIJNING & VOOGELAAR, AMS",
+      "leiCode": null,
+      "reutersCode": "OOLD",
+      "id": 105358
+    },
+    {
+      "shortName": "OTCEX LLC",
+      "locationName": "NYK",
+      "companyName": "OTCEX LLC, NYK",
+      "leiCode": "549300SFF7YEJGFVDC94",
+      "reutersCode": " ",
+      "id": 178325
+    },
+    {
+      "shortName": "OTCEX SA",
+      "locationName": "PAR",
+      "companyName": "OTCEX SA, PAR",
+      "leiCode": "969500UN3VAQBT5IME82",
+      "reutersCode": " ",
+      "id": 178382
+    },
+    {
+      "shortName": "OTCEX UK BRANCH",
+      "locationName": "LON",
+      "companyName": "OTCEX UK BRANCH, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 178384
+    },
+    {
+      "shortName": "PAN ARAB MGMNT CO",
+      "locationName": "KUW",
+      "companyName": "PAN ARAB MANAGEMENT COMPANY, KUW",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182272
+    },
+    {
+      "shortName": "PARIBELLO",
+      "locationName": "NYK",
+      "companyName": "PARIBELLO, NYK",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 110408
+    },
+    {
+      "shortName": "PENTA MAHABAKTI",
+      "locationName": "JAK",
+      "companyName": "PENTA MAHABAKTI, JAK",
+      "leiCode": null,
+      "reutersCode": "PMBJ",
+      "id": 105404
+    },
+    {
+      "shortName": "PIERRE DAGUES BIE",
+      "locationName": "GEN",
+      "companyName": "PIERRE DAGUES BIE, GEN",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105408
+    },
+    {
+      "shortName": "POLLAK PREBON",
+      "locationName": "PAR",
+      "companyName": "POLLAK PREBON, PAR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 110730
+    },
+    {
+      "shortName": "PRE YAM NED BV",
+      "locationName": "AMS",
+      "companyName": "PREBON YAMANE (NEDERLAND) BV, AMS",
+      "leiCode": null,
+      "reutersCode": "PYNL",
+      "id": 105417
+    },
+    {
+      "shortName": "PREBON PREMEX DUBAI",
+      "locationName": "DBI",
+      "companyName": "PREBON PREMEX DUBAI, DBI",
+      "leiCode": "549300UC2KZTPVNJQC52",
+      "reutersCode": " ",
+      "id": 180114
+    },
+    {
+      "shortName": "PREBON PREMEX LON",
+      "locationName": "LON",
+      "companyName": "PREBON PREMEX LONDON, LON",
+      "leiCode": "549300MU2MYJLOY6IJ51",
+      "reutersCode": " ",
+      "id": 170853
+    },
+    {
+      "shortName": "PREBON PREMEX SING",
+      "locationName": "SIN",
+      "companyName": "PREBON PREMEX SING, SIN",
+      "leiCode": "549300J8JKCZBPXJRS07",
+      "reutersCode": " ",
+      "id": 170855
+    },
+    {
+      "shortName": "PREBON PREMEX ZCH",
+      "locationName": "ZCH",
+      "companyName": "PREBON PREMEX ZURICH, ZCH",
+      "leiCode": "549300WGLEIR7RR1UE76",
+      "reutersCode": " ",
+      "id": 158426
+    },
+    {
+      "shortName": "PREBON YAM STH AFRIC",
+      "locationName": "JHB",
+      "companyName": "PREBON YAMANE (SOUTH AFRICA) (PTY), JHB",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 150819
+    },
+    {
+      "shortName": "PREBON YAMANE",
+      "locationName": "PAR",
+      "companyName": "PREBON YAMANE, PAR",
+      "leiCode": null,
+      "reutersCode": "NICP",
+      "id": 105289
+    },
+    {
+      "shortName": "PREBON YAMANE PRAGUE",
+      "locationName": "PRA",
+      "companyName": "PREBON YAMANE (PRAGUE), PRA",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 137650
+    },
+    {
+      "shortName": "PRIMEX CAP MARKETS",
+      "locationName": "LON",
+      "companyName": "PRIMEX CAPITAL MARKETS, LON",
+      "leiCode": "549300BMVW85YF9FGN67",
+      "reutersCode": " ",
+      "id": 198017
+    },
+    {
+      "shortName": "PROTOCOL TSY SERV",
+      "locationName": "JHB",
+      "companyName": "PROTOCOL TREASURY SERVICES (PTY) LTD, JHB",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 165348
+    },
+    {
+      "shortName": "PUILAETCO X BROK DEP",
+      "locationName": "BRX",
+      "companyName": "PUILAETCO DEWAAY PRIVATE BANKERS (X-DEWAY BROKING), BRX",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 104602
+    },
+    {
+      "shortName": "PVM FUTURES INC",
+      "locationName": "HOB",
+      "companyName": "PVM FUTURES INC, HOB",
+      "leiCode": "5493001VIV2FFX8HYY23",
+      "reutersCode": " ",
+      "id": 187451
+    },
+    {
+      "shortName": "PVM OIL ASSOCIATES",
+      "locationName": "LON",
+      "companyName": "PVM OIL ASSOCIATES LTD, LON",
+      "leiCode": "2138001939R54S3QAM24",
+      "reutersCode": " ",
+      "id": 183953
+    },
+    {
+      "shortName": "R P MARTIN GROUP LTD",
+      "locationName": "LON",
+      "companyName": "R P MARTIN GROUP LIMITED, LON",
+      "leiCode": null,
+      "reutersCode": "RPMF",
+      "id": 105088
+    },
+    {
+      "shortName": "REFCO MAR MON SA",
+      "locationName": "PAR",
+      "companyName": "REFCO MARCHE MONETAIRE SA, PAR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105450
+    },
+    {
+      "shortName": "REUTERS",
+      "locationName": "NYK",
+      "companyName": "REUTERS, NYK",
+      "leiCode": null,
+      "reutersCode": "REUT",
+      "id": 108509
+    },
+    {
+      "shortName": "ROUSSIN LUX SA",
+      "locationName": "LUX",
+      "companyName": "ROUSSIN (LUXEMBOURG) SA, LUX",
+      "leiCode": null,
+      "reutersCode": "MARO",
+      "id": 105476
+    },
+    {
+      "shortName": "RP MARTIN (AUSTRIA)",
+      "locationName": "VIE",
+      "companyName": "RP MARTIN (AUSTRIA) AG, VIE",
+      "leiCode": null,
+      "reutersCode": "RPMA",
+      "id": 155833
+    },
+    {
+      "shortName": "RP MARTIN STOCKHOLM",
+      "locationName": "STO",
+      "companyName": "RP MARTIN STOCKHOLM, STO",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 133688
+    },
+    {
+      "shortName": "RP MARTINS SA",
+      "locationName": "LAU",
+      "companyName": "RP MARTINS SA, LAU",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 129624
+    },
+    {
+      "shortName": "RP MARTINS SA",
+      "locationName": "NYK",
+      "companyName": "RP MARTINS SA, NYK",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 146247
+    },
+    {
+      "shortName": "RUSTAD & PARTNERS",
+      "locationName": "OSL",
+      "companyName": "RUSTAD & PARTNERS INTERNATIONAL BROKERS AS, OSL",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 106505
+    },
+    {
+      "shortName": "SA I&CMB (PTY) LTD",
+      "locationName": "JHB",
+      "companyName": "SOUTH AFRICAN INT & CAP MARKET BROKERS (PTY) LTD, JHB",
+      "leiCode": null,
+      "reutersCode": "SAMJ",
+      "id": 105637
+    },
+    {
+      "shortName": "SASSOON WSHEN KED",
+      "locationName": "JAK",
+      "companyName": "SASSOON WSHEN KEDAUNG, JAK",
+      "leiCode": null,
+      "reutersCode": "SWKJ",
+      "id": 105546
+    },
+    {
+      "shortName": "SEOUL MONEY - SEOUL",
+      "locationName": "SEO",
+      "companyName": "SEOUL MONEY BROKERAGE SERVICES LTD - SEOUL, SEO",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 174831
+    },
+    {
+      "shortName": "SERVIAMEDIA SMC",
+      "locationName": "LIS",
+      "companyName": "SERVIAMEDIA SOCIEDADE MEDIADORA DE CAPITAS SA, LIS",
+      "leiCode": null,
+      "reutersCode": "SERT",
+      "id": 105567
+    },
+    {
+      "shortName": "SET ICAP",
+      "locationName": "CIA",
+      "companyName": "SET ICAP, CIA",
+      "leiCode": "549300VM07TF7OTNNM51",
+      "reutersCode": " ",
+      "id": 202622
+    },
+    {
+      "shortName": "SHORCAN BROKERS LTD",
+      "locationName": "TOR",
+      "companyName": "SHORCAN BROKERS LIMITED, TOR",
+      "leiCode": "5493009OFT0EK4NI3K23",
+      "reutersCode": " ",
+      "id": 178565
+    },
+    {
+      "shortName": "SIEMCA SMC SA",
+      "locationName": "LIS",
+      "companyName": "SIEMCA SOCIEDADE MEDIADORA DE CAPITAS SA, LIS",
+      "leiCode": null,
+      "reutersCode": "SIEM",
+      "id": 105583
+    },
+    {
+      "shortName": "SIG ENERGY LLLP",
+      "locationName": "BCD",
+      "companyName": "SIG ENERGY LLLP, BCD",
+      "leiCode": "549300D4TJORMTUKHE54",
+      "reutersCode": " ",
+      "id": 134638
+    },
+    {
+      "shortName": "SIGMA SECURITIES SA",
+      "locationName": "ATH",
+      "companyName": "SIGMA SECURITIES SA, ATH",
+      "leiCode": null,
+      "reutersCode": "SIGM",
+      "id": 105584
+    },
+    {
+      "shortName": "STERLING INTL BRKRS",
+      "locationName": "LON",
+      "companyName": "STERLING INTERNATIONAL BROKERS LIMITED, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 127844
+    },
+    {
+      "shortName": "T&T FOREX BEL SA",
+      "locationName": "BRX",
+      "companyName": "TULLETT & TOKYO FOREX BELGIUM SA, BRX",
+      "leiCode": null,
+      "reutersCode": "TTFX",
+      "id": 105819
+    },
+    {
+      "shortName": "T&T FOREX INC",
+      "locationName": "LOS",
+      "companyName": "TULLETT & TOKYO FOREX INC, LOS",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105820
+    },
+    {
+      "shortName": "T&T FOREX INT LTD",
+      "locationName": "HKG",
+      "companyName": "TULLETT & TOKYO FOREX INTERNATIONAL LTD, HKG",
+      "leiCode": null,
+      "reutersCode": "TFHK",
+      "id": 105822
+    },
+    {
+      "shortName": "T&T MM CO CI LTD",
+      "locationName": "SPP",
+      "companyName": "TULLETT LIBERTY MONEY MARKETS CO (CI) LTD, SPP",
+      "leiCode": null,
+      "reutersCode": "TULG",
+      "id": 105828
+    },
+    {
+      "shortName": "TCHNO INTMEDZONE",
+      "locationName": "ROM",
+      "companyName": "TECHNOCAMBI INTEMEDIAZIONE, ROM",
+      "leiCode": null,
+      "reutersCode": "TECH",
+      "id": 105761
+    },
+    {
+      "shortName": "TERRA MONEY BROKERS",
+      "locationName": "JHB",
+      "companyName": "TERRA MONEY BROKERS, JHB",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 111950
+    },
+    {
+      "shortName": "TEST CUSTOMER MARKER",
+      "locationName": "LON",
+      "companyName": "TEST CUSTOMER MARKER, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 187631
+    },
+    {
+      "shortName": "TFS AUSTRALIA",
+      "locationName": "SYD",
+      "companyName": "TFS AUSTRALIA PTY LTD, SYD",
+      "leiCode": "549300WXUYR1CMLDQF25",
+      "reutersCode": " ",
+      "id": 158424
+    },
+    {
+      "shortName": "TL (POWER)LTD",
+      "locationName": "LON",
+      "companyName": "TULLETT LIBERTY (POWER) LIMITED, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 112904
+    },
+    {
+      "shortName": "TL (TSY & DERIV)LTD",
+      "locationName": "BAN",
+      "companyName": "TULLETT LIBERTY (TREASURY AND DERIVATIVES) LTD, BAN",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105823
+    },
+    {
+      "shortName": "TL (TSY & DERIV)LTD",
+      "locationName": "BRX",
+      "companyName": "TULLETT LIBERTY (TREASURY AND DERIVATIVES) LTD, BRX",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105824
+    },
+    {
+      "shortName": "TL (TSY & DERIV)LTD",
+      "locationName": "TOK",
+      "companyName": "TULLETT LIBERTY (TREASURY AND DERIVATIVES) LTD, TOK",
+      "leiCode": null,
+      "reutersCode": "TKFX",
+      "id": 105826
+    },
+    {
+      "shortName": "TL ELECTRONIC FWDS",
+      "locationName": "SPP",
+      "companyName": "TULLETT LIBERTY ELECTRONIC FORWARDS, SPP",
+      "leiCode": "549300MU2MYJLOY6IJ51",
+      "reutersCode": " ",
+      "id": 110300
+    },
+    {
+      "shortName": "TL ELECTRONIC FWDS",
+      "locationName": "LON",
+      "companyName": "TULLETT LIBERTY ELECTRONIC FORWARDS, LON",
+      "leiCode": "549300MU2MYJLOY6IJ51",
+      "reutersCode": " ",
+      "id": 122167
+    },
+    {
+      "shortName": "TOKYO FOREX UEDA HRL",
+      "locationName": "TOK",
+      "companyName": "TOKYO FOREX UEDA HARLOW, TOK",
+      "leiCode": "5493007ORPWWCWWRKH29",
+      "reutersCode": " ",
+      "id": 108332
+    },
+    {
+      "shortName": "TOLINI",
+      "locationName": "PAR",
+      "companyName": "TOLINI, PAR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105784
+    },
+    {
+      "shortName": "TOTAN CAP MARKETS",
+      "locationName": "TOK",
+      "companyName": "TOTAN CAPITAL MARKETS CO LIMITED, TOK",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105782
+    },
+    {
+      "shortName": "TP (EUROPE) LTD",
+      "locationName": "PAR",
+      "companyName": "TULLETT PREBON (EUROPE) LIMITED (PARIS BRANCH), PAR",
+      "leiCode": "549300MU2MYJLOY6IJ51",
+      "reutersCode": " ",
+      "id": 108544
+    },
+    {
+      "shortName": "TP (EUROPE) LTD X UK",
+      "locationName": "LON",
+      "companyName": "TULLETT PREBON (EUROPE) LTD X UK, LON",
+      "leiCode": "549300MU2MYJLOY6IJ51",
+      "reutersCode": "PYLL",
+      "id": 105419
+    },
+    {
+      "shortName": "TP (EUROPE)LIMITED",
+      "locationName": "PAR",
+      "companyName": "TULLETT PREBON (EUROPE)LIMITED, PAR",
+      "leiCode": "549300MU2MYJLOY6IJ51",
+      "reutersCode": " ",
+      "id": 107582
+    },
+    {
+      "shortName": "TP (EUROPE)LTD X TD",
+      "locationName": "LON",
+      "companyName": "TULLETT PREBON (EUROPE) LTD, LON",
+      "leiCode": "549300MU2MYJLOY6IJ51",
+      "reutersCode": "TULP",
+      "id": 105825
+    },
+    {
+      "shortName": "TP (EUROPE)LTD X TD",
+      "locationName": "MAD",
+      "companyName": "TULLETT PREBON (EUROPE) LTD, MAD",
+      "leiCode": "549300MU2MYJLOY6IJ51",
+      "reutersCode": " ",
+      "id": 167545
+    },
+    {
+      "shortName": "TP (POLSKA) SA",
+      "locationName": "WAR",
+      "companyName": "TULLETT PREBON (POLSKA) SA, WAR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 130269
+    },
+    {
+      "shortName": "TP (SECURITIES)LTD",
+      "locationName": "LON",
+      "companyName": "TULLETT PREBON (SECURITIES) LIMITED, LON",
+      "leiCode": "549300BMVW85YF9FGN67",
+      "reutersCode": "TULA",
+      "id": 107579
+    },
+    {
+      "shortName": "TP AMERICAS CORP",
+      "locationName": "JTY",
+      "companyName": "TULLETT PREBON AMERICAS  CORP, JTY",
+      "leiCode": "549300VTCEZOP03G9X31",
+      "reutersCode": " ",
+      "id": 105420
+    },
+    {
+      "shortName": "TP AMERICAS CORP",
+      "locationName": "NYK",
+      "companyName": "TULLETT PREBON AMERICAS  CORP, NYK",
+      "leiCode": "549300VTCEZOP03G9X31",
+      "reutersCode": "PYNY",
+      "id": 105421
+    },
+    {
+      "shortName": "TP CANADA LTD",
+      "locationName": "TOR",
+      "companyName": "TULLETT PREBON CANADA LTD, TOR",
+      "leiCode": "549300VTCEZOP03G9X31",
+      "reutersCode": "PRET",
+      "id": 134422
+    },
+    {
+      "shortName": "TP CDA LTD",
+      "locationName": "TOR",
+      "companyName": "TULLETT PREBON CANADA LIMITED, TOR",
+      "leiCode": "549300VTCEZOP03G9X31",
+      "reutersCode": "TTTO",
+      "id": 105818
+    },
+    {
+      "shortName": "TP EQUITIES LTD",
+      "locationName": "LON",
+      "companyName": "TULLETT PREBON (EQUITIES) LTD, LON",
+      "leiCode": "549300MU2MYJLOY6IJ51",
+      "reutersCode": " ",
+      "id": 111418
+    },
+    {
+      "shortName": "TP EUROPE LTD LUX BR",
+      "locationName": "LUX",
+      "companyName": "TULLETT PREBON (EUROPE) LTD., LUX",
+      "leiCode": "549300MU2MYJLOY6IJ51",
+      "reutersCode": " ",
+      "id": 105416
+    },
+    {
+      "shortName": "TP ICAP (EUROPE) SA",
+      "locationName": "PAR",
+      "companyName": "TP ICAP (EUROPE) SA, PAR",
+      "leiCode": "213800R54EFFINMY1P02",
+      "reutersCode": " ",
+      "id": 209060
+    },
+    {
+      "shortName": "TP ICAP (EUROPE) SA",
+      "locationName": "FFT",
+      "companyName": "TP ICAP (EUROPE) SA, FFT",
+      "leiCode": "213800R54EFFINMY1P02",
+      "reutersCode": " ",
+      "id": 209885
+    },
+    {
+      "shortName": "TP ICAP (EUROPE) SA",
+      "locationName": "MAD",
+      "companyName": "TP ICAP (EUROPE) SA, MAD",
+      "leiCode": "213800R54EFFINMY1P02",
+      "reutersCode": " ",
+      "id": 209887
+    },
+    {
+      "shortName": "TP ICAP (EUROPE) SA",
+      "locationName": "AMS",
+      "companyName": "TP ICAP (EUROPE) SA, AMS",
+      "leiCode": "213800R54EFFINMY1P02",
+      "reutersCode": " ",
+      "id": 209888
+    },
+    {
+      "shortName": "TP POLSKA SA",
+      "locationName": "WAR",
+      "companyName": "TULLETT PREBON (POLSKA) SPOLKA AKCYJNA, WAR",
+      "leiCode": "54930072XRULCV4HXU42",
+      "reutersCode": "TULW",
+      "id": 106510
+    },
+    {
+      "shortName": "TP POLSKA WARSAW",
+      "locationName": "WAR",
+      "companyName": "TULLETT PREBON (POLSKA) SA., WAR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 137653
+    },
+    {
+      "shortName": "TP SEF",
+      "locationName": "NYK",
+      "companyName": "TULLETT PREBON SWAPS EXCHANGE F, NYK",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 174264
+    },
+    {
+      "shortName": "TP SHANGHAI",
+      "locationName": "SHG",
+      "companyName": "TULLETT PREBON SITICO (CHINA) LTD, SHG",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 142185
+    },
+    {
+      "shortName": "TPFS LLC JC",
+      "locationName": "JTY",
+      "companyName": "TULLETT PREBON FINANCIAL SERVICES LLC, JTY",
+      "leiCode": "5493002MIGPVI71S2611",
+      "reutersCode": " ",
+      "id": 134906
+    },
+    {
+      "shortName": "TPFS LLC NEW YORK",
+      "locationName": "NYK",
+      "companyName": "TULLETT PREBON FINANCIAL SVCS LLC, NYK",
+      "leiCode": "5493002MIGPVI71S2611",
+      "reutersCode": " ",
+      "id": 115044
+    },
+    {
+      "shortName": "TPSEF INC",
+      "locationName": "JTY",
+      "companyName": "TPSEF INC, JTY",
+      "leiCode": "5493008HL7YGILBYY124",
+      "reutersCode": " ",
+      "id": 173201
+    },
+    {
+      "shortName": "TRAD (ASIA) LTD",
+      "locationName": "HKG",
+      "companyName": "TRADITION (ASIA) LTD, HKG",
+      "leiCode": "549300ER66BIX4KZD662",
+      "reutersCode": "TRHK",
+      "id": 105806
+    },
+    {
+      "shortName": "TRAD (UK) LTD",
+      "locationName": "LON",
+      "companyName": "TRADITION (UK) LTD, LON",
+      "leiCode": "5493009GUESWKOCRBE73",
+      "reutersCode": "TRDM",
+      "id": 105808
+    },
+    {
+      "shortName": "TRAD LUX SA EX ARBI",
+      "locationName": "LUX",
+      "companyName": "TRADITION LUXEMBOURG SA EX ARBITRAGE CHANGE SA, LUX",
+      "leiCode": null,
+      "reutersCode": "ARBI",
+      "id": 103432
+    },
+    {
+      "shortName": "TRAD LUX SA EX TRAD",
+      "locationName": "LUX",
+      "companyName": "TRADITION LUXEMBOURG SA EX TRADITION (LAU) LUX, LUX",
+      "leiCode": null,
+      "reutersCode": "TRLU",
+      "id": 105811
+    },
+    {
+      "shortName": "TRAD SA",
+      "locationName": "LAU",
+      "companyName": "TRADITION SA, LAU",
+      "leiCode": "549300SW5YEG5QFCKX58",
+      "reutersCode": " ",
+      "id": 105810
+    },
+    {
+      "shortName": "TRAD SEC FUTURES",
+      "locationName": "PAR",
+      "companyName": "TRADITION SECURITIES AND FUTURES SA, PAR",
+      "leiCode": "969500ULC0Y1IG0A4O72",
+      "reutersCode": " ",
+      "id": 155700
+    },
+    {
+      "shortName": "TRAD SIN PTE LTD",
+      "locationName": "SIN",
+      "companyName": "TRADITION SINGAPORE (PTE) LTD, SIN",
+      "leiCode": "5493000ON08MFYK4XP20",
+      "reutersCode": "ONGT",
+      "id": 105357
+    },
+    {
+      "shortName": "TRADITION AG",
+      "locationName": "ZCH",
+      "companyName": "TRADITION AG, ZCH",
+      "leiCode": "549300SW5YEG5QFCKX58",
+      "reutersCode": " ",
+      "id": 163222
+    },
+    {
+      "shortName": "TRADITION FIN SERV",
+      "locationName": "SYD",
+      "companyName": "TRADITION FINANCIAL SERVICES, SYD",
+      "leiCode": "549300PGXWH0WZUNMG82",
+      "reutersCode": " ",
+      "id": 128048
+    },
+    {
+      "shortName": "TRADITION KOREAN",
+      "locationName": "SEO",
+      "companyName": "TRADITION KOREAN LTD, SEO",
+      "leiCode": "549300ER66BIX4KZD662",
+      "reutersCode": " ",
+      "id": 158422
+    },
+    {
+      "shortName": "TRADITION SIAM",
+      "locationName": "BAN",
+      "companyName": "TRADITION SIAM (BROKERS) LIMITED, BAN",
+      "leiCode": "549300ER66BIX4KZD662",
+      "reutersCode": " ",
+      "id": 173587
+    },
+    {
+      "shortName": "TRADITION(N AMERICA)",
+      "locationName": "NYK",
+      "companyName": "TRADITION (NORTH AMERICA) INC, NYK",
+      "leiCode": "549300QZ8YZKE99OF236",
+      "reutersCode": "TBFX",
+      "id": 105807
+    },
+    {
+      "shortName": "TRADITON (UK) OZMAN",
+      "locationName": "LON",
+      "companyName": "TRADITION (UK) LTD LDN, LON",
+      "leiCode": "5493009GUESWKOCRBE73",
+      "reutersCode": " ",
+      "id": 171526
+    },
+    {
+      "shortName": "TULL PRE SEC LTD",
+      "locationName": "GEN",
+      "companyName": "TULLETT PREBON (SECURITIES) LIMITED GENEVA BRANCH, GEN",
+      "leiCode": "549300BMVW85YF9FGN67",
+      "reutersCode": " ",
+      "id": 172711
+    },
+    {
+      "shortName": "TULL PREB (EUR) TOK",
+      "locationName": "TOK",
+      "companyName": "TULLETT PREBON (EUROPE) LTD TOKYO BRANCH, TOK",
+      "leiCode": "549300MU2MYJLOY6IJ51",
+      "reutersCode": " ",
+      "id": 157427
+    },
+    {
+      "shortName": "TULL PREB TOR BRANCH",
+      "locationName": "TOR",
+      "companyName": "TULLETT PREBON AMERICAS CORP TORONTO BRANCH, TOR",
+      "leiCode": "549300VTCEZOP03G9X31",
+      "reutersCode": " ",
+      "id": 179635
+    },
+    {
+      "shortName": "TULL PREBON JAPAN",
+      "locationName": "TOK",
+      "companyName": "TULLETT PREBON (JAPAN) LTD, TOK",
+      "leiCode": "5493007ORPWWCWWRKH29",
+      "reutersCode": "YMNT",
+      "id": 108471
+    },
+    {
+      "shortName": "TULLETT & TOK LIB AG",
+      "locationName": "DUS",
+      "companyName": "TULLETT & TOKYO LIBERTY AG, DUS",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 108134
+    },
+    {
+      "shortName": "TULLETT LIB BAHRAIN",
+      "locationName": "MMA",
+      "companyName": "TULLETT LIBERTY (BAHRAIN) CO WLL, MMA",
+      "leiCode": "549300BUU6LPR8NU5W60",
+      "reutersCode": "TULB",
+      "id": 105816
+    },
+    {
+      "shortName": "TULLETT LIB JAPAN",
+      "locationName": "TOK",
+      "companyName": "TULLETT LIBERTY JAPAN LTD, TOK",
+      "leiCode": null,
+      "reutersCode": "TTLJ",
+      "id": 119699
+    },
+    {
+      "shortName": "TULLETT LIB NED",
+      "locationName": "AMS",
+      "companyName": "TULLETT LIBERTY NEDERLAND BV, AMS",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 107998
+    },
+    {
+      "shortName": "TULLETT MANILA",
+      "locationName": "MAN",
+      "companyName": "TULLETT MANILA, MAN",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 141639
+    },
+    {
+      "shortName": "TULLETT PRB AMS CORP",
+      "locationName": "NYK",
+      "companyName": "TULLETT PREBON AMERICAS CORP, NYK",
+      "leiCode": "549300VTCEZOP03G9X31",
+      "reutersCode": "TTNY",
+      "id": 105821
+    },
+    {
+      "shortName": "TULLETT PREB (JAPAN)",
+      "locationName": "TOK",
+      "companyName": "TULLETT PREBON (JAPAN) LIMITED, TOK",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 157719
+    },
+    {
+      "shortName": "TULLETT PREB KOREA",
+      "locationName": "SEO",
+      "companyName": "TULLETT PREBON MONEY BROKERAGE (KOREA) LTD, SEO",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 133678
+    },
+    {
+      "shortName": "TULLETT PREBOB IBTST",
+      "locationName": "NJY",
+      "companyName": "TULLETT PREBON IB TEST, NJY",
+      "leiCode": "9SFB6DIM0FRWV0EV8S84",
+      "reutersCode": " ",
+      "id": 187813
+    },
+    {
+      "shortName": "TULLETT PREBON (HK)",
+      "locationName": "HKG",
+      "companyName": "TULLETT PREBON (HONG KONG) LIMITED, HKG",
+      "leiCode": "549300QGFP23Q1K4SB28",
+      "reutersCode": "TFHK",
+      "id": 105781
+    },
+    {
+      "shortName": "TULLETT PREBON AUS",
+      "locationName": "SYD",
+      "companyName": "TULLETT PREBON (AUSTRALIA) PTY LIMITED, SYD",
+      "leiCode": "549300TTNX166F32PC58",
+      "reutersCode": "TTKA",
+      "id": 105815
+    },
+    {
+      "shortName": "TULLETT PREBON CEM",
+      "locationName": "LON",
+      "companyName": "TULLETT PREBON (EUROPE) LTD CEM, LON",
+      "leiCode": "549300MU2MYJLOY6IJ51",
+      "reutersCode": " ",
+      "id": 172168
+    },
+    {
+      "shortName": "TULLETT PREBON DUB",
+      "locationName": "DBI",
+      "companyName": "TULLETT PREBON DUBAI LIMITED, DBI",
+      "leiCode": "549300UC2KZTPVNJQC52",
+      "reutersCode": " ",
+      "id": 172714
+    },
+    {
+      "shortName": "TULLETT PREBON HK",
+      "locationName": "HKG",
+      "companyName": "TULLETT PREBON (HONG KONG) LTD, HKG",
+      "leiCode": null,
+      "reutersCode": "PYHK",
+      "id": 105415
+    },
+    {
+      "shortName": "TULLETT PREBON HLDGS",
+      "locationName": "NYK",
+      "companyName": "TULLETT PREBON HOLDINGS CORP, NYK",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 132956
+    },
+    {
+      "shortName": "TULLETT PREBON MEX",
+      "locationName": "MEX",
+      "companyName": "TULLETT PREBON MEXICO S.A. DE C.V, MEX",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 176626
+    },
+    {
+      "shortName": "TULLETT PREBON OIL",
+      "locationName": "LON",
+      "companyName": "TULLETT PREBON OIL, LON",
+      "leiCode": "549300MU2MYJLOY6IJ51",
+      "reutersCode": " ",
+      "id": 154710
+    },
+    {
+      "shortName": "TULLETT PREBON SECS",
+      "locationName": "FFT",
+      "companyName": "TULLETT PREBON SECURITIES LTD FRANKFURT BRANCH, FFT",
+      "leiCode": "549300BMVW85YF9FGN67",
+      "reutersCode": " ",
+      "id": 111229
+    },
+    {
+      "shortName": "TULLETT PREBON SGP",
+      "locationName": "SIN",
+      "companyName": "TULLETT PREBON (SINGAPORE) LIMITED, SIN",
+      "leiCode": "549300J8JKCZBPXJRS07",
+      "reutersCode": "TTOS",
+      "id": 105817
+    },
+    {
+      "shortName": "TULLETT PREBON SING",
+      "locationName": "SIN",
+      "companyName": "TULLETT PREBON (SINGAPORE)LTD, SIN",
+      "leiCode": null,
+      "reutersCode": "PYSG",
+      "id": 105418
+    },
+    {
+      "shortName": "TULLETT PREBON ZA PT",
+      "locationName": "JHB",
+      "companyName": "TULLETT PREBON SOUTH AFRICA (PTY) LTD, JHB",
+      "leiCode": "549300KFUYUBWR916846",
+      "reutersCode": " ",
+      "id": 176738
+    },
+    {
+      "shortName": "TULLETTPREBON ERG SG",
+      "locationName": "SIN",
+      "companyName": "TULLETT PREBON ENERGY (SINGAPORE) PTE LTD, SIN",
+      "leiCode": "549300J8JKCZBPXJRS07",
+      "reutersCode": " ",
+      "id": 167861
+    },
+    {
+      "shortName": "UBS LTD AGENT",
+      "locationName": "LON",
+      "companyName": "UBS LTD AGENT, LON",
+      "leiCode": "REYPIEJN7XZHSUI0N355",
+      "reutersCode": " ",
+      "id": 172368
+    },
+    {
+      "shortName": "UBS NEO",
+      "locationName": "LON",
+      "companyName": "UBS NEO, LON",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 182919
+    },
+    {
+      "shortName": "UBS SECURITIES LLC",
+      "locationName": "STM",
+      "companyName": "UBS SECURITIES LLC, STM",
+      "leiCode": "T6FIZBDPKLYJKFCRVK44",
+      "reutersCode": " ",
+      "id": 178391
+    },
+    {
+      "shortName": "UEDA HARLOW LTD",
+      "locationName": "TOK",
+      "companyName": "UEDA HARLOW LTD, TOK",
+      "leiCode": null,
+      "reutersCode": "UEDQ",
+      "id": 105855
+    },
+    {
+      "shortName": "UMIKER FINANZ",
+      "locationName": "SCH",
+      "companyName": "UMIKER FINANZ, SCH",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 190509
+    },
+    {
+      "shortName": "UNITED BROK SHOLM AB",
+      "locationName": "STO",
+      "companyName": "UNITED BROKERS STOCKHOLM AB, STO",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 152039
+    },
+    {
+      "shortName": "VALEX GMBH",
+      "locationName": "FFT",
+      "companyName": "VALEX GMBH, FFT",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105899
+    },
+    {
+      "shortName": "VELCOR SA",
+      "locationName": "ZCH",
+      "companyName": "VELCOR SA, ZCH",
+      "leiCode": null,
+      "reutersCode": "VELC",
+      "id": 105901
+    },
+    {
+      "shortName": "VELCOR SA",
+      "locationName": "AAL",
+      "companyName": "VELCOR SA, AAL",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105902
+    },
+    {
+      "shortName": "VIEL & CIE",
+      "locationName": "PAR",
+      "companyName": "VIEL & CIE, PAR",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105910
+    },
+    {
+      "shortName": "VIENNA INT BKR SERV",
+      "locationName": "VIE",
+      "companyName": "VIENNA INTERNATIONAL BROKER SERVICE, VIE",
+      "leiCode": null,
+      "reutersCode": "VIBS",
+      "id": 105911
+    },
+    {
+      "shortName": "VIENNA INTL",
+      "locationName": "VIE",
+      "companyName": "VIENNA INTL BROKERS, VIE",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 108717
+    },
+    {
+      "shortName": "WALLACHBETH CAP",
+      "locationName": "NYK",
+      "companyName": "WALLACHBETH CAPITAL, LLC, NYK",
+      "leiCode": "549300R371KUKXEXC133",
+      "reutersCode": " ",
+      "id": 177845
+    },
+    {
+      "shortName": "WALLICH & MATHEWS CZ",
+      "locationName": "PRA",
+      "companyName": "WALLICH & MATHEWS CZECH REPUBLIC, PRA",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 137647
+    },
+    {
+      "shortName": "WALLICH & MATTHES",
+      "locationName": "AMS",
+      "companyName": "WALLICH & MATTHES BV, AMS",
+      "leiCode": "724500R7ESFOMKSUCK64",
+      "reutersCode": "WENM",
+      "id": 105916
+    },
+    {
+      "shortName": "WILLIAM HAAK CV",
+      "locationName": "AMS",
+      "companyName": "WILLIAM HAAK CV, AMS",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 105958
+    },
+    {
+      "shortName": "WILLIBALD BERZ GMBH",
+      "locationName": "FFT",
+      "companyName": "WILLIBALD BERZ GMBH & CO, FFT",
+      "leiCode": null,
+      "reutersCode": "BERZ",
+      "id": 105959
+    },
+    {
+      "shortName": "WODD & COMPANY BRNCH",
+      "locationName": "MIL",
+      "companyName": "WOOD & COMPANY BRANCH, MIL",
+      "leiCode": "549300UYJKOXE3HB8L79",
+      "reutersCode": "NIMH",
+      "id": 104924
+    },
+    {
+      "shortName": "WOOD & COMPANY GROUP",
+      "locationName": "MIL",
+      "companyName": "WOOD & COMPANY GROUP SA, MIL",
+      "leiCode": null,
+      "reutersCode": "INIT",
+      "id": 104916
+    },
+    {
+      "shortName": "WS TULLETT LIBERTY",
+      "locationName": "BAN",
+      "companyName": "WALL STREET TULLETT PREBON LTD, BAN",
+      "leiCode": null,
+      "reutersCode": "WSTT",
+      "id": 105915
+    },
+    {
+      "shortName": "XP SECURITIES LLC",
+      "locationName": "NYK",
+      "companyName": "XP SECURITIES LLC, NYK",
+      "leiCode": "549300HDFLS7P433PO89",
+      "reutersCode": " ",
+      "id": 173463
+    },
+    {
+      "shortName": "YAGI EURO CORP",
+      "locationName": "TOK",
+      "companyName": "YAGI EURO CORP, TOK",
+      "leiCode": null,
+      "reutersCode": "YAGI",
+      "id": 105962
+    },
+    {
+      "shortName": "YAMANE TULLETT PREB",
+      "locationName": "TOK",
+      "companyName": "YAMANE TULLETT PREBON (JAPAN) LIMITED, TOK",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 159858
+    }
+  ]
+}

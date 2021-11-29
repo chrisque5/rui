@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TradeStatusDetails/> renders snapshot as expected 1`] = `
+<div>
+  <form
+    class="ant-form ant-form-horizontal"
+  >
+    <div
+      class="ant-row ant-row-flex-start"
+      style="margin-bottom: 10px;"
+    >
+      <div
+        class="ant-col"
+      >
+        <div
+          class="ant-row"
+          data-testid="dmsDealReference"
+        >
+          <span
+            style="width: 70px;"
+          >
+            <b>
+              DMS Ref: 
+            </b>
+          </span>
+          <span
+            style="margin-left: 5px;"
+          >
+            404
+          </span>
+        </div>
+        <div
+          class="ant-row"
+          data-testid="dealType"
+          style="margin-top: 5px; margin-bottom: 5px;"
+        >
+          <span
+            style="width: 70px;"
+          >
+            <b>
+              DMS Type: 
+            </b>
+          </span>
+          <span
+            style="margin-left: 5px;"
+          >
+            NDF
+          </span>
+        </div>
+        <div
+          class="ant-row"
+          data-testid="dealAction"
+        >
+          <span
+            style="width: 70px;"
+          >
+            <b>
+              DMS Action: 
+            </b>
+          </span>
+          <span
+            style="margin-left: 5px;"
+          >
+            AMEND
+          </span>
+        </div>
+      </div>
+      <div
+        class="ant-col"
+        style="margin-left: 200px;"
+      >
+        <div
+          class="ant-row"
+          data-testid="tradeDateTime"
+        >
+          <span
+            style="width: 120px;"
+          >
+            <b>
+              Trade Date/Time: 
+            </b>
+          </span>
+          <span
+            style="margin-left: 5px;"
+          >
+            12/07/2021 12:00:00
+          </span>
+        </div>
+        <div
+          class="ant-row"
+          data-testid="executionDateTime"
+          style="margin-top: 5px; margin-bottom: 5px;"
+        >
+          <span
+            style="width: 120px;"
+          >
+            <b>
+              Execution Date/Time: 
+            </b>
+          </span>
+          <span
+            style="margin-left: 5px;"
+          >
+            12/07/2021 12:00:00
+          </span>
+        </div>
+        <div
+          class="ant-row"
+          data-testid="dealStatus"
+        >
+          <span
+            style="width: 120px;"
+          >
+            <b>
+              Deal Status: 
+            </b>
+          </span>
+          <span
+            style="margin-left: 5px;"
+          >
+            VALIDATED
+          </span>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;

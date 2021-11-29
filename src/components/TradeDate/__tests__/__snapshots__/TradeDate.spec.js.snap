@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TradeDate/> <TradeDate /> renders snapshot as expected 1`] = `
+<div>
+  <form
+    class="ant-form ant-form-horizontal"
+  >
+    <div
+      class="ant-row ant-form-item item-trade-date"
+    >
+      <div
+        class="ant-col ant-form-item-control"
+      >
+        <div
+          class="ant-form-item-control-input"
+        >
+          <div
+            class="ant-form-item-control-input-content"
+          >
+            <div
+              class="ant-picker ant-picker-disabled"
+              style="padding-right: 5px; width: 95%;"
+            >
+              <div
+                class="ant-picker-input"
+              >
+                <input
+                  autocomplete="off"
+                  disabled=""
+                  id="tradeDate"
+                  placeholder="Trade Date"
+                  readonly=""
+                  size="12"
+                  title=""
+                  value=""
+                />
+                <span
+                  class="ant-picker-suffix"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;

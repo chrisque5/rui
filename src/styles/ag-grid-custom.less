@@ -1,0 +1,134 @@
+@dark-red: #DB0505;
+@light-red: #F24646;
+@dark-green: #83B102;
+@light-green: #678400;
+@dark-yellow: #FAA214;
+@light-yellow: #FABB14;
+@dark-black: #000;
+@light-black: #505050;
+@dark-dark-grey: #909090;
+@light-dark-grey: #6E777C;
+@dark-light-grey: #F0F0F0;
+@light-light-grey: #E2E2E2;
+@dark-orange: #FF7E00;
+@light-orange: #F98D3D;
+
+.blotter-table {
+
+  .is-under-investigation-cell {
+    .ag-icon { font-weight: bold; }
+    .ag-icon-cross { color: @dark-red; }
+    .ag-icon-tick { color: @dark-green; }
+  }
+
+  .stp-traffic-icon,
+  .stp-traffic-icon-filter {
+    height: 1rem;
+    width: 1rem;
+    line-height: 1rem;
+    display: inline-block;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    box-shadow: inset 0px 0px 1px @light-black;
+
+    &.red {
+      background-color: @dark-red;
+    }
+  
+    &.yellow {
+      background-color: @light-yellow;
+    }
+  
+    &.green {
+      background-color: @dark-green;
+    }
+  
+    &.black {
+      background-color: @dark-black;
+    }
+  
+    &.darkgray {
+      background-color: @dark-dark-grey;
+    }
+  
+    &.lightgray {
+      background-color: @dark-light-grey;
+    }
+  }
+
+  .stp-traffic {
+    line-height: 1rem;
+    height: 1rem;
+    vertical-align: top;
+  }
+
+  .spt-traffic-filter { 
+    display: inline-block;
+    .stp-traffic();
+  }
+
+  .stp-traffic-icon-filter {
+    .stp-traffic();
+  }
+
+  .stp-traffic-text {
+    margin-left: .2rem;
+    .stp-traffic();
+  }
+
+  .centered {
+    text-align: center;
+  }
+
+  .approvals-label {
+    line-height: 1rem;
+    display: inline-block;
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    height: 1rem;
+    padding: 0 9px;
+    border-radius: 2px;
+    width: 5rem;
+  
+    &.approved {
+      color: @dark-green;
+      &:hover {
+        color: @light-green;
+      }  
+    }
+  
+    &.pending {
+      color: @dark-orange;
+      &:hover {
+        color: @light-orange;
+      }
+    }
+
+    &.rejected {
+      color: @dark-red;
+      &:hover {
+        color: @light-red;
+      }
+    }
+
+    &.cancel {
+      color: @dark-red;
+      &:hover {
+        color: @dark-red;
+      }
+    }
+  }
+  .ag-icon-contracted:before {
+    content: "\E911";
+    cursor: pointer;
+  }
+  .ag-icon-expanded:before {
+    content: "\E90B";
+    cursor: pointer;
+  }
+}
+.total-brokerage {
+  color: @dark-black;
+  font-weight: bold;
+  font-size: 12px;
+}

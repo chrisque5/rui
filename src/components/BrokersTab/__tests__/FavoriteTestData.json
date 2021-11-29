@@ -1,0 +1,671 @@
+{
+  "panes": [
+    {
+      "title": "BELFAST TPEUR TEST BROKER 1",
+      "clients": [
+        {
+          "nickName": "BILL CLINTON",
+          "executingCustomerId": 164918,
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+          "tradingCustomerId": 164920,
+          "traderPostingId": 43633,
+          "traderDisplayName": "BILL CLINTON",
+          "agentCustomerId": 0
+        },
+        {
+          "nickName": "DWIGHT EISENHOWER",
+          "executingCustomerId": 164920,
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+          "tradingCustomerId": 164920,
+          "traderPostingId": 43637,
+          "traderDisplayName": "DWIGHT EISENHOWER",
+          "agentCustomerId": 0,
+          "status": "DELETED"
+        },
+        {
+          "nickName": "RONALD REAGAN",
+          "executingCustomerId": 164920,
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+          "tradingCustomerId": 164918,
+          "traderPostingId": 43634,
+          "traderDisplayName": "RONALD REAGAN",
+          "agentCustomerId": 0,
+          "status": "UNAVAILABLE"
+        }
+      ],
+      "currencyPairs": [
+        {
+          "nickName": "USDCNY",
+          "baseCurrency": "USD",
+          "counterCurrency": "CNY",
+          "dealtCurrency": "USD"
+        },
+        {
+          "nickName": "USDINR",
+          "baseCurrency": "USD",
+          "counterCurrency": "INR",
+          "dealtCurrency": "USD"
+        },
+        {
+          "nickName": "USDCLP",
+          "baseCurrency": "USD",
+          "counterCurrency": "CLP",
+          "dealtCurrency": "USD"
+        }
+      ],
+      "terms": [
+        {
+          "nickName": "1M",
+          "term": "1M"
+        },
+        {
+          "nickName": "2M",
+          "term": "2M"
+        },
+        {
+          "nickName": "3M",
+          "term": "3M"
+        }
+      ],
+      "executionVenues": [
+        {
+          "nickName": "TPSEF",
+          "executionVenue": "TPSEF"
+        },
+        {
+          "nickName": "XOFF",
+          "executionVenue": "XOFF"
+        },
+        {
+          "nickName": "TIRD",
+          "executionVenue": "TIRD"
+        }
+      ],
+      "key": "8158,100114",
+      "brokerId": 100114,
+      "brokerName": "BELFAST TPEUR TEST BROKER 1",
+      "deskId": 8158,
+      "firms": [
+        {
+          "nickName": "APBK.LON",
+          "tradingCustomerCodeLocationCode": "APBK.LON",
+          "tradingCustomerId": 164920,
+          "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+          "isActive": false
+        },
+        {
+          "nickName": "APBK.NYK",
+          "tradingCustomerCodeLocationCode": "APBK.NYK",
+          "tradingCustomerId": 164918,
+          "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+          "isActive": false
+        }
+      ],
+      "userSettings": {
+        "ratesFeed": true,
+        "displayClientFavourites": true,
+        "displayCurrencyFavourites": true,
+        "displayTermFavourites": true,
+        "dealSubmitSound": "ka-ching",
+        "colourScheme": "light",
+        "displayClients": true,
+        "displayExecutionVenueFavourites": true,
+        "lrMode": false,
+        "displayExecutionVenueColours": true
+      }
+    },
+    {
+      "title": "BELFAST TPEUR TEST BROKER 2",
+      "clients": [
+        {
+          "nickName": "BILL CLINTON",
+          "executingCustomerId": 164918,
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+          "tradingCustomerId": 164920,
+          "traderPostingId": 43633,
+          "traderDisplayName": "BILL CLINTON",
+          "agentCustomerId": 0
+        },
+        {
+          "nickName": "DWIGHT EISENHOWER",
+          "executingCustomerId": 164920,
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+          "tradingCustomerId": 164920,
+          "traderPostingId": 43637,
+          "traderDisplayName": "DWIGHT EISENHOWER",
+          "agentCustomerId": 0
+        },
+        {
+          "nickName": "RONALD REAGAN",
+          "executingCustomerId": 164920,
+          "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+          "tradingCustomerId": 164918,
+          "traderPostingId": 43634,
+          "traderDisplayName": "RONALD REAGAN",
+          "agentCustomerId": 0
+        }
+      ],
+      "currencyPairs": [],
+      "terms": [],
+      "executionVenues": [],
+      "key": "8158,100115",
+      "brokerId": 100115,
+      "brokerName": "BELFAST TPEUR TEST BROKER 2",
+      "deskId": 8158,
+      "firms": [
+        {
+          "nickName": "APBK.LON",
+          "tradingCustomerCodeLocationCode": "APBK.LON",
+          "tradingCustomerId": 164920,
+          "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+          "isActive": false
+        },
+        {
+          "nickName": "APBK.NYK",
+          "tradingCustomerCodeLocationCode": "APBK.NYK",
+          "tradingCustomerId": 164918,
+          "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+          "isActive": false
+        }
+      ],
+      "userSettings": {
+        "ratesFeed": true,
+        "displayClientFavourites": true,
+        "displayCurrencyFavourites": true,
+        "displayTermFavourites": true,
+        "dealSubmitSound": "ka-ching",
+        "colourScheme": "light",
+        "displayClients": true,
+        "displayExecutionVenueFavourites": true,
+        "lrMode": false,
+        "displayExecutionVenueColours": true
+      }
+    }
+  ],
+"preferences": {
+    "version": 3,
+    "preferredBrokers": [
+      {
+        "nickName": "BELFAST TPEUR TEST BROKER 1",
+        "id": 100114,
+        "name": "BELFAST TPEUR TEST BROKER 1",
+        "deskId": 8158,
+        "favourites": {
+          "clients": [
+            {
+              "nickName": "BILL CLINTON",
+              "executingCustomerId": 164918,
+              "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+              "tradingCustomerId": 164920,
+              "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+              "tradingCustomerCodeLocationCode": "APBK.LON",
+              "traderPostingId": 43633,
+              "traderDisplayName": "BILL CLINTON",
+              "agentCustomerId": 0
+            },
+            {
+              "nickName": "DWIGHT EISENHOWER",
+              "executingCustomerId": 164920,
+              "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+              "tradingCustomerId": 164920,
+              "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+              "tradingCustomerCodeLocationCode": "APBK.LON",
+              "traderPostingId": 43637,
+              "traderDisplayName": "DWIGHT EISENHOWER",
+              "agentCustomerId": 0
+            },
+            {
+              "nickName": "RONALD REAGAN",
+              "executingCustomerId": 164920,
+              "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+              "tradingCustomerId": 164918,
+              "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+              "tradingCustomerCodeLocationCode": "APBK.NYK",
+              "traderPostingId": 43634,
+              "traderDisplayName": "RONALD REAGAN",
+              "agentCustomerId": 0
+            }
+          ],
+          "currencyPairs": [
+            {
+              "nickName": "USDCNY",
+              "baseCurrency": "USD",
+              "counterCurrency": "CNY",
+              "dealtCurrency": "USD"
+            },
+            {
+              "nickName": "USDINR",
+              "baseCurrency": "USD",
+              "counterCurrency": "INR",
+              "dealtCurrency": "USD"
+            },
+            {
+              "nickName": "USDCLP",
+              "baseCurrency": "USD",
+              "counterCurrency": "CLP",
+              "dealtCurrency": "USD"
+            }
+          ],
+          "terms": [
+            {
+              "nickName": "1M",
+              "term": "1M"
+            },
+            {
+              "nickName": "2M",
+              "term": "2M"
+            },
+            {
+              "nickName": "3M",
+              "term": "3M"
+            },
+            {
+              "nickName": "05/28/2020",
+              "valueDate": "05/28/2020"
+            }
+          ],
+          "executionVenues": [
+            {
+              "nickName": "TPSEF",
+              "executionVenue": "TPSEF"
+            },
+            {
+              "nickName": "XOFF",
+              "executionVenue": "XOFF"
+            },
+            {
+              "nickName": "TIRD",
+              "executionVenue": "TIRD"
+            }
+          ]
+        },
+        "editable": true
+      },
+      {
+        "nickName": "BELFAST TPEUR TEST BROKER 2",
+        "id": 100115,
+        "name": "BELFAST TPEUR TEST BROKER 2",
+        "deskId": 8158,
+        "favourites": {
+          "clients": [
+            {
+              "nickName": "BILL CLINTON",
+              "executingCustomerId": 164918,
+              "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+              "tradingCustomerId": 164920,
+              "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+              "tradingCustomerCodeLocationCode": "APBK.LON",
+              "traderPostingId": 43633,
+              "traderDisplayName": "BILL CLINTON",
+              "agentCustomerId": 0
+            }
+          ],
+          "currencyPairs": [],
+          "terms": [],
+          "executionVenues": []
+        },
+        "editable": true
+      }
+    ],
+    "settings": {
+      "ratesFeed": true,
+      "displayClientFavourites": true,
+      "displayCurrencyFavourites": true,
+      "displayTermFavourites": true,
+      "dealSubmitSound": "ka-ching",
+      "colourScheme": "light",
+      "displayClients": true,
+      "displayExecutionVenueFavourites": true,
+      "lrMode": false,
+      "displayExecutionVenueColours": true
+    },
+    "defaults": null
+  },
+"currencyScope": [
+    {
+      "currencyScope": [
+        {
+          "baseCurrency": "USD",
+          "counterCurrency": "CNY",
+          "allowedInScope": true
+        },
+        {
+          "baseCurrency": "USD",
+          "counterCurrency": "INR",
+          "allowedInScope": true
+        },
+        {
+          "baseCurrency": "USD",
+          "counterCurrency": "CLP",
+          "allowedInScope": true
+        }
+      ],
+      "deskBroker": "8158,100114"
+    },
+    {
+      "currencyScope": [],
+      "deskBroker": "8158,100115"
+    }
+  ],
+"termScope": [
+    {
+      "termScope": [
+        {
+          "term": "1M",
+          "allowedInScope": true
+        },
+        {
+          "term": "2M",
+          "allowedInScope": true
+        },
+        {
+          "term": "3M",
+          "allowedInScope": true
+        }
+      ],
+      "deskBroker": "8158,100114"
+    },
+    {
+      "termScope": [],
+      "deskBroker": "8158,100115"
+    }
+  ],
+"counterPartyScope" : [
+    {
+      "counterPartyScope": [
+        {
+          "favoriteClient": {
+            "nickName": "BILL CLINTON",
+            "executingCustomerId": 164918,
+            "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+            "tradingCustomerId": 164920,
+            "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+            "tradingCustomerCodeLocationCode": "APBK.LON",
+            "traderPostingId": 43633,
+            "traderDisplayName": "BILL CLINTON",
+            "agentCustomerId": 0
+          },
+          "allowedInScope": true
+        },
+        {
+          "favoriteClient": {
+            "nickName": "DWIGHT EISENHOWER",
+            "executingCustomerId": 164920,
+            "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+            "tradingCustomerId": 164920,
+            "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+            "tradingCustomerCodeLocationCode": "APBK.LON",
+            "traderPostingId": 43637,
+            "traderDisplayName": "DWIGHT EISENHOWER",
+            "agentCustomerId": 0
+          },
+          "allowedInScope": true
+        },
+        {
+          "favoriteClient": {
+            "nickName": "RONALD REAGAN",
+            "executingCustomerId": 164920,
+            "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+            "tradingCustomerId": 164918,
+            "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+            "tradingCustomerCodeLocationCode": "APBK.NYK",
+            "traderPostingId": 43634,
+            "traderDisplayName": "RONALD REAGAN",
+            "agentCustomerId": 0
+          },
+          "allowedInScope": true
+        }
+      ],
+      "deskBroker": "8158,100114"
+    },
+    {
+      "counterPartyScope": [
+        {
+          "favoriteClient": {
+            "nickName": "BILL CLINTON",
+            "executingCustomerId": 164918,
+            "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+            "tradingCustomerId": 164920,
+            "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+            "tradingCustomerCodeLocationCode": "APBK.LON",
+            "traderPostingId": 43633,
+            "traderDisplayName": "BILL CLINTON",
+            "agentCustomerId": 0
+          },
+          "allowedInScope": true
+        }
+      ],
+      "deskBroker": "8158,100115"
+    }
+  ],
+"executionVenueScope" : [
+    {
+      "executionVenueScope": [
+        {
+          "executionVenue": "TPSEF",
+          "allowedInScope": true
+        },
+        {
+          "executionVenue": "XOFF",
+          "allowedInScope": true
+        },
+        {
+          "executionVenue": "TIRD",
+          "allowedInScope": true
+        }
+      ],
+      "deskBroker": "8158,100114"
+    },
+    {
+      "executionVenueScope": [],
+      "deskBroker": "8158,100115"
+    }
+  ],
+  "selectedPreferenceClients": [
+    {
+      "nickName": "BILL CLINTON",
+      "executingCustomerId": 164918,
+      "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+      "tradingCustomerId": 164920,
+      "traderPostingId": 43633,
+      "traderDisplayName": "BILL CLINTON",
+      "agentCustomerId": 0
+    },
+    {
+      "nickName": "DWIGHT EISENHOWER",
+      "executingCustomerId": 164920,
+      "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+      "tradingCustomerId": 164920,
+      "traderPostingId": 43637,
+      "traderDisplayName": "DWIGHT EISENHOWER",
+      "agentCustomerId": 0,
+      "status": "DELETED"
+    },
+    {
+      "nickName": "RONALD REAGAN",
+      "executingCustomerId": 164920,
+      "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+      "tradingCustomerId": 164918,
+      "traderPostingId": 43634,
+      "traderDisplayName": "RONALD REAGAN",
+      "agentCustomerId": 0,
+      "status": "UNAVAILABLE"
+    }
+  ],
+  "userSettings": {
+    "ratesFeed": true,
+    "displayClientFavourites": true,
+    "displayCurrencyFavourites": true,
+    "displayTermFavourites": true,
+    "dealSubmitSound": "ka-ching",
+    "colourScheme": "light",
+    "displayClients": true,
+    "displayExecutionVenueFavourites": true,
+    "lrMode": true,
+    "displayExecutionVenueColours": true
+  },
+  "selectedPreferenceFirms" : [
+    {
+      "nickName": "APBK.LON",
+      "tradingCustomerCodeLocationCode": "APBK.LON",
+      "tradingCustomerId": 164920,
+      "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+      "isActive": false
+    },
+    {
+      "nickName": "APBK.NYK",
+      "tradingCustomerCodeLocationCode": "APBK.NYK",
+      "tradingCustomerId": 164918,
+      "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+      "isActive": false
+    }
+  ],
+  "brokers": [{
+    "id": 100114,
+    "name": "BELFAST TPEUR TEST BROKER 1",
+    "deskId": 8158,
+    "deskName": "BELFAST RATES TPEUR DESK"
+  },
+  {
+    "id": 100115,
+    "name": "BELFAST TPEUR TEST BROKER 2",
+    "deskId": 8158,
+    "deskName": "BELFAST RATES TPEUR DESK"
+  },
+  {
+    "id": 100116,
+    "name": "BELFAST TPEUR TEST BROKER 3",
+    "deskId": 8158,
+    "deskName": "BELFAST RATES TPEUR DESK"
+  }],
+  "clients": [{
+    "id": "60119_43633_164918_164920_NDF",
+    "tradingCustomerId": 164920,
+    "tradingCustomerLegalName": "AMERICAN PRESIDENT BANK, LON",
+    "tradingCustomerDisplayName": "AMERICAN PRESIDENT B",
+    "tradingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+    "tradingCustomerReutersCode": "APBL",
+    "tradingCustomerCodeLocationCode": "APBK.LON",
+    "traders": [
+      {
+        "traderPostingId": 43633,
+        "traderPostingDisplayName": "BILL CLINTON",
+        "executingCustomerId": 164918,
+        "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, NYK",
+        "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+        "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+        "executingCustomerReutersCode": "APBN"
+      },
+      {
+        "traderPostingId": 43637,
+        "traderPostingDisplayName": "DWIGHT EISENHOWER",
+        "executingCustomerId": 164920,
+        "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, LON",
+        "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+        "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+        "executingCustomerReutersCode": "APBL"
+      }
+    ]
+  },  
+   {
+    "id": "60119_43633_164918_164918_NDF",
+    "tradingCustomerId": 164918,
+    "tradingCustomerLegalName": "AMERICAN PRESIDENT BANK, NYK",
+    "tradingCustomerDisplayName": "AMERICAN PRESIDENT B",
+    "tradingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+    "tradingCustomerReutersCode": "APBN",
+    "tradingCustomerCodeLocationCode": "APBK.NYK",
+    "traders": [     
+      {
+        "traderPostingId": 43634,
+        "traderPostingDisplayName": "RONALD REAGAN",
+        "executingCustomerId": 164920,
+        "executingCustomerLegalName": "AMERICAN PRESIDENT BANK, LON",
+        "executingCustomerDisplayName": "AMERICAN PRESIDENT B",
+        "executingCustomerLeiCode": "TESTS0HNZRZODZE35N63",
+        "executingCustomerReutersCode": "APBL"
+      }
+    ]
+  }],
+  "agents": [
+    {
+      "shortName": "42 FIN SERV S.R.O",
+      "locationName": "PRA",
+      "companyName": "42 FINANCIAL SERVICES S.R.O, PRA",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 170447
+    },
+    {
+      "shortName": "A-J STEVENS",
+      "locationName": "HKG",
+      "companyName": "A-J STEVENS, HKG",
+      "leiCode": null,
+      "reutersCode": " ",
+      "id": 103309
+    }],
+  "currencies": [{
+    "baseCurrency": "USD",
+    "counterCurrency": "CLP",
+    "instrumentId": 9602,
+    "baseCurrencyDayCountYear": "360",
+    "counterCurrencyDayCountYear": "360",
+    "scalingFactor": 0.01
+  },
+  
+  {
+    "baseCurrency": "USD",
+    "counterCurrency": "CNY",
+    "instrumentId": 9603,
+    "baseCurrencyDayCountYear": "360",
+    "counterCurrencyDayCountYear": "360",
+    "scalingFactor": 0.0001
+  },
+  {
+    "baseCurrency": "USD",
+    "counterCurrency": "INR",
+    "instrumentId": 9606,
+    "baseCurrencyDayCountYear": "360",
+    "counterCurrencyDayCountYear": "360",
+    "scalingFactor": 0.0001
+  }],
+  "executionVenues": [
+    {
+      "id": null,
+      "lockSequence": null,
+      "venueId": "TPSEF",
+      "key": "TPSEF",
+      "productType": "FX",
+      "venueType": "SEF",
+      "reportingRegime": "DoddFrankAct"
+    },
+    {
+      "id": null,
+      "lockSequence": null,
+      "venueId": "XOFF",
+      "key": "XOFF",
+      "productType": "FX",
+      "venueType": "OffFacility",
+      "reportingRegime": "DoddFrankAct"
+    },
+    {
+      "id": null,
+      "lockSequence": null,
+      "venueId": "TEFD",
+      "key": "TEFD",
+      "productType": "FX",
+      "venueType": "MTF",
+      "reportingRegime": "MiFIR"
+    },
+    {
+      "id": null,
+      "lockSequence": null,
+      "venueId": "TIRD",
+      "key": "TIRD",
+      "productType": "FX",
+      "venueType": "MTF",
+      "reportingRegime": "MiFIR"
+    }
+  ]
+}
+  

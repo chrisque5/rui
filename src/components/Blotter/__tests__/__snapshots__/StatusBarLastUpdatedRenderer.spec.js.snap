@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<StatusBarLastUpdatedRenderer /> renders snapshot as expected when last updated date is set in state 1`] = `
+<div>
+  <div
+    class="ag-name-value"
+  >
+    <span>
+      Last Updated: 
+    </span>
+    <span
+      class="ag-name-value-value"
+      data-testid="blotter-last-updated"
+    >
+      12/07/2030 12:34:56 PM
+    </span>
+  </div>
+</div>
+`;
+
+exports[`<StatusBarLastUpdatedRenderer /> renders snapshot as expected when no last updated date set in state 1`] = `
+<div>
+  <div
+    class="ag-name-value"
+  >
+    <span>
+      Last Updated: 
+    </span>
+    <span
+      class="ag-name-value-value"
+      data-testid="blotter-last-updated"
+    >
+      N/A
+    </span>
+  </div>
+</div>
+`;

@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SearchCriteriaLabelRenderer /> renders snapshot as expected when no last updated date set in state 1`] = `
+<div>
+  <section
+    class="ant-layout"
+    title="TODAY"
+  >
+    <div
+      class="ant-row"
+    >
+      <div
+        class="ant-col"
+      >
+        <span
+          class="ag-name-value"
+          data-testid="lblSearchResult"
+        >
+          Showing the results for: 
+        </span>
+      </div>
+      <div
+        class="ant-col"
+        style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;"
+      >
+        <span
+          class="ag-name-value-value"
+          data-testid="lblDateBrokerSearch"
+        >
+          TODAY
+        </span>
+      </div>
+    </div>
+    <div
+      class="ant-row"
+    >
+      <div
+        class="ant-col"
+        style="width: 106px;"
+      />
+      <div
+        class="ant-col"
+        style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;"
+      >
+        <span
+          class="ag-name-value-value"
+          data-testid="lblCustTraderSearch"
+        />
+      </div>
+    </div>
+  </section>
+</div>
+`;

@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Forbidden> should match the snapshot 1`] = `
+<div>
+  <div
+    class="error-page"
+  >
+    <div
+      class="flex-container"
+    >
+      <div
+        class="flex-item"
+      >
+        <img
+          alt="Logo"
+          class="logo"
+          src="tpicap.png"
+        />
+        <h3
+          class="title"
+        >
+          Deal Management System
+        </h3>
+        <h3
+          class="subtitle"
+        >
+          Insufficient Permissions
+        </h3>
+        <p>
+          Insufficient permissions to access "
+          localhost:3000/forbidden/path
+          ".
+        </p>
+        <a
+          class="linkbutton"
+          href="#/"
+        >
+          Go to Home
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;

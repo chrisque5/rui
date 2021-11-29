@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SaveDesriptionModal/> renders snapshot as expected 1`] = `
+<div>
+  <form
+    class="ant-form ant-form-horizontal"
+  />
+</div>
+`;

@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PublishDate/> verify snapshot 1`] = `
+<div>
+  <form
+    class="ant-form ant-form-horizontal"
+  >
+    <div
+      class="ant-row ant-form-item item-publish-date"
+    >
+      <div
+        class="ant-col ant-form-item-label"
+      >
+        <label
+          class="ant-form-item-required"
+          for="fixingDate1"
+          title="Publish Date"
+        >
+          Publish Date
+        </label>
+      </div>
+      <div
+        class="ant-col ant-form-item-control"
+      >
+        <div
+          class="ant-form-item-control-input"
+        >
+          <div
+            class="ant-form-item-control-input-content"
+          >
+            <div
+              class="ant-picker"
+              style="width: 100%;"
+            >
+              <div
+                class="ant-picker-input"
+              >
+                <input
+                  autocomplete="off"
+                  data-testid="dtpPublishDate1"
+                  id="fixingDate1"
+                  placeholder="Select date"
+                  readonly=""
+                  size="12"
+                  tabindex="-1"
+                  title="04/04/2020"
+                  value="04/04/2020"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;

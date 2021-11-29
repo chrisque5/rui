@@ -1,0 +1,798 @@
+@import "./variables.less";
+.marginFix() {
+  margin-top: 1px;
+}
+
+.dms-trade-capture-navbar .ant-menu,
+.dms-trade-capture,
+.dms-web-admin,
+.dms-web-admin-navbar .ant-menu,
+.dms-web-deal-edit {
+  min-width: 51rem;
+  max-width: 51rem;
+  margin: 0 auto;
+
+  .ant-menu-item-selected {
+    background-color: @primary-color;
+  }
+
+  .ant-menu-item:hover {
+    background-color: @primary-color;
+  }
+
+  .ant-menu-item-no-link:hover {
+    background-color: @primary-bg-color !important;
+    cursor: default;
+  }
+
+  .ant-tabs {
+    padding-top: 0.5em;
+
+
+    &-tab {
+      padding: 0 5px !important;
+      margin: 0px !important;
+      &-btn {
+        text-shadow: none !important;
+        text-transform: capitalize;
+      }
+      &-remove {
+        color: @primary-color;
+        visibility: visible;
+        margin: 0 !important;
+        padding: 0 !important;
+        padding-left: 4px !important;
+        &:hover,
+        &:active {
+          color: #f00;
+        }
+      }
+    }
+
+    &-tab.ant-tabs-tab-with-remove {
+      padding: 0 0 0 5px !important;
+    }
+  }
+
+  .anticon-info-circle:not(.client-info) {
+    color: @primary-color !important;
+    font-size: 0.7em !important;
+    position: relative;
+    top: -4px;
+  }
+
+  span.ant-radio + * {
+    padding: 0 3px;
+  }
+
+  .ant-radio-wrapper {
+    margin: 0 6px 0 0;
+  }
+
+  .custom-label {
+    padding-right: 6px;
+  }
+  .action-buttons {
+    padding: 5px 0;
+  }
+
+  .filler {
+    border: transparent 1px solid;
+  }
+
+  .ant-col ant-form-item-label {
+    position: relative;
+  }
+
+  .star-icon {
+    color: #cccc00;
+    cursor: pointer;
+    font-size: 0.7em !important;
+    position: relative;
+    top: -4px;
+
+    &.trigger {
+      position: static;
+      font-size: 1em !important;
+    }
+  }
+
+  &.navbar-menu {
+    position: relative;
+    .user-name {
+      position: absolute;
+      right: 24px;
+      padding: 0 !important;
+
+      .submenu-title-wrapper {
+        padding: 0 5px 0 10px !important;
+      }
+    }
+    .btn-settings {
+      position: absolute;
+      right: 0;
+      padding-left: 2px !important;
+      padding-right: 2px !important;
+    }
+  }
+}
+
+.dms-trade-capture {
+  .strategy-venue,
+  .trade-economics,
+  .trade-sides {
+    padding: 5px 0;
+  }
+
+  .item-row {
+    clear: both;
+  }
+
+  colgroup col {
+    min-width: unset !important;
+  }
+
+  .toggle-3cp {
+    margin-top: 0.5em;
+  }
+
+  .item-ccy1,
+  .item-ccy2,
+  .item-dealt-ccy,
+  .item-term,
+  .item-rate,
+  .item-points,
+  .item-amount,
+  .item-interest,
+  .item-fixing-date,
+  .item-value-date,
+  .item-spot-date,
+  .item-publish-date,
+  .item-day-count,
+  .item-cls {
+    display: inline-block;
+    padding-left: 3px;
+    padding-right: 3px;
+  }
+
+  .item-ccy {
+    display: inline-block;
+
+    .ccy-pair {
+      display: inline-block;
+    }
+
+    .ccy-label {
+      display: block;
+      line-height: 18px;
+      padding: 0 3px 0 3px;
+      color: @custom-label-color;
+
+      i {
+        color: #cccc00;
+        cursor: pointer;
+        font-size: 0.7em;
+        vertical-align: top;
+      }
+    }
+  }
+
+  .item-ccy1,
+  .item-ccy2,
+  .item-dealt-ccy {
+    width: 72px;
+  }
+
+  .item-term {
+    width: 68px;
+  }
+
+  .rate-wrapper {
+    display: inline;
+    position: relative;
+
+    .rate-loading-indicator {
+      position: absolute;
+      right: 5px;
+      bottom: 0px;
+      z-index: 1000;
+    }
+  }
+
+  .item-rate {
+    width: 80px;
+  }
+
+  .item-points {
+    width: 80px;
+  }
+
+  .item-amount {
+    width: 100px;
+  }
+
+  .item-brokerage-type {
+    padding: 1px 5px;
+    width: 110px;
+  }
+
+  .item-interest {
+    .label {
+      display: block;
+      line-height: 17.9999px;
+      padding: 0 3px 0 0;
+      color: @custom-label-color;
+    }
+
+    .interest {
+      width: 80%;
+      float: right;
+    }
+
+    width: 80px;
+  }
+
+  .item-rate,
+  .item-amount,
+  .item-points,
+  .item-interest {
+    .ant-input-number-handler-wrap {
+      display: none;
+    }
+  }
+
+  .item-fixing-date,
+  .item-value-date,
+  .item-spot-date,
+  .item-publish-date {
+    width: 75px;
+  }
+
+  .item-day-count {
+    width: 45px;
+  }
+
+  .item-cls {
+    .label {
+      display: block;
+      padding: 0 3px 0 0;
+      color: @custom-label-color;
+    }
+    i {
+      color: @primary-bg-color;
+      cursor: pointer;
+      font-size: 0.7em;
+      vertical-align: top;
+    }
+  }
+
+  .favorites {
+    margin-top: 5px;
+    width: 100%;
+    display: block;
+
+    .favorite-list {
+      min-height: 24px;
+      margin: 2px 0;
+      clear: both;
+      padding: 0;
+
+      .favourite {
+        display: flex;
+
+        > span {
+          color: @primary-bg-color;
+          font-size: 14px;
+          padding: 0 6px;
+          vertical-align: middle;
+          margin-top: 0.35em;
+
+          &:hover {
+            color: @primary-color;
+          }
+        }
+      }
+
+      > .anticon {
+        position: absolute;
+        left: 5px;
+        margin-top: 6px;
+      }
+
+      .ant-tag {
+        margin: 2px 2px 0 0;
+        cursor: pointer;
+      }
+
+      .firms-tag.active {
+        border-color: rgb(25, 155, 190);
+      }
+
+      .firms-tag:not(.active) {
+        background-color: white;
+        color: rgb(25, 155, 190);
+        border-color: rgb(25, 155, 190);
+
+        &:hover {
+          background-color: @primary-bg-color;
+          color: white;
+        }
+      }
+    }
+  }
+
+  .counter-parties {
+    margin: 0 0 5x 0;
+
+    &:nth-child(2) {
+      margin-top: 5px;
+    }
+
+    .client-data-tip {
+      left: 5px;
+      background-color: transparent;
+    }
+  }
+
+  .client-cascader {
+    &.ant-cascader-picker-show-search {
+      .ant-cascader-input.ant-input:not([value=""]),
+      .ant-cascader-picker-label {
+        padding-left: 17px;
+      }
+    }
+  }
+
+  &-cascader-container {
+    .ant-cascader-menu {
+      &:first-child {
+        width: auto;
+        min-width: @cascader-width;
+        max-width: @cascader-max-width;
+      }
+      max-width: @cascader-width;
+      overflow-x: hidden;
+
+      .ant-cascader-menu-item {
+        max-width: 100%;
+        overflow-x: hidden;
+        text-overflow: ellipsis;
+        &-expand {
+          padding-right: 16px;
+        }
+      }
+    }
+  }
+
+  .trade-date {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    .marginFix();
+
+    .trade-date-enabled {
+      flex: 0 0 auto;
+
+      i {
+        color: @primary-bg-color;
+        cursor: pointer;
+        font-size: 0.7em;
+        vertical-align: top;
+      }
+
+      .ant-checkbox + span {
+        padding-right: 5px;
+        padding-left: 5px;
+      }
+
+      .label-text {
+        display: none;
+      }
+    }
+
+    .item-trade-time,
+    .item-trade-date {
+      flex: 2 1 auto;
+    }
+  }
+
+  .volume-match {
+    .marginFix();
+    text-align: right;
+    .ant-checkbox + span {
+      padding: 0 0 0 4px;
+    }
+  }
+
+  .turn-trade {
+    .marginFix();
+    text-align: center;
+    .ant-checkbox + span {
+      padding: 0 0 0 4px;
+    }
+  }
+
+  .execution-venue-label {
+    color: #6e777c;
+  }
+}
+
+.ant-select-item-group,
+.ant-select-item-group:hover {
+  color:@primary-font-color !important;
+  background-color: @primary-bg-color !important;
+  font-weight: bold !important;
+}
+
+.ant-select-item-option-content {
+  a:hover {
+  color: @custom-label-color !important;
+  }
+}
+
+.colour-tag {
+  width: 10%;
+  text-align: center;
+  margin: 4px 4px 0 0;
+  padding: 0 1px 0 1px;
+  cursor: pointer;
+}
+
+.client-info-popover {
+  .info:not(:last-child) {
+    margin-bottom: 5px;
+  }
+}
+
+.error-page {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin: 0;
+  font-family: Segoe UI, Helvetica, Arial, sans-serif;
+  color: #212529;
+
+  img.logo {
+    width: 72px;
+    height: 72px;
+    margin-bottom: 1.5rem;
+  }
+
+  p {
+    font-size: 16px;
+    line-height: normal;
+  }
+
+  a {
+    font-size: 16px;
+    line-height: normal;
+    text-decoration: none;
+  }
+
+  .flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+  }
+
+  .flex-item {
+    flex-basis: 360px;
+    text-align: center;
+  }
+
+  .title {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.75rem;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+  .subtitle {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+  .linkbutton {
+    background: none !important;
+    border: none;
+    outline: none;
+    padding: 0 !important;
+    color: @primary-bg-color;
+    font-size: 1rem;
+    cursor: pointer;
+
+    &:hover {
+      color: #1dcaf9;
+    }
+  }
+}
+
+.settings-modal {
+  .setting {
+    display: flex;
+    padding: 5px;
+    justify-content: space-between;
+
+    > span {
+      line-height: normal;
+    }
+  }
+
+  .ant-tabs-left > .ant-tabs-nav .ant-tabs-tab {
+    padding: 5px 15px 5px;
+    flex-direction: row-reverse;
+
+    &.ant-tabs-tab-active {
+      background-color: @light-color;
+    }
+  }
+
+  .ant-tabs-left
+    > .ant-tabs-content-holder
+    > .ant-tabs-content
+    > .ant-tabs-tabpane {
+    padding: 5px;
+  }
+
+  .ant-tabs-nav-list {
+    width: 180px;
+  }
+}
+
+.confirm-modal {
+  .modal-body {
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+    text-align: center;
+
+    .modal-header {
+      display: flex;
+      flex-direction: row;
+      font-size: 16px;
+      padding-bottom: 20px;
+      font-weight: bold;
+      justify-content: center;
+      align-items: center;
+
+      .anticon {
+        color: #f98d3d;
+        padding-right: 10px;
+        font-size: 30px;
+      }
+    }
+
+    .modal-times {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-evenly;
+
+      > span {
+        flex: 50%;
+        font-size: 14px;
+        padding-bottom: 20px;
+      }
+
+      :first-child {
+        text-align: right;
+        padding-right: 10px;
+      }
+
+      :last-child {
+        text-align: left;
+        text-decoration: underline;
+      }
+    }
+
+    .modal-text {
+      font-size: 14px;
+      padding-bottom: 10px;
+
+      > p {
+        margin-bottom: 10px;
+      }
+    }
+  }
+}
+
+.ant-transfer-list {
+  padding-top: 15px;
+}
+
+.dms-blotter {
+  .blotter-table {
+    @approvals-header-bg-color: #fff7e6;
+    @brokerage-header-bg-color: #f6ffed;
+    @stp-header-bg-color: #f9f0ff;
+
+    .ag-root-wrapper {
+      border: none;
+    }
+
+    .header-cell-style {
+      justify-content: center;
+    }
+
+    margin-top: 1rem;
+
+    .deal-group-header {
+      text-align: center;
+    }
+
+    .approvals-group-header {
+      background-color: @approvals-header-bg-color;
+    }
+
+    .brokerage-group-header {
+      background-color: @brokerage-header-bg-color;
+    }
+
+    .stp-group-header {
+      background-color: @stp-header-bg-color;
+
+      .ag-header-group-cell-label {
+        .header-cell-style();
+      }
+    }
+  }
+
+  .blotter-helper-controls {
+    margin: 1rem 0;
+  }
+}
+
+.ant-notification {
+  .close-all {
+    display: none !important;
+    margin-right: 10px;
+    position: relative;
+    top: -1px;
+    padding: 0 5px;
+  }
+
+  .ant-notification-notice:not(:only-child):first-of-type .close-all {
+    display: inline !important;
+  }
+}
+
+.blotter-date-filter {
+  .ant-form-item-label {
+    width: 33px;
+  }
+}
+fieldset {
+  border: 1px solid #ccd6dd;
+  display: block;
+  margin-inline-end: 2px;
+  margin-inline-start: 2px;
+  min-inline-size: min-content;
+  padding-block-end: 0.625em;
+  padding-block-start: 0.35em;
+  padding-inline-end: 0.75em;
+  padding-inline-start: 0.75em;
+  &.highlight {
+    border: 1px solid @primary-bg-color;
+
+    legend {
+      color: @primary-bg-color;
+    }
+  }
+}
+
+.ant-form {
+  legend {
+    border: none;
+    color: #6e777c;
+    font-size: @primary-font-size;
+    margin-bottom: 0px;
+    width: max-content;
+  }
+}
+.blotter-filter-container {
+  label {
+    width: 68px;
+  }
+  .blotter-trade-date {
+    margin-bottom: 10px;
+  }
+}
+.dealid {
+  .ant-input-number-handler-wrap {
+    display: none;
+  }
+}
+
+.ant-input[type="number"]::-webkit-inner-spin-button,
+.ant-input[type="number"]::-webkit-outer-spin-button {
+  margin: 0;
+  -webkit-appearance: none;
+}
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px #e2e6e8 inset !important;
+  box-shadow: 0 0 0 30px #e2e6e8 inset !important;
+}
+
+.dms-web-admin {
+  .currency-pair-editor {
+    .ag-overlay-panel {
+      background-color: rgba(255, 255, 255, 0.75);
+    }
+
+    .centered {
+      text-align: center;
+    }
+
+    .cls-checkbox {
+      margin-top: 6px;
+    }
+  }
+}
+
+.ant-drawer-header {
+  background-color: @primary-bg-color;
+  height: 47px;
+  padding-top: 10px;
+  text-align: center;
+  border-radius: 0;
+  .ant-drawer-title {
+    color: @primary-font-color;
+    font-size: @primary-font-size;
+  }
+}
+.ant-drawer-body {
+  border: 1px solid #bdc3c7;
+}
+
+input.custom-checkbox[type=checkbox] {
+	position: relative;
+	cursor: pointer;
+  top: 1px;
+  width: 10px;
+  height: 10px;
+
+  &:before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    top: 0;
+    left: 0;
+    border: 1px solid @primary-bg-color;
+    border-radius: 2px;
+    background-color: #fff;
+  }
+
+  &:checked {
+    &::before {
+      background-color: @primary-bg-color;
+      border-color: @primary-bg-color;
+    }
+    &::after {
+      content: "";
+      display: block;
+      width: 4px;
+      height: 7px;
+      border: solid #fff;
+      border-width: 0 2px 2px 0;
+      -webkit-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+      transform: rotate(45deg);
+      position: absolute;
+      top: 1px;
+      left: 3px;
+    }
+  }
+}
+
+.ant-tooltip-placement-top .ant-tooltip-arrow, 
+.ant-tooltip-placement-topLeft .ant-tooltip-arrow, 
+.ant-tooltip-placement-topRight .ant-tooltip-arrow {
+  bottom: 2px;
+}

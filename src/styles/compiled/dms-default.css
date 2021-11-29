@@ -1,0 +1,722 @@
+.dms-trade-capture-navbar .ant-menu,
+.dms-trade-capture,
+.dms-web-admin,
+.dms-web-admin-navbar .ant-menu,
+.dms-web-deal-edit {
+  min-width: 51rem;
+  max-width: 51rem;
+  margin: 0 auto;
+}
+.dms-trade-capture-navbar .ant-menu .ant-menu-item-selected,
+.dms-trade-capture .ant-menu-item-selected,
+.dms-web-admin .ant-menu-item-selected,
+.dms-web-admin-navbar .ant-menu .ant-menu-item-selected,
+.dms-web-deal-edit .ant-menu-item-selected {
+  background-color: #0180a0;
+}
+.dms-trade-capture-navbar .ant-menu .ant-menu-item:hover,
+.dms-trade-capture .ant-menu-item:hover,
+.dms-web-admin .ant-menu-item:hover,
+.dms-web-admin-navbar .ant-menu .ant-menu-item:hover,
+.dms-web-deal-edit .ant-menu-item:hover {
+  background-color: #0180a0;
+}
+.dms-trade-capture-navbar .ant-menu .ant-menu-item-no-link:hover,
+.dms-trade-capture .ant-menu-item-no-link:hover,
+.dms-web-admin .ant-menu-item-no-link:hover,
+.dms-web-admin-navbar .ant-menu .ant-menu-item-no-link:hover,
+.dms-web-deal-edit .ant-menu-item-no-link:hover {
+  background-color: #199bbe !important;
+  cursor: default;
+}
+.dms-trade-capture-navbar .ant-menu .ant-tabs,
+.dms-trade-capture .ant-tabs,
+.dms-web-admin .ant-tabs,
+.dms-web-admin-navbar .ant-menu .ant-tabs,
+.dms-web-deal-edit .ant-tabs {
+  padding-top: 0.5em;
+}
+.dms-trade-capture-navbar .ant-menu .ant-tabs-tab,
+.dms-trade-capture .ant-tabs-tab,
+.dms-web-admin .ant-tabs-tab,
+.dms-web-admin-navbar .ant-menu .ant-tabs-tab,
+.dms-web-deal-edit .ant-tabs-tab {
+  padding: 0 5px !important;
+  margin: 0px !important;
+}
+.dms-trade-capture-navbar .ant-menu .ant-tabs-tab-btn,
+.dms-trade-capture .ant-tabs-tab-btn,
+.dms-web-admin .ant-tabs-tab-btn,
+.dms-web-admin-navbar .ant-menu .ant-tabs-tab-btn,
+.dms-web-deal-edit .ant-tabs-tab-btn {
+  text-shadow: none !important;
+  text-transform: capitalize;
+}
+.dms-trade-capture-navbar .ant-menu .ant-tabs-tab-remove,
+.dms-trade-capture .ant-tabs-tab-remove,
+.dms-web-admin .ant-tabs-tab-remove,
+.dms-web-admin-navbar .ant-menu .ant-tabs-tab-remove,
+.dms-web-deal-edit .ant-tabs-tab-remove {
+  color: #0180a0;
+  visibility: visible;
+  margin: 0 !important;
+  padding: 0 !important;
+  padding-left: 4px !important;
+}
+.dms-trade-capture-navbar .ant-menu .ant-tabs-tab-remove:hover,
+.dms-trade-capture .ant-tabs-tab-remove:hover,
+.dms-web-admin .ant-tabs-tab-remove:hover,
+.dms-web-admin-navbar .ant-menu .ant-tabs-tab-remove:hover,
+.dms-web-deal-edit .ant-tabs-tab-remove:hover,
+.dms-trade-capture-navbar .ant-menu .ant-tabs-tab-remove:active,
+.dms-trade-capture .ant-tabs-tab-remove:active,
+.dms-web-admin .ant-tabs-tab-remove:active,
+.dms-web-admin-navbar .ant-menu .ant-tabs-tab-remove:active,
+.dms-web-deal-edit .ant-tabs-tab-remove:active {
+  color: #f00;
+}
+.dms-trade-capture-navbar .ant-menu .ant-tabs-tab.ant-tabs-tab-with-remove,
+.dms-trade-capture .ant-tabs-tab.ant-tabs-tab-with-remove,
+.dms-web-admin .ant-tabs-tab.ant-tabs-tab-with-remove,
+.dms-web-admin-navbar .ant-menu .ant-tabs-tab.ant-tabs-tab-with-remove,
+.dms-web-deal-edit .ant-tabs-tab.ant-tabs-tab-with-remove {
+  padding: 0 0 0 5px !important;
+}
+.dms-trade-capture-navbar .ant-menu .anticon-info-circle:not(.client-info),
+.dms-trade-capture .anticon-info-circle:not(.client-info),
+.dms-web-admin .anticon-info-circle:not(.client-info),
+.dms-web-admin-navbar .ant-menu .anticon-info-circle:not(.client-info),
+.dms-web-deal-edit .anticon-info-circle:not(.client-info) {
+  color: #0180a0 !important;
+  font-size: 0.7em !important;
+  position: relative;
+  top: -4px;
+}
+.dms-trade-capture-navbar .ant-menu span.ant-radio + *,
+.dms-trade-capture span.ant-radio + *,
+.dms-web-admin span.ant-radio + *,
+.dms-web-admin-navbar .ant-menu span.ant-radio + *,
+.dms-web-deal-edit span.ant-radio + * {
+  padding: 0 3px;
+}
+.dms-trade-capture-navbar .ant-menu .ant-radio-wrapper,
+.dms-trade-capture .ant-radio-wrapper,
+.dms-web-admin .ant-radio-wrapper,
+.dms-web-admin-navbar .ant-menu .ant-radio-wrapper,
+.dms-web-deal-edit .ant-radio-wrapper {
+  margin: 0 6px 0 0;
+}
+.dms-trade-capture-navbar .ant-menu .custom-label,
+.dms-trade-capture .custom-label,
+.dms-web-admin .custom-label,
+.dms-web-admin-navbar .ant-menu .custom-label,
+.dms-web-deal-edit .custom-label {
+  padding-right: 6px;
+}
+.dms-trade-capture-navbar .ant-menu .action-buttons,
+.dms-trade-capture .action-buttons,
+.dms-web-admin .action-buttons,
+.dms-web-admin-navbar .ant-menu .action-buttons,
+.dms-web-deal-edit .action-buttons {
+  padding: 5px 0;
+}
+.dms-trade-capture-navbar .ant-menu .filler,
+.dms-trade-capture .filler,
+.dms-web-admin .filler,
+.dms-web-admin-navbar .ant-menu .filler,
+.dms-web-deal-edit .filler {
+  border: transparent 1px solid;
+}
+.dms-trade-capture-navbar .ant-menu .ant-col ant-form-item-label,
+.dms-trade-capture .ant-col ant-form-item-label,
+.dms-web-admin .ant-col ant-form-item-label,
+.dms-web-admin-navbar .ant-menu .ant-col ant-form-item-label,
+.dms-web-deal-edit .ant-col ant-form-item-label {
+  position: relative;
+}
+.dms-trade-capture-navbar .ant-menu .star-icon,
+.dms-trade-capture .star-icon,
+.dms-web-admin .star-icon,
+.dms-web-admin-navbar .ant-menu .star-icon,
+.dms-web-deal-edit .star-icon {
+  color: #cccc00;
+  cursor: pointer;
+  font-size: 0.7em !important;
+  position: relative;
+  top: -4px;
+}
+.dms-trade-capture-navbar .ant-menu .star-icon.trigger,
+.dms-trade-capture .star-icon.trigger,
+.dms-web-admin .star-icon.trigger,
+.dms-web-admin-navbar .ant-menu .star-icon.trigger,
+.dms-web-deal-edit .star-icon.trigger {
+  position: static;
+  font-size: 1em !important;
+}
+.dms-trade-capture-navbar .ant-menu.navbar-menu,
+.dms-trade-capture.navbar-menu,
+.dms-web-admin.navbar-menu,
+.dms-web-admin-navbar .ant-menu.navbar-menu,
+.dms-web-deal-edit.navbar-menu {
+  position: relative;
+}
+.dms-trade-capture-navbar .ant-menu.navbar-menu .user-name,
+.dms-trade-capture.navbar-menu .user-name,
+.dms-web-admin.navbar-menu .user-name,
+.dms-web-admin-navbar .ant-menu.navbar-menu .user-name,
+.dms-web-deal-edit.navbar-menu .user-name {
+  position: absolute;
+  right: 24px;
+  padding: 0 !important;
+}
+.dms-trade-capture-navbar .ant-menu.navbar-menu .user-name .submenu-title-wrapper,
+.dms-trade-capture.navbar-menu .user-name .submenu-title-wrapper,
+.dms-web-admin.navbar-menu .user-name .submenu-title-wrapper,
+.dms-web-admin-navbar .ant-menu.navbar-menu .user-name .submenu-title-wrapper,
+.dms-web-deal-edit.navbar-menu .user-name .submenu-title-wrapper {
+  padding: 0 5px 0 10px !important;
+}
+.dms-trade-capture-navbar .ant-menu.navbar-menu .btn-settings,
+.dms-trade-capture.navbar-menu .btn-settings,
+.dms-web-admin.navbar-menu .btn-settings,
+.dms-web-admin-navbar .ant-menu.navbar-menu .btn-settings,
+.dms-web-deal-edit.navbar-menu .btn-settings {
+  position: absolute;
+  right: 0;
+  padding-left: 2px !important;
+  padding-right: 2px !important;
+}
+.dms-trade-capture .strategy-venue,
+.dms-trade-capture .trade-economics,
+.dms-trade-capture .trade-sides {
+  padding: 5px 0;
+}
+.dms-trade-capture .item-row {
+  clear: both;
+}
+.dms-trade-capture colgroup col {
+  min-width: unset !important;
+}
+.dms-trade-capture .toggle-3cp {
+  margin-top: 0.5em;
+}
+.dms-trade-capture .item-ccy1,
+.dms-trade-capture .item-ccy2,
+.dms-trade-capture .item-dealt-ccy,
+.dms-trade-capture .item-term,
+.dms-trade-capture .item-rate,
+.dms-trade-capture .item-points,
+.dms-trade-capture .item-amount,
+.dms-trade-capture .item-interest,
+.dms-trade-capture .item-fixing-date,
+.dms-trade-capture .item-value-date,
+.dms-trade-capture .item-spot-date,
+.dms-trade-capture .item-publish-date,
+.dms-trade-capture .item-day-count,
+.dms-trade-capture .item-cls {
+  display: inline-block;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+.dms-trade-capture .item-ccy {
+  display: inline-block;
+}
+.dms-trade-capture .item-ccy .ccy-pair {
+  display: inline-block;
+}
+.dms-trade-capture .item-ccy .ccy-label {
+  display: block;
+  line-height: 18px;
+  padding: 0 3px 0 3px;
+  color: #6e777c;
+}
+.dms-trade-capture .item-ccy .ccy-label i {
+  color: #cccc00;
+  cursor: pointer;
+  font-size: 0.7em;
+  vertical-align: top;
+}
+.dms-trade-capture .item-ccy1,
+.dms-trade-capture .item-ccy2,
+.dms-trade-capture .item-dealt-ccy {
+  width: 72px;
+}
+.dms-trade-capture .item-term {
+  width: 68px;
+}
+.dms-trade-capture .rate-wrapper {
+  display: inline;
+  position: relative;
+}
+.dms-trade-capture .rate-wrapper .rate-loading-indicator {
+  position: absolute;
+  right: 5px;
+  bottom: 0px;
+  z-index: 1000;
+}
+.dms-trade-capture .item-rate {
+  width: 80px;
+}
+.dms-trade-capture .item-points {
+  width: 80px;
+}
+.dms-trade-capture .item-amount {
+  width: 100px;
+}
+.dms-trade-capture .item-brokerage-type {
+  padding: 1px 5px;
+  width: 110px;
+}
+.dms-trade-capture .item-interest {
+  width: 80px;
+}
+.dms-trade-capture .item-interest .label {
+  display: block;
+  line-height: 17.9999px;
+  padding: 0 3px 0 0;
+  color: #6e777c;
+}
+.dms-trade-capture .item-interest .interest {
+  width: 80%;
+  float: right;
+}
+.dms-trade-capture .item-rate .ant-input-number-handler-wrap,
+.dms-trade-capture .item-amount .ant-input-number-handler-wrap,
+.dms-trade-capture .item-points .ant-input-number-handler-wrap,
+.dms-trade-capture .item-interest .ant-input-number-handler-wrap {
+  display: none;
+}
+.dms-trade-capture .item-fixing-date,
+.dms-trade-capture .item-value-date,
+.dms-trade-capture .item-spot-date,
+.dms-trade-capture .item-publish-date {
+  width: 75px;
+}
+.dms-trade-capture .item-day-count {
+  width: 45px;
+}
+.dms-trade-capture .item-cls .label {
+  display: block;
+  padding: 0 3px 0 0;
+  color: #6e777c;
+}
+.dms-trade-capture .item-cls i {
+  color: #199bbe;
+  cursor: pointer;
+  font-size: 0.7em;
+  vertical-align: top;
+}
+.dms-trade-capture .favorites {
+  margin-top: 5px;
+  width: 100%;
+  display: block;
+}
+.dms-trade-capture .favorites .favorite-list {
+  min-height: 24px;
+  margin: 2px 0;
+  clear: both;
+  padding: 0;
+}
+.dms-trade-capture .favorites .favorite-list .favourite {
+  display: flex;
+}
+.dms-trade-capture .favorites .favorite-list .favourite > span {
+  color: #199bbe;
+  font-size: 14px;
+  padding: 0 6px;
+  vertical-align: middle;
+  margin-top: 0.35em;
+}
+.dms-trade-capture .favorites .favorite-list .favourite > span:hover {
+  color: #0180a0;
+}
+.dms-trade-capture .favorites .favorite-list > .anticon {
+  position: absolute;
+  left: 5px;
+  margin-top: 6px;
+}
+.dms-trade-capture .favorites .favorite-list .ant-tag {
+  margin: 2px 2px 0 0;
+  cursor: pointer;
+}
+.dms-trade-capture .favorites .favorite-list .firms-tag.active {
+  border-color: #199bbe;
+}
+.dms-trade-capture .favorites .favorite-list .firms-tag:not(.active) {
+  background-color: white;
+  color: #199bbe;
+  border-color: #199bbe;
+}
+.dms-trade-capture .favorites .favorite-list .firms-tag:not(.active):hover {
+  background-color: #199bbe;
+  color: white;
+}
+.dms-trade-capture .counter-parties {
+  margin: 0 0 5x 0;
+}
+.dms-trade-capture .counter-parties:nth-child(2) {
+  margin-top: 5px;
+}
+.dms-trade-capture .counter-parties .client-data-tip {
+  left: 5px;
+  background-color: transparent;
+}
+.dms-trade-capture .client-cascader.ant-cascader-picker-show-search .ant-cascader-input.ant-input:not([value=""]),
+.dms-trade-capture .client-cascader.ant-cascader-picker-show-search .ant-cascader-picker-label {
+  padding-left: 17px;
+}
+.dms-trade-capture-cascader-container .ant-cascader-menu {
+  max-width: 270px;
+  overflow-x: hidden;
+}
+.dms-trade-capture-cascader-container .ant-cascader-menu:first-child {
+  width: auto;
+  min-width: 270px;
+  max-width: 540px;
+}
+.dms-trade-capture-cascader-container .ant-cascader-menu .ant-cascader-menu-item {
+  max-width: 100%;
+  overflow-x: hidden;
+  text-overflow: ellipsis;
+}
+.dms-trade-capture-cascader-container .ant-cascader-menu .ant-cascader-menu-item-expand {
+  padding-right: 16px;
+}
+.dms-trade-capture .trade-date {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  margin-top: 1px;
+}
+.dms-trade-capture .trade-date .trade-date-enabled {
+  flex: 0 0 auto;
+}
+.dms-trade-capture .trade-date .trade-date-enabled i {
+  color: #199bbe;
+  cursor: pointer;
+  font-size: 0.7em;
+  vertical-align: top;
+}
+.dms-trade-capture .trade-date .trade-date-enabled .ant-checkbox + span {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+.dms-trade-capture .trade-date .trade-date-enabled .label-text {
+  display: none;
+}
+.dms-trade-capture .trade-date .item-trade-time,
+.dms-trade-capture .trade-date .item-trade-date {
+  flex: 2 1 auto;
+}
+.dms-trade-capture .volume-match {
+  margin-top: 1px;
+  text-align: right;
+}
+.dms-trade-capture .volume-match .ant-checkbox + span {
+  padding: 0 0 0 4px;
+}
+.dms-trade-capture .turn-trade {
+  margin-top: 1px;
+  text-align: center;
+}
+.dms-trade-capture .turn-trade .ant-checkbox + span {
+  padding: 0 0 0 4px;
+}
+.dms-trade-capture .execution-venue-label {
+  color: #6e777c;
+}
+.ant-select-item-group,
+.ant-select-item-group:hover {
+  color: #fff !important;
+  background-color: #199bbe !important;
+  font-weight: bold !important;
+}
+.ant-select-item-option-content a:hover {
+  color: #6e777c !important;
+}
+.colour-tag {
+  width: 10%;
+  text-align: center;
+  margin: 4px 4px 0 0;
+  padding: 0 1px 0 1px;
+  cursor: pointer;
+}
+.client-info-popover .info:not(:last-child) {
+  margin-bottom: 5px;
+}
+.error-page {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin: 0;
+  font-family: Segoe UI, Helvetica, Arial, sans-serif;
+  color: #212529;
+}
+.error-page img.logo {
+  width: 72px;
+  height: 72px;
+  margin-bottom: 1.5rem;
+}
+.error-page p {
+  font-size: 16px;
+  line-height: normal;
+}
+.error-page a {
+  font-size: 16px;
+  line-height: normal;
+  text-decoration: none;
+}
+.error-page .flex-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+.error-page .flex-item {
+  flex-basis: 360px;
+  text-align: center;
+}
+.error-page .title {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.75rem;
+  font-weight: 400;
+  line-height: normal;
+}
+.error-page .subtitle {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: normal;
+}
+.error-page .linkbutton {
+  background: none !important;
+  border: none;
+  outline: none;
+  padding: 0 !important;
+  color: #199bbe;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.error-page .linkbutton:hover {
+  color: #1dcaf9;
+}
+.settings-modal .setting {
+  display: flex;
+  padding: 5px;
+  justify-content: space-between;
+}
+.settings-modal .setting > span {
+  line-height: normal;
+}
+.settings-modal .ant-tabs-left > .ant-tabs-nav .ant-tabs-tab {
+  padding: 5px 15px 5px;
+  flex-direction: row-reverse;
+}
+.settings-modal .ant-tabs-left > .ant-tabs-nav .ant-tabs-tab.ant-tabs-tab-active {
+  background-color: #e6f5fc;
+}
+.settings-modal .ant-tabs-left > .ant-tabs-content-holder > .ant-tabs-content > .ant-tabs-tabpane {
+  padding: 5px;
+}
+.settings-modal .ant-tabs-nav-list {
+  width: 180px;
+}
+.confirm-modal .modal-body {
+  display: flex;
+  flex-direction: column;
+  padding-top: 10px;
+  text-align: center;
+}
+.confirm-modal .modal-body .modal-header {
+  display: flex;
+  flex-direction: row;
+  font-size: 16px;
+  padding-bottom: 20px;
+  font-weight: bold;
+  justify-content: center;
+  align-items: center;
+}
+.confirm-modal .modal-body .modal-header .anticon {
+  color: #f98d3d;
+  padding-right: 10px;
+  font-size: 30px;
+}
+.confirm-modal .modal-body .modal-times {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.confirm-modal .modal-body .modal-times > span {
+  flex: 50%;
+  font-size: 14px;
+  padding-bottom: 20px;
+}
+.confirm-modal .modal-body .modal-times :first-child {
+  text-align: right;
+  padding-right: 10px;
+}
+.confirm-modal .modal-body .modal-times :last-child {
+  text-align: left;
+  text-decoration: underline;
+}
+.confirm-modal .modal-body .modal-text {
+  font-size: 14px;
+  padding-bottom: 10px;
+}
+.confirm-modal .modal-body .modal-text > p {
+  margin-bottom: 10px;
+}
+.ant-transfer-list {
+  padding-top: 15px;
+}
+.dms-blotter .blotter-table {
+  margin-top: 1rem;
+}
+.dms-blotter .blotter-table .ag-root-wrapper {
+  border: none;
+}
+.dms-blotter .blotter-table .header-cell-style {
+  justify-content: center;
+}
+.dms-blotter .blotter-table .deal-group-header {
+  text-align: center;
+}
+.dms-blotter .blotter-table .approvals-group-header {
+  background-color: #fff7e6;
+}
+.dms-blotter .blotter-table .brokerage-group-header {
+  background-color: #f6ffed;
+}
+.dms-blotter .blotter-table .stp-group-header {
+  background-color: #f9f0ff;
+}
+.dms-blotter .blotter-table .stp-group-header .ag-header-group-cell-label {
+  justify-content: center;
+}
+.dms-blotter .blotter-helper-controls {
+  margin: 1rem 0;
+}
+.ant-notification .close-all {
+  display: none !important;
+  margin-right: 10px;
+  position: relative;
+  top: -1px;
+  padding: 0 5px;
+}
+.ant-notification .ant-notification-notice:not(:only-child):first-of-type .close-all {
+  display: inline !important;
+}
+.blotter-date-filter .ant-form-item-label {
+  width: 33px;
+}
+fieldset {
+  border: 1px solid #ccd6dd;
+  display: block;
+  margin-inline-end: 2px;
+  margin-inline-start: 2px;
+  min-inline-size: min-content;
+  padding-block-end: 0.625em;
+  padding-block-start: 0.35em;
+  padding-inline-end: 0.75em;
+  padding-inline-start: 0.75em;
+}
+fieldset.highlight {
+  border: 1px solid #199bbe;
+}
+fieldset.highlight legend {
+  color: #199bbe;
+}
+.ant-form legend {
+  border: none;
+  color: #6e777c;
+  font-size: 11px;
+  margin-bottom: 0px;
+  width: max-content;
+}
+.blotter-filter-container label {
+  width: 68px;
+}
+.blotter-filter-container .blotter-trade-date {
+  margin-bottom: 10px;
+}
+.dealid .ant-input-number-handler-wrap {
+  display: none;
+}
+.ant-input[type="number"]::-webkit-inner-spin-button,
+.ant-input[type="number"]::-webkit-outer-spin-button {
+  margin: 0;
+  -webkit-appearance: none;
+}
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px #e2e6e8 inset !important;
+  box-shadow: 0 0 0 30px #e2e6e8 inset !important;
+}
+.dms-web-admin .currency-pair-editor .ag-overlay-panel {
+  background-color: rgba(255, 255, 255, 0.75);
+}
+.dms-web-admin .currency-pair-editor .centered {
+  text-align: center;
+}
+.dms-web-admin .currency-pair-editor .cls-checkbox {
+  margin-top: 6px;
+}
+.ant-drawer-header {
+  background-color: #199bbe;
+  height: 47px;
+  padding-top: 10px;
+  text-align: center;
+  border-radius: 0;
+}
+.ant-drawer-header .ant-drawer-title {
+  color: #fff;
+  font-size: 11px;
+}
+.ant-drawer-body {
+  border: 1px solid #bdc3c7;
+}
+input.custom-checkbox[type=checkbox] {
+  position: relative;
+  cursor: pointer;
+  top: 1px;
+  width: 10px;
+  height: 10px;
+}
+input.custom-checkbox[type=checkbox]:before {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: 0;
+  left: 0;
+  border: 1px solid #199bbe;
+  border-radius: 2px;
+  background-color: #fff;
+}
+input.custom-checkbox[type=checkbox]:checked::before {
+  background-color: #199bbe;
+  border-color: #199bbe;
+}
+input.custom-checkbox[type=checkbox]:checked::after {
+  content: "";
+  display: block;
+  width: 4px;
+  height: 7px;
+  border: solid #fff;
+  border-width: 0 2px 2px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+  position: absolute;
+  top: 1px;
+  left: 3px;
+}
+.ant-tooltip-placement-top .ant-tooltip-arrow,
+.ant-tooltip-placement-topLeft .ant-tooltip-arrow,
+.ant-tooltip-placement-topRight .ant-tooltip-arrow {
+  bottom: 2px;
+}
+/*# sourceMappingURL=dms-default.css.map */

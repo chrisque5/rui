@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TradeDateConfirmModal /> renders snapshot as expected 1`] = `<div />`;
+
+exports[`<TradeDateConfirmModal /> renders snapshot as expected when no dates set in form 1`] = `<div />`;

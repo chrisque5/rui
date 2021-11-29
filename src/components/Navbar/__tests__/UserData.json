@@ -1,0 +1,179 @@
+{
+  "user": {
+    "permissions": {
+      "validForNdf": true
+    },
+    "fullName": "BELFAST TPEUR TEST BROKER 1",
+    "preferences": {
+      "version": 3,
+      "preferredBrokers": [
+        {
+          "nickName": "BELFAST TPEUR TEST BROKER 1",
+          "id": 100114,
+          "name": "BELFAST TPEUR TEST BROKER 1",
+          "deskId": 8158,
+          "favourites": {
+            "clients": [
+              {
+                "nickName": "ALEX TANG1",
+                "backgroundColour": "3",
+                "executingCustomerId": 104284,
+                "executingCustomerDisplayName": "CITIBANK NA",
+                "tradingCustomerId": 104286,
+                "tradingCustomerDisplayName": "CITIBANK NA",
+                "tradingCustomerCodeLocationCode": "CITI.LON",
+                "traderPostingId": 58057,
+                "traderDisplayName": "ALEX TANG",
+                "agentCustomerId": 0
+              },
+              {
+                "nickName": "DWIGHT EISENHOWER",
+                "backgroundColour": "6",
+                "executingCustomerId": 164922,
+                "executingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+                "tradingCustomerId": 164922,
+                "tradingCustomerDisplayName": "AMERICAN PRESIDENT BANK",
+                "tradingCustomerCodeLocationCode": "APBK.HKG",
+                "traderPostingId": 43637,
+                "traderDisplayName": "DWIGHT EISENHOWER",
+                "agentCustomerId": 0
+              },
+              {
+                "nickName": "CHAN YOUNG KIM",
+                "executingCustomerId": 104054,
+                "executingCustomerDisplayName": "BARCLAYS BANK PLC",
+                "tradingCustomerId": 104054,
+                "tradingCustomerDisplayName": "BARCLAYS BANK PLC",
+                "tradingCustomerCodeLocationCode": "BARC.SIN",
+                "traderPostingId": 46893,
+                "traderDisplayName": "CHAN YOUNG KIM",
+                "agentCustomerId": 0
+              },
+              {
+                "nickName": "AJAY ABROL",
+                "executingCustomerId": 109059,
+                "executingCustomerDisplayName": "BNP PARIBAS SINGAPORE BRANCH",
+                "tradingCustomerId": 109056,
+                "tradingCustomerDisplayName": "BNP PARIBAS SA",
+                "tradingCustomerCodeLocationCode": "BNPA.PAR",
+                "traderPostingId": 68385,
+                "traderDisplayName": "AJAY ABROL",
+                "agentCustomerId": 0
+              }
+            ],
+            "currencyPairs": [
+              {
+                "nickName": "USDCNY",
+                "baseCurrency": "USD",
+                "counterCurrency": "CNY",
+                "dealtCurrency": "USD"
+              }
+            ],
+            "terms": [
+              {
+                "nickName": "11/05/2020",
+                "valueDate": "11/05/2020"
+              },
+              {
+                "nickName": "TOM",
+                "term": "TOM"
+              },
+              {
+                "nickName": "TOD",
+                "term": "TOD"
+              }
+            ],
+            "executionVenues": [
+              {
+                "nickName": "TPSEF",
+                "executionVenue": "TPSEF"
+              }
+            ]
+          },
+          "editable": true
+        },
+        {
+          "nickName": "BELFAST TPSIN TEST BROKER 2",
+          "id": 100119,
+          "name": "BELFAST TPSIN TEST BROKER 2",
+          "deskId": 8159,
+          "favourites": {
+            "clients": [],
+            "currencyPairs": [],
+            "terms": [
+              {
+                "nickName": "1W",
+                "term": "1W"
+              },
+              {
+                "nickName": "1M",
+                "term": "1M"
+              },
+              {
+                "nickName": "3M",
+                "term": "3M"
+              },
+              {
+                "nickName": "6M",
+                "term": "6M"
+              },
+              {
+                "nickName": "9M",
+                "term": "9M"
+              },
+              {
+                "nickName": "1Y",
+                "term": "1Y"
+              },
+              {
+                "nickName": "2Y",
+                "term": "2Y"
+              }
+            ],
+            "executionVenues": [
+              {
+                "nickName": "XOFF",
+                "executionVenue": "XOFF"
+              }
+            ]
+          },
+          "editable": true
+        }
+      ],
+      "settings": {
+        "ratesFeed": false,
+        "displayClientFavourites": true,
+        "displayCurrencyFavourites": true,
+        "displayTermFavourites": true,
+        "dealSubmitSound": "ka-ching",
+        "colourScheme": "light",
+        "displayClients": true,
+        "displayExecutionVenueFavourites": true,
+        "lrMode": false,
+        "displayExecutionVenueColours": true
+      },
+      "defaults": {
+        "lastDealType": "FWD",
+        "dealDefaults": [
+          {
+            "executionVenue": "TEFD",
+            "counterCurrency": "CNY",
+            "dealtCurrency": "USD",
+            "key": "NDF",
+            "baseCurrency": "USD"
+          },
+          {
+            "executionVenue": "XOFF",
+            "counterCurrency": "USD",
+            "dealtCurrency": "USD",
+            "key": "FWD",
+            "baseCurrency": "EUR",
+            "lastUsedDealType": "FWD"
+          }
+        ]
+      }
+    },
+    "validForFWD": true,
+    "validForDeskEdit": true
+  }
+}

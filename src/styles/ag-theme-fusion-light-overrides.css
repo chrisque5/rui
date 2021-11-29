@@ -1,0 +1,19 @@
+.ag-theme-balham .ag-cell {
+  line-height: 25px;
+}
+
+.ag-header-cell-label {
+  justify-content: center;
+}
+
+.ag-theme-balham .ag-icon-checkbox-unchecked,
+.ag-theme-balham .ag-icon-checkbox-checked {
+  background-color: transparent;
+}
+
+.ag-primary-cols-header-panel .ag-icon.ag-icon-checkbox-checked,
+.ag-primary-cols-header-panel .ag-icon.ag-icon-checkbox-indeterminate,
+.ag-primary-cols-header-panel .ag-icon.ag-icon-ceckbox-unchecked {
+  display: none;
+}
+

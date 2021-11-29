@@ -1,0 +1,816 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BrokerageAllocations /> renders snapshot as expected 1`] = `
+<div>
+  <form
+    class="ant-form ant-form-horizontal"
+  >
+    <div
+      class="brokerage-allocations"
+    >
+      <div
+        class="ant-table-wrapper"
+        style="margin-bottom: 25px;"
+      >
+        <div
+          class="ant-spin-nested-loading"
+        >
+          <div
+            class="ant-spin-container"
+          >
+            <div
+              class="ant-table ant-table-bordered"
+            >
+              <div
+                class="ant-table-container"
+              >
+                <div
+                  class="ant-table-content"
+                >
+                  <table
+                    style="table-layout: auto;"
+                  >
+                    <colgroup>
+                      <col
+                        style="width: 40px;"
+                      />
+                      <col />
+                      <col />
+                      <col
+                        style="width: 30px;"
+                      />
+                      <col
+                        style="width: 90px;"
+                      />
+                    </colgroup>
+                    <thead
+                      class="ant-table-thead"
+                    >
+                      <tr>
+                        <th
+                          class="ant-table-cell"
+                        />
+                        <th
+                          class="ant-table-cell brokerage-column"
+                        >
+                          Broker
+                        </th>
+                        <th
+                          class="ant-table-cell brokerage-column"
+                        >
+                          Profit Center
+                        </th>
+                        <th
+                          class="ant-table-cell"
+                        >
+                          Allocation %
+                        </th>
+                        <th
+                          class="ant-table-cell"
+                        >
+                          Receive Brokerage
+                        </th>
+                        <th
+                          class="ant-table-cell brokerage-column"
+                        >
+                          Updated By
+                        </th>
+                      </tr>
+                    </thead>
+                    <tbody
+                      class="ant-table-tbody"
+                    >
+                      <tr
+                        class="ant-table-row ant-table-row-level-0"
+                        data-row-key="receiver-abf77801-62cb"
+                      >
+                        <td
+                          class="ant-table-cell"
+                        >
+                          <div>
+                            <button
+                              class="ant-btn ant-btn-circle ant-btn-icon-only"
+                              data-testid="btn-300-Add"
+                              style="background: none;"
+                              type="button"
+                            >
+                              <span
+                                aria-label="plus-circle"
+                                class="anticon anticon-plus-circle"
+                                role="img"
+                                style="color: green; cursor: pointer;"
+                              >
+                                <svg
+                                  aria-hidden="true"
+                                  data-icon="plus-circle"
+                                  fill="currentColor"
+                                  focusable="false"
+                                  height="1em"
+                                  viewBox="64 64 896 896"
+                                  width="1em"
+                                >
+                                  <path
+                                    d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm192 472c0 4.4-3.6 8-8 8H544v152c0 4.4-3.6 8-8 8h-48c-4.4 0-8-3.6-8-8V544H328c-4.4 0-8-3.6-8-8v-48c0-4.4 3.6-8 8-8h152V328c0-4.4 3.6-8 8-8h48c4.4 0 8 3.6 8 8v152h152c4.4 0 8 3.6 8 8v48z"
+                                  />
+                                </svg>
+                              </span>
+                            </button>
+                          </div>
+                        </td>
+                        <td
+                          class="ant-table-cell brokerage-column"
+                        >
+                          <div
+                            class="ant-row ant-form-item"
+                          >
+                            <div
+                              class="ant-col ant-form-item-control"
+                            >
+                              <div
+                                class="ant-form-item-control-input"
+                              >
+                                <div
+                                  class="ant-form-item-control-input-content"
+                                >
+                                  <input
+                                    class="ant-input"
+                                    id="receiver-abf77801-62cb-brokerGcdPostingName"
+                                    readonly=""
+                                    title="IAN GABLE"
+                                    type="text"
+                                    value="IAN GABLE"
+                                  />
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                        <td
+                          class="ant-table-cell brokerage-column"
+                        >
+                          <div
+                            class="ant-row ant-form-item"
+                          >
+                            <div
+                              class="ant-col ant-form-item-control"
+                            >
+                              <div
+                                class="ant-form-item-control-input"
+                              >
+                                <div
+                                  class="ant-form-item-control-input-content"
+                                >
+                                  <input
+                                    class="ant-input"
+                                    id="receiver-abf77801-62cb-profitCenter"
+                                    readonly=""
+                                    title="LONDON NDF"
+                                    type="text"
+                                    value="LONDON NDF"
+                                  />
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                        <td
+                          class="ant-table-cell"
+                        >
+                          <div
+                            class="ant-row ant-form-item"
+                          >
+                            <div
+                              class="ant-col ant-form-item-control"
+                            >
+                              <div
+                                class="ant-form-item-control-input"
+                              >
+                                <div
+                                  class="ant-form-item-control-input-content"
+                                >
+                                  <div
+                                    class="ant-input-number ant-input-number-sm"
+                                  >
+                                    <div
+                                      class="ant-input-number-handler-wrap"
+                                    >
+                                      <span
+                                        aria-disabled="false"
+                                        aria-label="Increase Value"
+                                        class="ant-input-number-handler ant-input-number-handler-up"
+                                        role="button"
+                                        unselectable="on"
+                                      >
+                                        <span
+                                          aria-label="up"
+                                          class="anticon anticon-up ant-input-number-handler-up-inner"
+                                          role="img"
+                                        >
+                                          <svg
+                                            aria-hidden="true"
+                                            data-icon="up"
+                                            fill="currentColor"
+                                            focusable="false"
+                                            height="1em"
+                                            viewBox="64 64 896 896"
+                                            width="1em"
+                                          >
+                                            <path
+                                              d="M890.5 755.3L537.9 269.2c-12.8-17.6-39-17.6-51.7 0L133.5 755.3A8 8 0 00140 768h75c5.1 0 9.9-2.5 12.9-6.6L512 369.8l284.1 391.6c3 4.1 7.8 6.6 12.9 6.6h75c6.5 0 10.3-7.4 6.5-12.7z"
+                                            />
+                                          </svg>
+                                        </span>
+                                      </span>
+                                      <span
+                                        aria-disabled="false"
+                                        aria-label="Decrease Value"
+                                        class="ant-input-number-handler ant-input-number-handler-down"
+                                        role="button"
+                                        unselectable="on"
+                                      >
+                                        <span
+                                          aria-label="down"
+                                          class="anticon anticon-down ant-input-number-handler-down-inner"
+                                          role="img"
+                                        >
+                                          <svg
+                                            aria-hidden="true"
+                                            data-icon="down"
+                                            fill="currentColor"
+                                            focusable="false"
+                                            height="1em"
+                                            viewBox="64 64 896 896"
+                                            width="1em"
+                                          >
+                                            <path
+                                              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                                            />
+                                          </svg>
+                                        </span>
+                                      </span>
+                                    </div>
+                                    <div
+                                      class="ant-input-number-input-wrap"
+                                    >
+                                      <input
+                                        aria-valuenow="50"
+                                        autocomplete="off"
+                                        class="ant-input-number-input"
+                                        data-testid="300-percentage"
+                                        id="receiver-abf77801-62cb-percentage"
+                                        maxlength="6"
+                                        role="spinbutton"
+                                        step="1"
+                                        value="50"
+                                      />
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                        <td
+                          class="ant-table-cell"
+                        >
+                          <div
+                            class="ant-row ant-form-item"
+                          >
+                            <div
+                              class="ant-col ant-form-item-control"
+                            >
+                              <div
+                                class="ant-form-item-control-input"
+                              >
+                                <div
+                                  class="ant-form-item-control-input-content"
+                                >
+                                  <div
+                                    class="ant-input-number ant-input-number-sm"
+                                  >
+                                    <div
+                                      class="ant-input-number-handler-wrap"
+                                    >
+                                      <span
+                                        aria-disabled="false"
+                                        aria-label="Increase Value"
+                                        class="ant-input-number-handler ant-input-number-handler-up"
+                                        role="button"
+                                        unselectable="on"
+                                      >
+                                        <span
+                                          aria-label="up"
+                                          class="anticon anticon-up ant-input-number-handler-up-inner"
+                                          role="img"
+                                        >
+                                          <svg
+                                            aria-hidden="true"
+                                            data-icon="up"
+                                            fill="currentColor"
+                                            focusable="false"
+                                            height="1em"
+                                            viewBox="64 64 896 896"
+                                            width="1em"
+                                          >
+                                            <path
+                                              d="M890.5 755.3L537.9 269.2c-12.8-17.6-39-17.6-51.7 0L133.5 755.3A8 8 0 00140 768h75c5.1 0 9.9-2.5 12.9-6.6L512 369.8l284.1 391.6c3 4.1 7.8 6.6 12.9 6.6h75c6.5 0 10.3-7.4 6.5-12.7z"
+                                            />
+                                          </svg>
+                                        </span>
+                                      </span>
+                                      <span
+                                        aria-disabled="false"
+                                        aria-label="Decrease Value"
+                                        class="ant-input-number-handler ant-input-number-handler-down"
+                                        role="button"
+                                        unselectable="on"
+                                      >
+                                        <span
+                                          aria-label="down"
+                                          class="anticon anticon-down ant-input-number-handler-down-inner"
+                                          role="img"
+                                        >
+                                          <svg
+                                            aria-hidden="true"
+                                            data-icon="down"
+                                            fill="currentColor"
+                                            focusable="false"
+                                            height="1em"
+                                            viewBox="64 64 896 896"
+                                            width="1em"
+                                          >
+                                            <path
+                                              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                                            />
+                                          </svg>
+                                        </span>
+                                      </span>
+                                    </div>
+                                    <div
+                                      class="ant-input-number-input-wrap"
+                                    >
+                                      <input
+                                        aria-valuenow="0.5"
+                                        autocomplete="off"
+                                        class="ant-input-number-input"
+                                        data-testid="300-brokerage"
+                                        id="receiver-abf77801-62cb-amount"
+                                        maxlength="17"
+                                        role="spinbutton"
+                                        step="1"
+                                        value="0.5"
+                                      />
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                        <td
+                          class="ant-table-cell brokerage-column"
+                        >
+                          <span
+                            title="BELFAST TPEUR TEST BROKER 1"
+                          >
+                            BELFAST TPEUR TEST BROKER 1
+                          </span>
+                        </td>
+                      </tr>
+                      <tr
+                        class="ant-table-row ant-table-row-level-0"
+                        data-row-key="receiver-0a6d113a-2238"
+                      >
+                        <td
+                          class="ant-table-cell"
+                        >
+                          <div>
+                            <button
+                              class="ant-btn ant-btn-circle ant-btn-icon-only"
+                              data-testid="btn-301-Add"
+                              style="background: none;"
+                              type="button"
+                            >
+                              <span
+                                aria-label="plus-circle"
+                                class="anticon anticon-plus-circle"
+                                role="img"
+                                style="color: green; cursor: pointer;"
+                              >
+                                <svg
+                                  aria-hidden="true"
+                                  data-icon="plus-circle"
+                                  fill="currentColor"
+                                  focusable="false"
+                                  height="1em"
+                                  viewBox="64 64 896 896"
+                                  width="1em"
+                                >
+                                  <path
+                                    d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm192 472c0 4.4-3.6 8-8 8H544v152c0 4.4-3.6 8-8 8h-48c-4.4 0-8-3.6-8-8V544H328c-4.4 0-8-3.6-8-8v-48c0-4.4 3.6-8 8-8h152V328c0-4.4 3.6-8 8-8h48c4.4 0 8 3.6 8 8v152h152c4.4 0 8 3.6 8 8v48z"
+                                  />
+                                </svg>
+                              </span>
+                            </button>
+                            <button
+                              class="ant-btn ant-btn-circle ant-btn-icon-only"
+                              data-testid="btn-301-Delete"
+                              style="background: none;"
+                              type="button"
+                            >
+                              <span
+                                aria-label="minus-circle"
+                                class="anticon anticon-minus-circle"
+                                role="img"
+                                style="color: red; cursor: pointer;"
+                              >
+                                <svg
+                                  aria-hidden="true"
+                                  data-icon="minus-circle"
+                                  fill="currentColor"
+                                  focusable="false"
+                                  height="1em"
+                                  viewBox="64 64 896 896"
+                                  width="1em"
+                                >
+                                  <path
+                                    d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64zm192 472c0 4.4-3.6 8-8 8H328c-4.4 0-8-3.6-8-8v-48c0-4.4 3.6-8 8-8h368c4.4 0 8 3.6 8 8v48z"
+                                  />
+                                </svg>
+                              </span>
+                            </button>
+                          </div>
+                        </td>
+                        <td
+                          class="ant-table-cell brokerage-column"
+                        >
+                          <div
+                            class="ant-row ant-form-item"
+                          >
+                            <div
+                              class="ant-col ant-form-item-control"
+                            >
+                              <div
+                                class="ant-form-item-control-input"
+                              >
+                                <div
+                                  class="ant-form-item-control-input-content"
+                                >
+                                  <div
+                                    class="ant-select ant-select-single ant-select-show-arrow ant-select-show-search"
+                                    data-testid="301-brokerGcdPostingName"
+                                    name="301brokerGcdPostingName"
+                                  >
+                                    <div
+                                      class="ant-select-selector"
+                                    >
+                                      <span
+                                        class="ant-select-selection-search"
+                                      >
+                                        <input
+                                          aria-activedescendant="receiver-0a6d113a-2238-brokerGcdPostingName_list_0"
+                                          aria-autocomplete="list"
+                                          aria-controls="receiver-0a6d113a-2238-brokerGcdPostingName_list"
+                                          aria-haspopup="listbox"
+                                          aria-owns="receiver-0a6d113a-2238-brokerGcdPostingName_list"
+                                          autocomplete="off"
+                                          class="ant-select-selection-search-input"
+                                          id="receiver-0a6d113a-2238-brokerGcdPostingName"
+                                          role="combobox"
+                                          type="search"
+                                          value=""
+                                        />
+                                      </span>
+                                      <span
+                                        class="ant-select-selection-item"
+                                        title="ALICE LIM"
+                                      >
+                                        ALICE LIM
+                                      </span>
+                                    </div>
+                                    <span
+                                      aria-hidden="true"
+                                      class="ant-select-arrow"
+                                      style="user-select: none;"
+                                      unselectable="on"
+                                    >
+                                      <span
+                                        aria-label="down"
+                                        class="anticon anticon-down ant-select-suffix"
+                                        role="img"
+                                      >
+                                        <svg
+                                          aria-hidden="true"
+                                          data-icon="down"
+                                          fill="currentColor"
+                                          focusable="false"
+                                          height="1em"
+                                          viewBox="64 64 896 896"
+                                          width="1em"
+                                        >
+                                          <path
+                                            d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                                          />
+                                        </svg>
+                                      </span>
+                                    </span>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                        <td
+                          class="ant-table-cell brokerage-column"
+                        >
+                          <div
+                            class="ant-row ant-form-item"
+                          >
+                            <div
+                              class="ant-col ant-form-item-control"
+                            >
+                              <div
+                                class="ant-form-item-control-input"
+                              >
+                                <div
+                                  class="ant-form-item-control-input-content"
+                                >
+                                  <div
+                                    class="ant-select ant-select-single ant-select-show-arrow ant-select-show-search"
+                                    data-testid="301-profitCenter"
+                                  >
+                                    <div
+                                      class="ant-select-selector"
+                                    >
+                                      <span
+                                        class="ant-select-selection-search"
+                                      >
+                                        <input
+                                          aria-activedescendant="receiver-0a6d113a-2238-profitCenter_list_0"
+                                          aria-autocomplete="list"
+                                          aria-controls="receiver-0a6d113a-2238-profitCenter_list"
+                                          aria-haspopup="listbox"
+                                          aria-owns="receiver-0a6d113a-2238-profitCenter_list"
+                                          autocomplete="off"
+                                          class="ant-select-selection-search-input"
+                                          id="receiver-0a6d113a-2238-profitCenter"
+                                          role="combobox"
+                                          type="search"
+                                          value=""
+                                        />
+                                      </span>
+                                      <span
+                                        class="ant-select-selection-item"
+                                        title="NON DELIVERY FORWARD"
+                                      >
+                                        NON DELIVERY FORWARD
+                                      </span>
+                                    </div>
+                                    <span
+                                      aria-hidden="true"
+                                      class="ant-select-arrow"
+                                      style="user-select: none;"
+                                      unselectable="on"
+                                    >
+                                      <span
+                                        aria-label="down"
+                                        class="anticon anticon-down ant-select-suffix"
+                                        role="img"
+                                      >
+                                        <svg
+                                          aria-hidden="true"
+                                          data-icon="down"
+                                          fill="currentColor"
+                                          focusable="false"
+                                          height="1em"
+                                          viewBox="64 64 896 896"
+                                          width="1em"
+                                        >
+                                          <path
+                                            d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                                          />
+                                        </svg>
+                                      </span>
+                                    </span>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                        <td
+                          class="ant-table-cell"
+                        >
+                          <div
+                            class="ant-row ant-form-item"
+                          >
+                            <div
+                              class="ant-col ant-form-item-control"
+                            >
+                              <div
+                                class="ant-form-item-control-input"
+                              >
+                                <div
+                                  class="ant-form-item-control-input-content"
+                                >
+                                  <div
+                                    class="ant-input-number ant-input-number-sm"
+                                  >
+                                    <div
+                                      class="ant-input-number-handler-wrap"
+                                    >
+                                      <span
+                                        aria-disabled="false"
+                                        aria-label="Increase Value"
+                                        class="ant-input-number-handler ant-input-number-handler-up"
+                                        role="button"
+                                        unselectable="on"
+                                      >
+                                        <span
+                                          aria-label="up"
+                                          class="anticon anticon-up ant-input-number-handler-up-inner"
+                                          role="img"
+                                        >
+                                          <svg
+                                            aria-hidden="true"
+                                            data-icon="up"
+                                            fill="currentColor"
+                                            focusable="false"
+                                            height="1em"
+                                            viewBox="64 64 896 896"
+                                            width="1em"
+                                          >
+                                            <path
+                                              d="M890.5 755.3L537.9 269.2c-12.8-17.6-39-17.6-51.7 0L133.5 755.3A8 8 0 00140 768h75c5.1 0 9.9-2.5 12.9-6.6L512 369.8l284.1 391.6c3 4.1 7.8 6.6 12.9 6.6h75c6.5 0 10.3-7.4 6.5-12.7z"
+                                            />
+                                          </svg>
+                                        </span>
+                                      </span>
+                                      <span
+                                        aria-disabled="false"
+                                        aria-label="Decrease Value"
+                                        class="ant-input-number-handler ant-input-number-handler-down"
+                                        role="button"
+                                        unselectable="on"
+                                      >
+                                        <span
+                                          aria-label="down"
+                                          class="anticon anticon-down ant-input-number-handler-down-inner"
+                                          role="img"
+                                        >
+                                          <svg
+                                            aria-hidden="true"
+                                            data-icon="down"
+                                            fill="currentColor"
+                                            focusable="false"
+                                            height="1em"
+                                            viewBox="64 64 896 896"
+                                            width="1em"
+                                          >
+                                            <path
+                                              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                                            />
+                                          </svg>
+                                        </span>
+                                      </span>
+                                    </div>
+                                    <div
+                                      class="ant-input-number-input-wrap"
+                                    >
+                                      <input
+                                        aria-valuenow="50"
+                                        autocomplete="off"
+                                        class="ant-input-number-input"
+                                        data-testid="301-percentage"
+                                        id="receiver-0a6d113a-2238-percentage"
+                                        maxlength="6"
+                                        role="spinbutton"
+                                        step="1"
+                                        value="50"
+                                      />
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                        <td
+                          class="ant-table-cell"
+                        >
+                          <div
+                            class="ant-row ant-form-item"
+                          >
+                            <div
+                              class="ant-col ant-form-item-control"
+                            >
+                              <div
+                                class="ant-form-item-control-input"
+                              >
+                                <div
+                                  class="ant-form-item-control-input-content"
+                                >
+                                  <div
+                                    class="ant-input-number ant-input-number-sm"
+                                  >
+                                    <div
+                                      class="ant-input-number-handler-wrap"
+                                    >
+                                      <span
+                                        aria-disabled="false"
+                                        aria-label="Increase Value"
+                                        class="ant-input-number-handler ant-input-number-handler-up"
+                                        role="button"
+                                        unselectable="on"
+                                      >
+                                        <span
+                                          aria-label="up"
+                                          class="anticon anticon-up ant-input-number-handler-up-inner"
+                                          role="img"
+                                        >
+                                          <svg
+                                            aria-hidden="true"
+                                            data-icon="up"
+                                            fill="currentColor"
+                                            focusable="false"
+                                            height="1em"
+                                            viewBox="64 64 896 896"
+                                            width="1em"
+                                          >
+                                            <path
+                                              d="M890.5 755.3L537.9 269.2c-12.8-17.6-39-17.6-51.7 0L133.5 755.3A8 8 0 00140 768h75c5.1 0 9.9-2.5 12.9-6.6L512 369.8l284.1 391.6c3 4.1 7.8 6.6 12.9 6.6h75c6.5 0 10.3-7.4 6.5-12.7z"
+                                            />
+                                          </svg>
+                                        </span>
+                                      </span>
+                                      <span
+                                        aria-disabled="false"
+                                        aria-label="Decrease Value"
+                                        class="ant-input-number-handler ant-input-number-handler-down"
+                                        role="button"
+                                        unselectable="on"
+                                      >
+                                        <span
+                                          aria-label="down"
+                                          class="anticon anticon-down ant-input-number-handler-down-inner"
+                                          role="img"
+                                        >
+                                          <svg
+                                            aria-hidden="true"
+                                            data-icon="down"
+                                            fill="currentColor"
+                                            focusable="false"
+                                            height="1em"
+                                            viewBox="64 64 896 896"
+                                            width="1em"
+                                          >
+                                            <path
+                                              d="M884 256h-75c-5.1 0-9.9 2.5-12.9 6.6L512 654.2 227.9 262.6c-3-4.1-7.8-6.6-12.9-6.6h-75c-6.5 0-10.3 7.4-6.5 12.7l352.6 486.1c12.8 17.6 39 17.6 51.7 0l352.6-486.1c3.9-5.3.1-12.7-6.4-12.7z"
+                                            />
+                                          </svg>
+                                        </span>
+                                      </span>
+                                    </div>
+                                    <div
+                                      class="ant-input-number-input-wrap"
+                                    >
+                                      <input
+                                        aria-valuenow="0.5"
+                                        autocomplete="off"
+                                        class="ant-input-number-input"
+                                        data-testid="301-brokerage"
+                                        id="receiver-0a6d113a-2238-amount"
+                                        maxlength="17"
+                                        role="spinbutton"
+                                        step="1"
+                                        value="0.5"
+                                      />
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </td>
+                        <td
+                          class="ant-table-cell brokerage-column"
+                        >
+                          <span
+                            title="BELFAST TPEUR TEST BROKER 1"
+                          >
+                            BELFAST TPEUR TEST BROKER 1
+                          </span>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+`;

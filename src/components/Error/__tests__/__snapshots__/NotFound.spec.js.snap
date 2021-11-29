@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NotFound> should match the snapshot 1`] = `
+<div>
+  <div
+    class="error-page"
+  >
+    <div
+      class="flex-container"
+    >
+      <div
+        class="flex-item"
+      >
+        <img
+          alt="Logo"
+          class="logo"
+          src="tpicap.png"
+        />
+        <h3
+          class="title"
+        >
+          Deal Management System
+        </h3>
+        <h4
+          class="subtitle"
+        >
+          404 - Not Found
+        </h4>
+        <p>
+          Page "
+          localhost:3000/unknown/path
+          " not found.
+        </p>
+        <button
+          class="linkbutton"
+          type="button"
+        >
+          Go back
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

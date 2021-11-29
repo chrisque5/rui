@@ -1,0 +1,83 @@
+@import "./variables.less";
+
+.dms-web-deal-edit {
+  min-width: 70rem;
+  max-width: 70rem;
+  .ant-card-head {
+    padding: 0;
+    min-height: 0;
+    .ant-card-head-title {
+      padding: 0 0 0 5px;
+      font-size: 11px;
+      background-color: @light-color;
+      color: @primary-color;
+    }
+  }
+  .ant-card-body {
+    padding: 5px;
+  }
+  .ant-collapse {
+    background-color: transparent;
+    border-bottom: 1px solid #bfe6e8;
+    .ant-collapse-item {
+      border-bottom: none;
+    }
+    .ant-collapse-header {
+      padding: 0 0 0 5px !important;
+      color: @primary-color !important;
+      background-color: @light-color;
+    }
+  }
+
+  .ant-input-number-handler-wrap {
+    display: none;
+  }
+  .deal-input-dirty {
+    .ant-input,
+    .ant-input-number,
+    .ant-select-selector
+     {
+      border: 1px solid @dark-orange !important;
+    }
+    
+  }
+  .trade-time-details {
+    .ant-steps-item-content {
+      margin-top: -35px;
+      margin-left: 15px;
+    }
+    .ant-steps-item-title {
+      color: @custom-label-color !important;
+    }
+    .ant-steps-item-icon {
+      width: 8px;
+      height: 8px;
+    }
+  }
+  .brokerage-amount-panel {
+    .deal-ccy {
+      width: 70px;
+    }
+  }
+  .brokerage-allocations {
+    .ant-empty-normal {
+      margin: 15px 0;
+    }
+    .ant-card-body {
+      padding: 1px;
+    }
+
+    .brokerage-column {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 70px;
+    }
+    .ant-table-thead > tr > th .anticon {
+      font-size: 13px;
+    }
+    .ant-form-item-explain {
+      width: 150px;
+    }
+  }
+}

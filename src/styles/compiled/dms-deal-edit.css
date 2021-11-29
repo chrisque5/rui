@@ -1,0 +1,70 @@
+.dms-web-deal-edit {
+  min-width: 70rem;
+  max-width: 70rem;
+}
+.dms-web-deal-edit .ant-card-head {
+  padding: 0;
+  min-height: 0;
+}
+.dms-web-deal-edit .ant-card-head .ant-card-head-title {
+  padding: 0 0 0 5px;
+  font-size: 11px;
+  background-color: #e6f5fc;
+  color: #0180a0;
+}
+.dms-web-deal-edit .ant-card-body {
+  padding: 5px;
+}
+.dms-web-deal-edit .ant-collapse {
+  background-color: transparent;
+  border-bottom: 1px solid #bfe6e8;
+}
+.dms-web-deal-edit .ant-collapse .ant-collapse-item {
+  border-bottom: none;
+}
+.dms-web-deal-edit .ant-collapse .ant-collapse-header {
+  padding: 0 0 0 5px !important;
+  color: #0180a0 !important;
+  background-color: #e6f5fc;
+}
+.dms-web-deal-edit .ant-input-number-handler-wrap {
+  display: none;
+}
+.dms-web-deal-edit .deal-input-dirty .ant-input,
+.dms-web-deal-edit .deal-input-dirty .ant-input-number,
+.dms-web-deal-edit .deal-input-dirty .ant-select-selector {
+  border: 1px solid #FF7E00 !important;
+}
+.dms-web-deal-edit .trade-time-details .ant-steps-item-content {
+  margin-top: -35px;
+  margin-left: 15px;
+}
+.dms-web-deal-edit .trade-time-details .ant-steps-item-title {
+  color: #6e777c !important;
+}
+.dms-web-deal-edit .trade-time-details .ant-steps-item-icon {
+  width: 8px;
+  height: 8px;
+}
+.dms-web-deal-edit .brokerage-amount-panel .deal-ccy {
+  width: 70px;
+}
+.dms-web-deal-edit .brokerage-allocations .ant-empty-normal {
+  margin: 15px 0;
+}
+.dms-web-deal-edit .brokerage-allocations .ant-card-body {
+  padding: 1px;
+}
+.dms-web-deal-edit .brokerage-allocations .brokerage-column {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 70px;
+}
+.dms-web-deal-edit .brokerage-allocations .ant-table-thead > tr > th .anticon {
+  font-size: 13px;
+}
+.dms-web-deal-edit .brokerage-allocations .ant-form-item-explain {
+  width: 150px;
+}
+/*# sourceMappingURL=dms-deal-edit.css.map */
